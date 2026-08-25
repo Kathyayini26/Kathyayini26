@@ -10,7 +10,7 @@
 
 ---
 
-### Hi, I'm Kathyayini Prabhu 👋
+### About Me
 
 I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
 
@@ -20,7 +20,7 @@ I enjoy building practical software solutions, exploring data-driven technologie
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### 🎓 Education
+### Education
 
 * **B.E. in Artificial Intelligence & Data Science**  
   **BMS College of Engineering (BMSCE)** — Bengaluru, Karnataka, India  
@@ -30,37 +30,35 @@ I enjoy building practical software solutions, exploring data-driven technologie
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### 🎯 Current Focus
+### Current Focus
 
-- 📊 **Data Analytics** — Extracting actionable insights from structured & unstructured datasets
-- 💻 **Full Stack Development** — Crafting responsive web applications with React & Flask
-- 🤖 **Machine Learning** — Developing predictive models for real-world domain challenges
-- 🚀 **Building Real-World Projects** — Transforming concepts into usable software solutions
+- **Data Analytics** — Extracting actionable insights from structured & unstructured datasets
+- **Full Stack Development** — Crafting responsive web applications with React & Flask
+- **Machine Learning** — Developing predictive models for real-world domain challenges
+- **Building Real-World Projects** — Transforming concepts into usable software solutions
 
 ---
 
-### 🌱 Currently Learning
+### Currently Learning
 
-- 🐍 **Advanced Python Development** — Object-oriented architecture, async programming & best practices
-- 📈 **Data Visualization** — Creating clean, interactive data stories and dashboards
-- 🧠 **Machine Learning Applications** — Practical feature engineering, evaluation metrics & deployment
-- ⚡ **Modern Web Development** — Component-driven UI design & robust API design
+- **Advanced Python Development** — Object-oriented architecture, async programming & clean code practices
+- **Data Visualization** — Creating clean, interactive data stories and dashboards
+- **Machine Learning Applications** — Practical feature engineering, evaluation metrics & model deployment
+- **Modern Web Development** — Component-driven UI design & robust API development
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### 💻 Skills
+### Technical Skills
 
-#### **Languages & Development**
+#### **Languages**
 <p>
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
   &nbsp;
   <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
   &nbsp;
   <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
 </p>
 
 #### **Frameworks & Tools**
@@ -80,17 +78,17 @@ I enjoy building practical software solutions, exploring data-driven technologie
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### 🚀 Featured Projects
+### Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3 align="center">🧬 BioWeaver</h3>
+      <h3 align="center">BioWeaver</h3>
       <p>AI-powered biological discovery platform that integrates biological knowledge graphs, predicts gene–disease relationships, and generates explainable research hypotheses.</p>
       <p><b>Technologies:</b><br />
-        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
       </p>
       <p align="center">
         <a href="https://github.com/Kathyayini26/bioweaver">
@@ -99,7 +97,7 @@ I enjoy building practical software solutions, exploring data-driven technologie
       </p>
     </td>
     <td width="50%" valign="top">
-      <h3 align="center">🚢 AI Maritime Risk Intelligence</h3>
+      <h3 align="center">AI Maritime Risk Intelligence</h3>
       <p>AI-powered maritime logistics intelligence platform for route risk prediction, seasonal forecasting, alternative port optimization, and interactive mapping.</p>
       <p><b>Technologies:</b><br />
         <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
@@ -119,19 +117,7 @@ I enjoy building practical software solutions, exploring data-driven technologie
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathyayini26&show_icons=true&theme=tokyonight&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Kathyayini's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathyayini26&layout=compact&theme=tokyonight&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-### 📫 Connect With Me
+### Connect With Me
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kathyayini-prabhu-6145a4337/" target="_blank">
@@ -145,8 +131,4 @@ I enjoy building practical software solutions, exploring data-driven technologie
   <a href="https://github.com/Kathyayini26">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
-<p align="center">
-  <sub>Designed with ❤️ for <b>Kathyayini Prabhu</b> • BMS College of Engineering (BMSCE)</sub>
 </p>
