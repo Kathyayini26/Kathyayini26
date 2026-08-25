@@ -1,0 +1,156 @@
+<svg fill="none" width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Rich Flowing Background Gradient -->
+    <linearGradient id="header-bg-v5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19">
+        <animate attributeName="stop-color" values="#0B0F19; #0F172A; #1E1B4B; #0B0F19" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0F172A; #1E1B4B; #092540; #0F172A" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A192F">
+        <animate attributeName="stop-color" values="#0A192F; #0B0F19; #0F172A; #0A192F" dur="14s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Glowing Cyan/Emerald/Violet Border -->
+    <linearGradient id="neon-border-v5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="33%" stop-color="#38BDF8" />
+      <stop offset="66%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <linearGradient id="name-grad-v5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="70%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow-v5" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="800" height="240" rx="14" fill="url(#header-bg-v5)" stroke="url(#neon-border-v5)" stroke-width="1.5" />
+
+  <!-- Top Accent Shimmer -->
+  <rect x="0" y="0" width="800" height="5" rx="2.5" fill="url(#neon-border-v5)" filter="url(#glow-v5)" />
+
+  <!-- Ambient Wave Line -->
+  <path d="M 0 170 Q 200 140 400 170 T 800 170" fill="none" stroke="url(#neon-border-v5)" stroke-width="1.2" opacity="0.35" />
+
+  <!-- Vector Illustration: Female AI & Data Engineer with Laptop & Data Graphs (Right Side) -->
+  <g transform="translate(560, 20)">
+    <!-- Glowing Backdrop Aura -->
+    <circle cx="110" cy="100" r="75" fill="#38BDF8" opacity="0.08" filter="url(#glow-v5)" />
+
+    <!-- RISING DATA ANALYTICS GRAPH (Rising from Laptop) -->
+    <g transform="translate(10, 20)">
+      <!-- Animated Data Trend Line -->
+      <path d="M 20 80 Q 50 40 80 60 T 140 20 T 190 10" fill="none" stroke="#38BDF8" stroke-width="2.5" filter="url(#glow-v5)">
+        <animate attributeName="d" values="M 20 80 Q 50 40 80 60 T 140 20 T 190 10; M 20 80 Q 50 60 80 30 T 140 40 T 190 10; M 20 80 Q 50 40 80 60 T 140 20 T 190 10" dur="5s" repeatCount="indefinite" />
+      </path>
+
+      <!-- Data Nodes on Trend Line -->
+      <circle cx="20" cy="80" r="3.5" fill="#38BDF8" />
+      <circle cx="80" cy="60" r="4" fill="#34D399" />
+      <circle cx="140" cy="20" r="4.5" fill="#A78BFA" filter="url(#glow-v5)" />
+      <circle cx="190" cy="10" r="5" fill="#00F2FE" filter="url(#glow-v5)">
+        <animate attributeName="r" values="4;6.5;4" dur="2s" repeatCount="indefinite" />
+      </circle>
+
+      <!-- Analytics Bar Chart (Under Graph) -->
+      <rect x="30" y="70" width="10" height="25" rx="3" fill="#38BDF8" opacity="0.7">
+        <animate attributeName="height" values="25;40;25" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="y" values="70;55;70" dur="3s" repeatCount="indefinite" />
+      </rect>
+      <rect x="50" y="55" width="10" height="40" rx="3" fill="#34D399" opacity="0.8">
+        <animate attributeName="height" values="40;20;40" dur="3.5s" repeatCount="indefinite" />
+        <animate attributeName="y" values="55;75;55" dur="3.5s" repeatCount="indefinite" />
+      </rect>
+      <rect x="70" y="45" width="10" height="50" rx="3" fill="#A78BFA" opacity="0.7">
+        <animate attributeName="height" values="50;60;50" dur="2.8s" repeatCount="indefinite" />
+        <animate attributeName="y" values="45;35;45" dur="2.8s" repeatCount="indefinite" />
+      </rect>
+      <rect x="90" y="60" width="10" height="35" rx="3" fill="#F59E0B" opacity="0.7" />
+      <rect x="110" y="35" width="10" height="60" rx="3" fill="#38BDF8" opacity="0.8">
+        <animate attributeName="height" values="60;45;60" dur="3.2s" repeatCount="indefinite" />
+        <animate attributeName="y" values="35;50;35" dur="3.2s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- FEMALE DEVELOPER / LADY VECTOR FIGURE -->
+    <g transform="translate(45, 85)">
+      <!-- Hair (Stylized Bun / Ponytail) -->
+      <path d="M 42 12 C 32 12 24 20 24 32 C 24 40 28 46 32 50 L 22 55 L 20 70 L 30 70 L 35 52 C 40 54 44 54 49 52 Z" fill="#38BDF8" />
+      <circle cx="20" cy="58" r="8" fill="#A78BFA" />
+
+      <!-- Head & Face Profile -->
+      <circle cx="44" cy="28" r="14" fill="#F1F5F9" />
+
+      <!-- Torso / Blazer -->
+      <path d="M 22 65 C 22 52 66 52 66 65 L 72 105 L 16 105 Z" fill="#1E293B" stroke="#38BDF8" stroke-width="1.5" />
+      <!-- Collar Accent -->
+      <path d="M 38 52 L 44 68 L 50 52" fill="none" stroke="#34D399" stroke-width="1.5" />
+
+      <!-- Arms Holding Laptop -->
+      <path d="M 18 72 L 32 88 L 62 88 L 70 72" fill="none" stroke="#F1F5F9" stroke-width="3" stroke-linecap="round" />
+
+      <!-- LAPTOP COMPUTER -->
+      <!-- Screen (Open & Glowing) -->
+      <polygon points="26,62 62,62 66,82 22,82" fill="#0F172A" stroke="#38BDF8" stroke-width="1.5" filter="url(#glow-v5)" />
+      <!-- Screen Display Graphics -->
+      <rect x="32" y="66" width="24" height="12" rx="2" fill="#161B22" />
+      <path d="M 34 74 L 42 70 L 48 72 L 54 68" fill="none" stroke="#34D399" stroke-width="1" />
+
+      <!-- Laptop Base / Keyboard -->
+      <polygon points="18,82 70,82 76,88 12,88" fill="#334155" stroke="#38BDF8" stroke-width="1" />
+    </g>
+
+    <!-- Caption Label -->
+    <text x="100" y="200" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="1">DATA ANALYTICS &amp; AI</text>
+  </g>
+
+  <!-- Left Accent Line -->
+  <rect x="36" y="38" width="5" height="160" rx="2.5" fill="url(#neon-border-v5)" filter="url(#glow-v5)" />
+
+  <!-- Main Name Title -->
+  <text x="60" y="82" fill="url(#name-grad-v5)" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+    Kathyayini Prabhu
+  </text>
+
+  <!-- Role Subtitle -->
+  <text x="60" y="116" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" letter-spacing="0.2">
+    3rd Year Artificial Intelligence &amp; Data Science Student
+  </text>
+
+  <!-- Institution Tagline -->
+  <text x="60" y="144" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">
+    BMS College of Engineering (BMSCE) • Bengaluru, India
+  </text>
+
+  <!-- Badges Row at Bottom -->
+  <g transform="translate(60, 168)">
+    <rect width="125" height="22" rx="11" fill="#1E293B" stroke="#38BDF8" stroke-width="0.8" />
+    <text x="62.5" y="15" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA SCIENCE</text>
+
+    <rect x="135" width="130" height="22" rx="11" fill="#1E293B" stroke="#34D399" stroke-width="0.8" />
+    <text x="200" y="15" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA ANALYTICS</text>
+
+    <rect x="275" width="165" height="22" rx="11" fill="#1E293B" stroke="#A78BFA" stroke-width="0.8" />
+    <text x="357.5" y="15" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">ARTIFICIAL INTELLIGENCE</text>
+  </g>
+
+  <!-- Top Right Live Status Badge -->
+  <g transform="translate(575, 18)">
+    <rect width="190" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-width="1" opacity="0.9" />
+    <circle cx="15" cy="13" r="4" fill="#10B981" filter="url(#glow-v5)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="27" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600">AI &amp; Data Science Student</text>
+  </g>
+</svg>
