@@ -6,14 +6,14 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Full+Stack+Software;Exploring+Machine+Learning+%26+Data+Analytics" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through AI, SQL, data analytics, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through Artificial Intelligence, SQL database design, data analytics, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/profile-highlight.svg" width="100%" alt="Academic & Technical Highlights" />
+  <img src="./assets/spotlight-card.svg" width="100%" alt="Academic Spotlight Card" />
 </p>
 
 <p align="center">
-  <img src="./assets/feature-card.svg" width="100%" alt="Technical Pillars" />
+  <img src="./assets/feature-card.svg" width="100%" alt="Technical Pillars: Software Dev, SQL & Data, Machine Learning, Artificial Intelligence" />
 </p>
 
 ---
@@ -40,7 +40,7 @@ I enjoy building practical software solutions, working with relational database 
 
 ### Current Focus
 
-- **Artificial Intelligence & ML** — Developing intelligent systems and predictive algorithms for real-world domains
+- **Artificial Intelligence & ML** — Developing intelligent systems and predictive algorithms for real-world domain challenges
 - **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
 - **Data Analytics** — Extracting actionable insights from structured datasets
 - **Full Stack Development** — Building responsive web applications with React, Flask & Python
@@ -50,7 +50,7 @@ I enjoy building practical software solutions, working with relational database 
 
 ### Currently Learning
 
-- **Advanced AI & Machine Learning** — Practical feature engineering, algorithm tuning & model evaluation
+- **Advanced Artificial Intelligence & ML** — Practical feature engineering, algorithm tuning & model evaluation
 - **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
 - **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
 - **Modern Web Development** — Component-driven frontend architecture & RESTful API design
@@ -133,11 +133,11 @@ I enjoy building practical software solutions, working with relational database 
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="mailto:kathyayini2021@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  <a href="https://mail.google.com/mail/?view=cm&fs=1&to=kathyayini2021@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/Kathyayini26">
+  <a href="https://github.com/Kathyayini26" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
 </p>
