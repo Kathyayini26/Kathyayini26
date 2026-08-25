@@ -1,0 +1,103 @@
+<svg fill="none" width="800" height="220" viewBox="0 0 800 220" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Background Gradient -->
+    <linearGradient id="bgGradient" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0f172a" />
+      <stop offset="50%" stop-color="#1e293b" />
+      <stop offset="100%" stop-color="#0f172a" />
+    </linearGradient>
+
+    <!-- Accent Blue Gradient -->
+    <linearGradient id="blueGlow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38bdf8" />
+      <stop offset="50%" stop-color="#0284c7" />
+      <stop offset="100%" stop-color="#2563eb" />
+    </linearGradient>
+
+    <!-- Glowing Lines Pattern -->
+    <linearGradient id="lineGlow" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#38bdf8" stop-opacity="0.6" />
+      <stop offset="100%" stop-color="#0284c7" stop-opacity="0.1" />
+    </linearGradient>
+
+    <!-- Card Glow Filter -->
+    <filter id="glow" x="-10%" y="-10%" width="120%" height="120%">
+      <feGaussianBlur stdDeviation="6" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Background -->
+  <rect width="800" height="220" rx="16" fill="url(#bgGradient)" stroke="#334155" stroke-width="1.5" />
+
+  <!-- Grid / Mesh Pattern -->
+  <g opacity="0.15">
+    <path d="M0 40 H800 M0 80 H800 M0 120 H800 M0 160 H800 M0 200 H800" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4 4"/>
+    <path d="M100 0 V220 M200 0 V220 M300 0 V220 M400 0 V220 M500 0 V220 M600 0 V220 M700 0 V220" stroke="#38bdf8" stroke-width="1" stroke-dasharray="4 4"/>
+  </g>
+
+  <!-- Neural Network Visual Nodes (Right Side) -->
+  <g opacity="0.85">
+    <!-- Network Connections -->
+    <line x1="580" y1="60" x2="660" y2="40" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="580" y1="60" x2="660" y2="110" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="580" y1="60" x2="660" y2="170" stroke="url(#lineGlow)" stroke-width="1.5" />
+    
+    <line x1="580" y1="120" x2="660" y2="40" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="580" y1="120" x2="660" y2="110" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="580" y1="120" x2="660" y2="170" stroke="url(#lineGlow)" stroke-width="1.5" />
+
+    <line x1="580" y1="170" x2="660" y2="110" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="580" y1="170" x2="660" y2="170" stroke="url(#lineGlow)" stroke-width="1.5" />
+
+    <line x1="660" y1="40" x2="740" y2="80" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="660" y1="110" x2="740" y2="80" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="660" y1="110" x2="740" y2="140" stroke="url(#lineGlow)" stroke-width="1.5" />
+    <line x1="660" y1="170" x2="740" y2="140" stroke="url(#lineGlow)" stroke-width="1.5" />
+
+    <!-- Input Nodes -->
+    <circle cx="580" cy="60" r="5" fill="#38bdf8" filter="url(#glow)" />
+    <circle cx="580" cy="120" r="5" fill="#0284c7" filter="url(#glow)" />
+    <circle cx="580" cy="170" r="5" fill="#38bdf8" filter="url(#glow)" />
+
+    <!-- Hidden Layer Nodes -->
+    <circle cx="660" cy="40" r="6" fill="#60a5fa" filter="url(#glow)" />
+    <circle cx="660" cy="110" r="7" fill="#38bdf8" filter="url(#glow)" />
+    <circle cx="660" cy="170" r="6" fill="#0284c7" filter="url(#glow)" />
+
+    <!-- Output Nodes -->
+    <circle cx="740" cy="80" r="6" fill="#38bdf8" filter="url(#glow)" />
+    <circle cx="740" cy="140" r="6" fill="#60a5fa" filter="url(#glow)" />
+  </g>
+
+  <!-- Left Accent Bar -->
+  <rect x="40" y="45" width="5" height="130" rx="2.5" fill="url(#blueGlow)" filter="url(#glow)" />
+
+  <!-- Main Content Text -->
+  <g transform="translate(60, 0)">
+    <!-- AI Tag/Badge -->
+    <rect x="0" y="45" width="160" height="24" rx="12" fill="#1e293b" stroke="#38bdf8" stroke-width="1" />
+    <text x="80" y="61" fill="#38bdf8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="11" font-weight="700" letter-spacing="1.2" text-anchor="middle">AI &amp; DATA SCIENCE</text>
+
+    <!-- Name -->
+    <text x="0" y="112" fill="#ffffff" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">Kathyayini Prabhu</text>
+
+    <!-- Title / Subtitle -->
+    <text x="0" y="142" fill="#94a3b8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Helvetica, Arial, sans-serif" font-size="16" font-weight="500">AI &amp; Machine Learning Engineer | Computer Vision &amp; Predictive Analytics</text>
+
+    <!-- Pill Badges -->
+    <g transform="translate(0, 158)">
+      <rect x="0" y="0" width="115" height="22" rx="6" fill="#0f172a" stroke="#0284c7" stroke-width="1" />
+      <text x="57" y="15" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" text-anchor="middle">🧠 Deep Learning</text>
+
+      <rect x="123" y="0" width="125" height="22" rx="6" fill="#0f172a" stroke="#0284c7" stroke-width="1" />
+      <text x="185" y="15" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" text-anchor="middle">👁️ Computer Vision</text>
+
+      <rect x="256" y="0" width="95" height="22" rx="6" fill="#0f172a" stroke="#0284c7" stroke-width="1" />
+      <text x="303" y="15" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" text-anchor="middle">🎙️ Voice &amp; NLP</text>
+
+      <rect x="359" y="0" width="100" height="22" rx="6" fill="#0f172a" stroke="#0284c7" stroke-width="1" />
+      <text x="409" y="15" fill="#e2e8f0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="600" text-anchor="middle">⚡ Full Stack AI</text>
+    </g>
+  </g>
+</svg>
