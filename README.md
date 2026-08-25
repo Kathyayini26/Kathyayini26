@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/portfolio-header.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/header-v2.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 > **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Data Science, Data Analytics, SQL, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/portfolio-grid.svg" width="100%" alt="Core Technical Pillars: Software Engineering, SQL & Database, Data Science & Data Analytics, Artificial Intelligence" />
+  <img src="./assets/grid-v2.svg" width="100%" alt="Core Technical Pillars: Data Science, Data Analytics, SQL & Database, Artificial Intelligence" />
 </p>
 
 ---
