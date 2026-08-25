@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header-v7.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/header-pro.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=58A6FF&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
 </p>
 
 > **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/grid-v3.svg" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
+  <img src="./assets/grid-pro.svg" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
 </p>
 
 ---
@@ -86,7 +86,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 ### Featured Projects
 
 <p align="center">
-  <img src="./assets/projects-v3.svg" width="100%" alt="Featured Projects Showcase Card: BioWeaver & AI Maritime Risk Intelligence" />
+  <img src="./assets/projects-pro.svg" width="100%" alt="Featured Projects Showcase Card: BioWeaver & AI Maritime Risk Intelligence" />
 </p>
 
 <p align="center">
