@@ -1,0 +1,93 @@
+<svg fill="none" width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Canva Dark Slate Background -->
+    <linearGradient id="canva-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E293B" />
+      <stop offset="100%" stop-color="#0B132B" />
+    </linearGradient>
+
+    <!-- Canva Vibrant Accent Lines -->
+    <linearGradient id="canva-accent" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="33%" stop-color="#38BDF8" />
+      <stop offset="66%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#8B5CF6" />
+    </linearGradient>
+  </defs>
+
+  <!-- Main Canva Frame -->
+  <rect width="800" height="230" rx="16" fill="url(#canva-bg)" stroke="#334155" stroke-width="1.5" />
+
+  <!-- Top Accent Bar -->
+  <rect x="0" y="0" width="800" height="5" rx="2.5" fill="url(#canva-accent)" />
+
+  <!-- Canva Graphic Layout (Right Side Stacked Glass Cards) -->
+  <g transform="translate(510, 24)">
+    <!-- Soft Background Ambient Circles -->
+    <circle cx="160" cy="90" r="70" fill="#2563EB" opacity="0.12" />
+    <circle cx="90" cy="130" r="50" fill="#10B981" opacity="0.1" />
+
+    <!-- Card 1: Data Science -->
+    <g transform="translate(0, 0)">
+      <rect width="250" height="42" rx="10" fill="#1E293B" stroke="#38BDF8" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="7" fill="#38BDF8" />
+      <text x="38" y="25" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Data Science &amp; Analytics</text>
+    </g>
+
+    <!-- Card 2: Machine Learning -->
+    <g transform="translate(20, 52)">
+      <rect width="250" height="42" rx="10" fill="#1E293B" stroke="#10B981" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="7" fill="#10B981" />
+      <text x="38" y="25" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Machine Learning Systems</text>
+    </g>
+
+    <!-- Card 3: SQL & Relational DBs -->
+    <g transform="translate(0, 104)">
+      <rect width="250" height="42" rx="10" fill="#1E293B" stroke="#F59E0B" stroke-width="1.2" />
+      <circle cx="22" cy="21" r="7" fill="#F59E0B" />
+      <text x="38" y="25" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">SQL &amp; Database Architecture</text>
+    </g>
+
+    <!-- Card 4: BMSCE Tag -->
+    <g transform="translate(20, 156)">
+      <rect width="250" height="26" rx="13" fill="#0F172A" stroke="#8B5CF6" stroke-width="1" />
+      <circle cx="16" cy="13" r="4" fill="#8B5CF6" />
+      <text x="28" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="11" font-weight="600">BMSCE • 2026 Batch</text>
+    </g>
+  </g>
+
+  <!-- Left Side: Clean Canva Typography Layout -->
+  <g transform="translate(44, 38)">
+    <!-- Small Category Pill -->
+    <rect width="175" height="24" rx="12" fill="#1E293B" stroke="#38BDF8" stroke-width="1" />
+    <text x="14" y="16" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10.5" font-weight="800" letter-spacing="0.8">PORTFOLIO SHOWCASE</text>
+
+    <!-- Big Bold Name -->
+    <text x="0" y="72" fill="#F8FAFC" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+      Kathyayini Prabhu
+    </text>
+
+    <!-- Role Subtitle -->
+    <text x="0" y="104" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="16.5" font-weight="700">
+      3rd Year Artificial Intelligence &amp; Data Science Student
+    </text>
+
+    <!-- College Tagline -->
+    <text x="0" y="130" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">
+      BMS College of Engineering (BMSCE) • Bengaluru, India
+    </text>
+
+    <!-- Badges Row -->
+    <g transform="translate(0, 148)">
+      <rect width="115" height="24" rx="6" fill="#2563EB" opacity="0.85" />
+      <text x="57.5" y="16" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle">Python &amp; C</text>
+
+      <rect x="123" width="115" height="24" rx="6" fill="#10B981" opacity="0.85" />
+      <text x="180.5" y="16" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle">SQL &amp; MySQL</text>
+
+      <rect x="246" width="175" height="24" rx="6" fill="#8B5CF6" opacity="0.85" />
+      <text x="333.5" y="16" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="700" text-anchor="middle">AI &amp; Machine Learning</text>
+    </g>
+  </g>
+</svg>
