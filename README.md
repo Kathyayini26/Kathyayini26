@@ -3,13 +3,17 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+Practical+Software+Solutions;Exploring+Data+Analytics+%26+Machine+Learning" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Full+Stack+Software;Exploring+Machine+Learning+%26+Data+Analytics" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through data, development, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through AI, SQL, data analytics, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/feature-card.svg" width="100%" alt="Technical Focus Pillars" />
+  <img src="./assets/profile-highlight.svg" width="100%" alt="Academic & Technical Highlights" />
+</p>
+
+<p align="center">
+  <img src="./assets/feature-card.svg" width="100%" alt="Technical Pillars" />
 </p>
 
 ---
@@ -18,7 +22,7 @@
 
 I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
 
-I enjoy building practical software solutions, exploring data-driven technologies, and continuously improving my development and problem-solving skills. My interests span software development, data analytics, and machine learning, with a focus on creating impactful real-world projects.
+I enjoy building practical software solutions, working with relational database architectures, exploring data-driven technologies, and continuously improving my development and problem-solving skills. My interests span software development, artificial intelligence, data analytics, SQL database design, and machine learning, with a focus on creating impactful real-world projects.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -36,19 +40,20 @@ I enjoy building practical software solutions, exploring data-driven technologie
 
 ### Current Focus
 
-- **Data Analytics** — Extracting actionable insights from structured & unstructured datasets
-- **Full Stack Development** — Crafting responsive web applications with React & Flask
-- **Machine Learning** — Developing predictive models for real-world domain challenges
-- **Building Real-World Projects** — Transforming concepts into usable software solutions
+- **Artificial Intelligence & ML** — Developing intelligent systems and predictive algorithms for real-world domains
+- **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
+- **Data Analytics** — Extracting actionable insights from structured datasets
+- **Full Stack Development** — Building responsive web applications with React, Flask & Python
+- **Building Real-World Projects** — Transforming concepts into robust software solutions
 
 ---
 
 ### Currently Learning
 
-- **Advanced Python Development** — Object-oriented architecture, async programming & clean code practices
-- **Data Visualization** — Creating clean, interactive data stories and dashboards
-- **Machine Learning Applications** — Practical feature engineering, evaluation metrics & model deployment
-- **Modern Web Development** — Component-driven UI design & robust API development
+- **Advanced AI & Machine Learning** — Practical feature engineering, algorithm tuning & model evaluation
+- **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
+- **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
+- **Modern Web Development** — Component-driven frontend architecture & RESTful API design
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />

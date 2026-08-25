@@ -1,0 +1,57 @@
+<svg fill="none" width="800" height="140" viewBox="0 0 800 140" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="highlight-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="50%" stop-color="#1E1B4B" />
+      <stop offset="100%" stop-color="#0D1117" />
+    </linearGradient>
+
+    <linearGradient id="glow-line" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container -->
+  <rect width="800" height="140" rx="10" fill="url(#highlight-bg)" stroke="#30363D" stroke-width="1.2" />
+
+  <!-- Top Shimmer Border Line -->
+  <rect x="0" y="0" width="800" height="3" rx="1.5" fill="url(#glow-line)" />
+
+  <!-- Content Grid -->
+  <g transform="translate(30, 25)">
+    <!-- Column 1: Core Discipline -->
+    <g transform="translate(0, 0)">
+      <text x="0" y="16" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">ACADEMIC DISCIPLINE</text>
+      <text x="0" y="38" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">AI &amp; Data Science</text>
+      <text x="0" y="58" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">BMSCE, Bengaluru (3rd Year)</text>
+    </g>
+
+    <!-- Divider Line 1 -->
+    <line x1="220" y1="10" x2="220" y2="75" stroke="#334155" stroke-width="1" />
+
+    <!-- Column 2: Data & SQL Analytics -->
+    <g transform="translate(245, 0)">
+      <text x="0" y="16" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">DATA &amp; SQL ENGINE</text>
+      <text x="0" y="38" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">SQL &amp; Database Design</text>
+      <text x="0" y="58" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">MySQL, Queries &amp; Data Analysis</text>
+    </g>
+
+    <!-- Divider Line 2 -->
+    <line x1="495" y1="10" x2="495" y2="75" stroke="#334155" stroke-width="1" />
+
+    <!-- Column 3: AI & Web Systems -->
+    <g transform="translate(520, 0)">
+      <text x="0" y="16" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="700" letter-spacing="0.5">APPLIED AI &amp; WEB</text>
+      <text x="0" y="38" fill="#F0F6FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14" font-weight="600">Python, Flask &amp; React</text>
+      <text x="0" y="58" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">ML Models &amp; Full Stack Apps</text>
+    </g>
+  </g>
+
+  <!-- Bottom Quote Bar -->
+  <rect x="30" y="100" width="740" height="24" rx="6" fill="#1E293B" opacity="0.6" />
+  <text x="42" y="116" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-style="italic">
+    "Solving real-world problems through data analytics, artificial intelligence, and clean software development."
+  </text>
+</svg>
