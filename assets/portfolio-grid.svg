@@ -8,15 +8,15 @@
     <linearGradient id="grid-glow" x1="0%" y1="0%" x2="100%" y2="0%">
       <stop offset="0%" stop-color="#38BDF8" />
       <stop offset="33%" stop-color="#34D399" />
-      <stop offset="66%" stop-color="#818CF8" />
-      <stop offset="100%" stop-color="#F43F5E" />
+      <stop offset="66%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#A78BFA" />
     </linearGradient>
   </defs>
 
   <!-- Container Box -->
   <rect width="800" height="120" rx="12" fill="url(#grid-bg)" stroke="url(#grid-glow)" stroke-width="1.2" />
 
-  <!-- 4 Core Technical Pillar Boxes -->
+  <!-- 4 Technical Pillar Boxes -->
   <g transform="translate(18, 20)">
     <!-- Box 1: Software Engineering -->
     <g transform="translate(0, 0)">
@@ -34,20 +34,20 @@
       <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Relational Schemas</text>
     </g>
 
-    <!-- Box 3: Artificial Intelligence -->
+    <!-- Box 3: Data Science & Analytics -->
     <g transform="translate(384, 0)">
-      <rect width="180" height="80" rx="8" fill="#1E293B" stroke="#818CF8" stroke-width="1.2" />
-      <text x="14" y="28" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="800" letter-spacing="0.4">ARTIFICIAL INTEL.</text>
-      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">AI &amp; ML Systems</text>
-      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Predictive Analytics</text>
+      <rect width="180" height="80" rx="8" fill="#1E293B" stroke="#F59E0B" stroke-width="1.2" />
+      <text x="14" y="28" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="800" letter-spacing="0.4">DATA SCIENCE</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Data Analytics</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Insights &amp; Modeling</text>
     </g>
 
-    <!-- Box 4: Web Frameworks -->
+    <!-- Box 4: Artificial Intelligence -->
     <g transform="translate(576, 0)">
-      <rect width="180" height="80" rx="8" fill="#1E293B" stroke="#F43F5E" stroke-width="1.2" />
-      <text x="14" y="28" fill="#F43F5E" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="800" letter-spacing="0.4">WEB FRAMEWORKS</text>
-      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">React &amp; Flask</text>
-      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Full-Stack Apps</text>
+      <rect width="180" height="80" rx="8" fill="#1E293B" stroke="#A78BFA" stroke-width="1.2" />
+      <text x="14" y="28" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11" font-weight="800" letter-spacing="0.4">ARTIFICIAL INTEL.</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">AI &amp; ML Systems</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Predictive Analytics</text>
     </g>
   </g>
 </svg>
