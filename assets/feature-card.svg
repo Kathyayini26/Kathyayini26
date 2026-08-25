@@ -1,0 +1,46 @@
+<svg fill="none" width="800" height="110" viewBox="0 0 800 110" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="card-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <linearGradient id="glow-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <filter id="soft-glow">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Main Card Container -->
+  <rect width="800" height="110" rx="10" fill="url(#card-bg)" stroke="url(#glow-border)" stroke-width="1.2" />
+
+  <!-- 3 Pillar Columns -->
+  <g transform="translate(30, 22)">
+    <!-- Column 1: Software Development -->
+    <g transform="translate(0, 0)">
+      <rect width="225" height="66" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="18" y="28" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">SOFTWARE DEVELOPMENT</text>
+      <text x="18" y="48" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400">Clean Code &amp; Web Architectures</text>
+    </g>
+
+    <!-- Column 2: Data Analytics -->
+    <g transform="translate(255, 0)">
+      <rect width="225" height="66" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="18" y="28" fill="#818CF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">DATA ANALYTICS</text>
+      <text x="18" y="48" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400">Insights &amp; Predictive Modeling</text>
+    </g>
+
+    <!-- Column 3: Machine Learning -->
+    <g transform="translate(510, 0)">
+      <rect width="225" height="66" rx="8" fill="#1E293B" stroke="#334155" stroke-width="1" />
+      <text x="18" y="28" fill="#C084FC" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="13" font-weight="700">MACHINE LEARNING</text>
+      <text x="18" y="48" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="400">Applied ML &amp; Problem Solving</text>
+    </g>
+  </g>
+</svg>

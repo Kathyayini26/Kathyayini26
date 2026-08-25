@@ -8,6 +8,10 @@
 
 > **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through data, development, and continuous learning.**
 
+<p align="center">
+  <img src="./assets/feature-card.svg" width="100%" alt="Technical Focus Pillars" />
+</p>
+
 ---
 
 ### About Me
