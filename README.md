@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v5.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/header-v6.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">

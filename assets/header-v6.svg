@@ -1,0 +1,153 @@
+<svg fill="none" width="800" height="240" viewBox="0 0 800 240" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Rich Flowing Background Gradient -->
+    <linearGradient id="header-bg-v6" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19">
+        <animate attributeName="stop-color" values="#0B0F19; #0F172A; #1E1B4B; #0B0F19" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0F172A; #1E1B4B; #092540; #0F172A" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A192F">
+        <animate attributeName="stop-color" values="#0A192F; #0B0F19; #0F172A; #0A192F" dur="14s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Glowing Cyan/Emerald/Violet Border -->
+    <linearGradient id="neon-border-v6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="33%" stop-color="#38BDF8" />
+      <stop offset="66%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <linearGradient id="name-grad-v6" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#FFFFFF" />
+      <stop offset="70%" stop-color="#F1F5F9" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow-v6" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="800" height="240" rx="14" fill="url(#header-bg-v6)" stroke="url(#neon-border-v6)" stroke-width="1.5" />
+
+  <!-- Top Accent Shimmer -->
+  <rect x="0" y="0" width="800" height="5" rx="2.5" fill="url(#neon-border-v6)" filter="url(#glow-v6)" />
+
+  <!-- Ambient Wave Line -->
+  <path d="M 0 170 Q 200 140 400 170 T 800 170" fill="none" stroke="url(#neon-border-v6)" stroke-width="1.2" opacity="0.3" />
+
+  <!-- UNIQUE HOLOGRAPHIC DATA ANALYTICS DASHBOARD GRAPH GRAPHIC (Right Side) -->
+  <g transform="translate(530, 25)">
+    <!-- Radar Grid Circles (Background Grid) -->
+    <circle cx="120" cy="95" r="75" fill="none" stroke="#334155" stroke-width="0.8" stroke-dasharray="4 4" opacity="0.5" />
+    <circle cx="120" cy="95" r="50" fill="none" stroke="#334155" stroke-width="0.8" stroke-dasharray="4 4" opacity="0.4" />
+
+    <!-- Horizontal & Vertical Grid Lines -->
+    <line x1="20" y1="135" x2="220" y2="135" stroke="#334155" stroke-width="1" />
+    <line x1="20" y1="100" x2="220" y2="100" stroke="#1E293B" stroke-width="0.8" stroke-dasharray="2 2" />
+    <line x1="20" y1="65" x2="220" y2="65" stroke="#1E293B" stroke-width="0.8" stroke-dasharray="2 2" />
+    <line x1="20" y1="30" x2="220" y2="30" stroke="#1E293B" stroke-width="0.8" stroke-dasharray="2 2" />
+
+    <!-- Animated 3D Data Bars -->
+    <g transform="translate(25, 0)">
+      <!-- Bar 1 -->
+      <rect x="10" y="70" width="16" height="65" rx="4" fill="#38BDF8" opacity="0.85">
+        <animate attributeName="height" values="65;95;45;65" dur="3.2s" repeatCount="indefinite" />
+        <animate attributeName="y" values="70;40;90;70" dur="3.2s" repeatCount="indefinite" />
+      </rect>
+      <!-- Bar 2 -->
+      <rect x="38" y="45" width="16" height="90" rx="4" fill="#34D399" opacity="0.9">
+        <animate attributeName="height" values="90;55;105;90" dur="2.8s" repeatCount="indefinite" />
+        <animate attributeName="y" values="45;80;30;45" dur="2.8s" repeatCount="indefinite" />
+      </rect>
+      <!-- Bar 3 -->
+      <rect x="66" y="85" width="16" height="50" rx="4" fill="#F59E0B" opacity="0.85">
+        <animate attributeName="height" values="50;80;35;50" dur="3.5s" repeatCount="indefinite" />
+        <animate attributeName="y" values="85;55;100;85" dur="3.5s" repeatCount="indefinite" />
+      </rect>
+      <!-- Bar 4 -->
+      <rect x="94" y="30" width="16" height="105" rx="4" fill="#A78BFA" opacity="0.9">
+        <animate attributeName="height" values="105;75;115;105" dur="3s" repeatCount="indefinite" />
+        <animate attributeName="y" values="30;60;20;30" dur="3s" repeatCount="indefinite" />
+      </rect>
+      <!-- Bar 5 -->
+      <rect x="122" y="60" width="16" height="75" rx="4" fill="#00F2FE" opacity="0.85">
+        <animate attributeName="height" values="75;105;50;75" dur="2.6s" repeatCount="indefinite" />
+        <animate attributeName="y" values="60;30;85;60" dur="2.6s" repeatCount="indefinite" />
+      </rect>
+      <!-- Bar 6 -->
+      <rect x="150" y="40" width="16" height="95" rx="4" fill="#34D399" opacity="0.9">
+        <animate attributeName="height" values="95;60;110;95" dur="3.4s" repeatCount="indefinite" />
+        <animate attributeName="y" values="40;75;25;40" dur="3.4s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- Animated Smooth Data Trend Curve Over Bars -->
+    <path d="M 20 100 Q 60 40 100 70 T 170 30 T 220 15" fill="none" stroke="url(#neon-border-v6)" stroke-width="3" filter="url(#glow-v6)">
+      <animate attributeName="d" values="M 20 100 Q 60 40 100 70 T 170 30 T 220 15; M 20 100 Q 60 70 100 35 T 170 50 T 220 15; M 20 100 Q 60 40 100 70 T 170 30 T 220 15" dur="6s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Glowing Data Nodes on Trend Curve -->
+    <circle cx="20" cy="100" r="4" fill="#38BDF8" />
+    <circle cx="100" cy="70" r="4.5" fill="#34D399" filter="url(#glow-v6)" />
+    <circle cx="170" cy="30" r="5" fill="#A78BFA" filter="url(#glow-v6)" />
+    <circle cx="220" cy="15" r="5.5" fill="#00F2FE" filter="url(#glow-v6)">
+      <animate attributeName="r" values="4;7;4" dur="2s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- Floating Badge Tag 1 -->
+    <g transform="translate(140, 5)">
+      <rect width="75" height="18" rx="9" fill="#0F172A" stroke="#38BDF8" stroke-width="0.8" />
+      <text x="37.5" y="12" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8.5" font-weight="800" text-anchor="middle">DATA TRENDS</text>
+    </g>
+
+    <!-- Dashboard Metric Text Base -->
+    <text x="120" y="156" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="1">DATA ANALYTICS &amp; AI MODEL</text>
+  </g>
+
+  <!-- Left Accent Line -->
+  <rect x="36" y="38" width="5" height="160" rx="2.5" fill="url(#neon-border-v6)" filter="url(#glow-v6)" />
+
+  <!-- Main Name Title -->
+  <text x="60" y="82" fill="url(#name-grad-v6)" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+    Kathyayini Prabhu
+  </text>
+
+  <!-- Role Subtitle -->
+  <text x="60" y="116" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" letter-spacing="0.2">
+    3rd Year Artificial Intelligence &amp; Data Science Student
+  </text>
+
+  <!-- Institution Tagline -->
+  <text x="60" y="144" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">
+    BMS College of Engineering (BMSCE) • Bengaluru, India
+  </text>
+
+  <!-- Badges Row at Bottom -->
+  <g transform="translate(60, 168)">
+    <rect width="125" height="22" rx="11" fill="#1E293B" stroke="#38BDF8" stroke-width="0.8" />
+    <text x="62.5" y="15" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA SCIENCE</text>
+
+    <rect x="135" width="130" height="22" rx="11" fill="#1E293B" stroke="#34D399" stroke-width="0.8" />
+    <text x="200" y="15" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA ANALYTICS</text>
+
+    <rect x="275" width="165" height="22" rx="11" fill="#1E293B" stroke="#A78BFA" stroke-width="0.8" />
+    <text x="357.5" y="15" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">ARTIFICIAL INTELLIGENCE</text>
+  </g>
+
+  <!-- Top Right Live Status Badge -->
+  <g transform="translate(565, 16)">
+    <rect width="195" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-width="1" opacity="0.9" />
+    <circle cx="15" cy="13" r="4" fill="#10B981" filter="url(#glow-v6)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="27" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600">AI &amp; Data Science Student</text>
+  </g>
+</svg>
