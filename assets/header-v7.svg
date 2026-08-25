@@ -44,7 +44,7 @@
   <path d="M 0 165 Q 200 135 400 165 T 800 165" fill="none" stroke="url(#neon-border-v7)" stroke-width="1.2" opacity="0.3" />
 
   <!-- SOPHISTICATED EXECUTIVE AI & DATA NETWORK TOPOLOGY (Right Side) -->
-  <g transform="translate(540, 20)" opacity="0.65" filter="url(#glow-v7)">
+  <g transform="translate(540, 20)" opacity="0.75" filter="url(#glow-v7)">
     <!-- Neural Matrix Polygon Mesh -->
     <polygon points="40,40 100,20 180,50 140,110 60,130" fill="none" stroke="#38BDF8" stroke-width="0.8" opacity="0.4" />
     <polygon points="100,20 180,50 210,110 140,110 110,70" fill="none" stroke="#34D399" stroke-width="0.8" opacity="0.4" />
