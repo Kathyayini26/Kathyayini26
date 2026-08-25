@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header-v6.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/header-v7.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Data+Science+Software;Exploring+Machine+Learning+%26+Data+Analytics" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Data Science, Data Analytics, SQL, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/grid-v2.svg" width="100%" alt="Core Technical Pillars: Data Science, Data Analytics, SQL & Database, Artificial Intelligence" />
+  <img src="./assets/grid-v3.svg" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
 
-I enjoy building practical software solutions, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, data science, data analytics, SQL database design, and machine learning, with a focus on creating impactful real-world projects.
+I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, SQL database design, and algorithm optimization, with a focus on creating impactful real-world projects.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -36,18 +36,18 @@ I enjoy building practical software solutions, analyzing datasets, working with 
 
 ### Current Focus
 
-- **Data Science & Data Analytics** — Extracting actionable insights from structured & unstructured datasets
-- **Artificial Intelligence & ML** — Developing intelligent systems and predictive algorithms for domain challenges
+- **Machine Learning & Predictive Modeling** — Developing predictive algorithms, feature pipelines & ML systems
+- **Artificial Intelligence** — Building intelligent applications for domain challenges
+- **Data Science** — Extracting actionable insights from structured & unstructured datasets
 - **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
-- **Software Engineering** — Building clean, reliable applications with Python & C
 - **Building Real-World Projects** — Transforming concepts into robust software solutions
 
 ---
 
 ### Currently Learning
 
-- **Advanced Data Science & Analytics** — Creating clean data stories, dashboards & statistical modeling
-- **Advanced Artificial Intelligence & ML** — Feature engineering, algorithm tuning & model evaluation
+- **Advanced Machine Learning & AI** — Feature engineering, model evaluation & algorithm tuning
+- **Advanced Data Science** — Creating data stories, statistical modeling & data analytics
 - **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
 - **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
 
