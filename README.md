@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header-banner.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/terminal-header.svg" alt="Kathyayini Prabhu - Terminal Developer Header" width="100%" />
 </p>
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Full+Stack+Software;Exploring+Machine+Learning+%26+Data+Analytics" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through Artificial Intelligence, SQL database design, data analytics, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, SQL database design, data analytics, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/spotlight-card.svg" width="100%" alt="Academic Spotlight Card" />
+  <img src="./assets/recruiter-snapshot.svg" width="100%" alt="Recruiter Snapshot Card" />
 </p>
 
 <p align="center">
@@ -89,35 +89,21 @@ I enjoy building practical software solutions, working with relational database 
 
 ### Featured Projects
 
+<p align="center">
+  <img src="./assets/projects-showcase.svg" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
+</p>
+
 <table>
   <tr>
-    <td width="50%" valign="top">
-      <h3 align="center">BioWeaver</h3>
-      <p>AI-powered biological discovery platform that integrates biological knowledge graphs, predicts gene–disease relationships, and generates explainable research hypotheses.</p>
-      <p><b>Technologies:</b><br />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Kathyayini26/bioweaver">
-          <img src="https://img.shields.io/badge/Explore_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="BioWeaver Repo" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Kathyayini26/bioweaver">
+        <img src="https://img.shields.io/badge/Explore_BioWeaver_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="BioWeaver Repo Link" />
+      </a>
     </td>
-    <td width="50%" valign="top">
-      <h3 align="center">AI Maritime Risk Intelligence</h3>
-      <p>AI-powered maritime logistics intelligence platform for route risk prediction, seasonal forecasting, alternative port optimization, and interactive mapping.</p>
-      <p><b>Technologies:</b><br />
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
-      </p>
-      <p align="center">
-        <a href="https://github.com/Kathyayini26/AI-Maritime-Risk-Intelligence">
-          <img src="https://img.shields.io/badge/Explore_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Maritime Risk Repo" />
-        </a>
-      </p>
+    <td width="50%" align="center">
+      <a href="https://github.com/Kathyayini26/AI-Maritime-Risk-Intelligence">
+        <img src="https://img.shields.io/badge/Explore_Maritime_Risk_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Maritime Risk Repo Link" />
+      </a>
     </td>
   </tr>
 </table>
