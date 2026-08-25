@@ -1,78 +1,64 @@
-# 🚀 GitHub Profile Optimization & Repository Guide
+# 🚀 GitHub Profile & Repository Optimization Guide for Kathyayini Prabhu
 
-**Author:** Kathyayini Prabhu  
-**GitHub Username:** `@Kathyayini-12`  
-**Profile URL:** [https://github.com/Kathyayini-12](https://github.com/Kathyayini-12)
+This guide contains actionable steps and recommended settings to make your GitHub profile ([@Kathyayini26](https://github.com/Kathyayini26)) look clean, professional, and appealing to recruiters and open-source collaborators.
 
 ---
 
-## 📌 Top Repositories to Pin (Recommended Order)
+## 1. 📌 Recommended Repositories to Pin
 
-Recruiters and engineering managers prioritize profiles with clear, outcome-focused projects. Here are the 6 best repositories to pin on your profile:
+On your GitHub profile page, you can pin up to **6 repositories**. We recommend pinning your two flagship repositories first:
 
-1. **`vision-hand-ai`**
-   - **Topic Badges:** `computer-vision`, `mediapipe`, `opencv`, `hand-tracking`, `deep-learning`, `python`
-   - **Description:** ✋ Real-Time Hand Gesture Recognition Platform using Computer Vision, MediaPipe, OpenCV, and AI-Powered Gesture Tracking Analytics.
+### **Pin 1: `AI-Maritime-Risk-Intelligence`**
+- **Headline / Description to set on GitHub:**  
+  `🚢 AI-powered Maritime Logistics Intelligence Platform for route risk prediction, seasonal forecasting, alternative port optimization & interactive mapping using React, Flask & Scikit-Learn.`
+- **Recommended Topics (Tags):**  
+  `machine-learning` `python` `flask` `react` `scikit-learn` `predictive-analytics` `gis` `maritime-logistics`
+- **Website URL (if deployed):** *(Add demo or live Streamlit/Vercel/Render link if available)*
 
-2. **`jan-voice`**
-   - **Topic Badges:** `nlp`, `speech-to-text`, `multimodal-ai`, `ai-governance`, `fullstack-ai`, `python`
-   - **Description:** 🎙️ Multimodal AI-Powered Civic Governance Platform enabling citizens to report issues via voice, text, & vision with automated MP prioritization.
-
-3. **`water-ai-dashboard`** *(Recommended to publish to GitHub)*
-   - **Topic Badges:** `water-scarcity`, `climate-ai`, `machine-learning`, `fastapi`, `react`, `mapbox`
-   - **Description:** 💧 Global AI Water Scarcity & Climate Risk Analytics Dashboard with real-time geospatial visualization and seasonal risk forecasting.
-
-4. **`petscan-ai-detect`**
-   - **Topic Badges:** `deep-learning`, `pet-health`, `computer-vision`, `typescript`, `health-tech`
-   - **Description:** 🐾 PetScan AI – AI Diagnostic & Pet Health Analytics Platform for condition detection, visual symptom inspection, and wellness monitoring.
-
-5. **`customer-segmentation-kmeans`**
-   - **Topic Badges:** `unsupervised-learning`, `k-means`, `pca`, `scikit-learn`, `data-science`, `clustering`
-   - **Description:** 📊 Enterprise Customer Analytics & Segmentation Platform using K-Means Clustering, PCA Visualization, Elbow Method, and Silhouette Analysis.
-
-6. **`house-price-prediction`**
-   - **Topic Badges:** `linear-regression`, `machine-learning`, `predictive-analytics`, `javascript`, `web-app`
-   - **Description:** 🏠 Interactive Real Estate Price Forecasting Web Application built with Machine Learning, Linear Regression, and real-time visual feature evaluation.
+### **Pin 2: `bioweaver`**
+- **Headline / Description to set on GitHub:**  
+  `🧬 AI-powered biological discovery platform integrating knowledge graphs & ML models to predict gene–disease relationships and synthesize research hypotheses.`
+- **Recommended Topics (Tags):**  
+  `typescript` `python` `knowledge-graph` `graph-neural-networks` `bioinformatics` `machine-learning` `ai` `react`
+- **Website URL (if deployed):** *(Add demo link if available)*
 
 ---
 
-## 🛠️ Step-by-Step Setup Guide
+## 2. 👤 Profile Settings Optimization
 
-### Step 1: Create the Special Profile Repository on GitHub
-1. Go to [https://github.com/new](https://github.com/new).
-2. Set the **Repository Name** to: `Kathyayini-12` (Exact match to your GitHub username).
-3. Set the repository to **Public**.
-4. Check **Add a README file** (or leave it unchecked if pushing this repo).
-5. Click **Create repository**.
+To complete your profile transformation:
 
-### Step 2: Push files from this directory to GitHub
-Run the following commands in your terminal from this folder:
+1. **Profile Picture / Avatar**:
+   - Upload a clear, high-resolution professional headshot or clean developer photo.
+   - Profile photos significantly increase recruiter engagement and trustworthiness.
 
-```bash
-git init
-git add .
-git commit -m "feat: setup modern AI engineer profile README and snake workflow"
-git branch -M main
-git remote add origin https://github.com/Kathyayini-12/Kathyayini-12.git
-git push -u origin main
-```
+2. **Bio Text** (In GitHub Settings > Profile > Bio):
+   - **Recommended Bio:**  
+     `AI & Data Science Student | Python • TypeScript • C • SQL | Building ML, Knowledge Graph & Full-Stack Projects 🚀`
 
-### Step 3: Enable the Contribution Snake Animation Workflow
-1. Go to the **Actions** tab in `github.com/Kathyayini-12/Kathyayini-12`.
-2. Click on **Generate Contribution Snake Animation**.
-3. Click **Run workflow** -> **Run workflow**.
-4. This will create the `output` branch containing the animated snake SVGs (`github-contribution-grid-snake.svg` and `github-contribution-grid-snake-dark.svg`).
-
-### Step 4: Pin Your Top Repositories
-1. Visit your main profile page: `https://github.com/Kathyayini-12`.
-2. Click **Customize your pins**.
-3. Select the 6 repositories listed above.
-4. Drag and reorder them in the order recommended above.
+3. **Location & Links**:
+   - **Location:** `Bengaluru, India`
+   - **LinkedIn / Social URL:** `https://linkedin.com/in/kathyayini-prabhu` (Update with your exact LinkedIn slug if different).
 
 ---
 
-## 🎨 Theme & Design Philosophy
+## 3. ⚙️ GitHub Actions Snake Workflow Setup
 
-- **Color Palette:** Professional Deep Navy (`#0F172A`), Tech Blue (`#007ACC`, `#0284C7`), Electric Cyan (`#38BDF8`), and High-Contrast White (`#FFFFFF`).
-- **Typography:** Fira Code & Clean System Sans-Serif.
-- **Layout:** Multi-column Markdown grid tables for neat scannability on desktop and mobile.
+The repository includes an automated workflow (`.github/workflows/snake.yml`) that generates a contribution snake graph every 24 hours.
+
+### How to enable workflow permissions:
+1. Go to your repository settings: **Settings > Actions > General**.
+2. Scroll down to **Workflow permissions**.
+3. Select **Read and write permissions**.
+4. Check **Allow GitHub Actions to create and approve pull requests**.
+5. Click **Save**.
+
+Once pushed to GitHub, the workflow will automatically update the snake graphics (`assets/github-contribution-grid-snake.svg` and `assets/github-contribution-grid-snake-dark.svg`).
+
+---
+
+## 4. 📈 Tips for Profile Growth & Recruiter Impact
+
+- **Consistent Commit Habit**: Aim for daily or regular commits (even small documentation updates or algorithm practice) to build a active green contribution calendar.
+- **Repository READMEs**: Ensure `AI-Maritime-Risk-Intelligence` and `bioweaver` have individual `README.md` files with screenshots/GIFs, installation steps, and tech stack architecture.
+- **LeetCode Sync**: Keep your LeetCode username active (`Kathyayini26`) so the LeetCode stats widget updates automatically.
