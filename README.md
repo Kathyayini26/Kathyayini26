@@ -1,67 +1,152 @@
 <p align="center">
-  <img src="./assets/header-banner.svg" alt="Kathyayini Prabhu Banner" width="100%" />
+  <img src="./assets/header-banner.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
-# Hi, I'm Kathyayini Prabhu 👋
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+Practical+Software+Solutions;Exploring+Data+Analytics+%26+Machine+Learning" alt="Typing Header" />
+</p>
 
-I am a 3rd year **Artificial Intelligence & Data Science** student at **BMS College of Engineering (BMSCE)**, Bengaluru, India.
-
-I enjoy building practical software solutions and exploring data-driven technologies. My interests include software development, data analytics, machine learning, and solving real-world problems through technology.
-
-I am continuously learning, improving my technical skills, and working on projects that strengthen my problem-solving and development abilities.
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student | Building practical software solutions through data, development, and continuous learning.**
 
 ---
+
+### Hi, I'm Kathyayini Prabhu 👋
+
+I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
+
+I enjoy building practical software solutions, exploring data-driven technologies, and continuously improving my development and problem-solving skills. My interests span software development, data analytics, and machine learning, with a focus on creating impactful real-world projects.
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
 
 ### 🎓 Education
 
-**B.E. in Artificial Intelligence & Data Science**  
-*BMS College of Engineering (BMSCE)* — Bengaluru, Karnataka, India  
+* **B.E. in Artificial Intelligence & Data Science**  
+  **BMS College of Engineering (BMSCE)** — Bengaluru, Karnataka, India  
+  *(3rd Year Undergraduate)*
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+### 🎯 Current Focus
+
+- 📊 **Data Analytics** — Extracting actionable insights from structured & unstructured datasets
+- 💻 **Full Stack Development** — Crafting responsive web applications with React & Flask
+- 🤖 **Machine Learning** — Developing predictive models for real-world domain challenges
+- 🚀 **Building Real-World Projects** — Transforming concepts into usable software solutions
 
 ---
 
-### 🛠️ Skills
+### 🌱 Currently Learning
+
+- 🐍 **Advanced Python Development** — Object-oriented architecture, async programming & best practices
+- 📈 **Data Visualization** — Creating clean, interactive data stories and dashboards
+- 🧠 **Machine Learning Applications** — Practical feature engineering, evaluation metrics & deployment
+- ⚡ **Modern Web Development** — Component-driven UI design & robust API design
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+### 💻 Skills
 
 #### **Languages & Development**
-`Python` • `C` • `SQL` • `JavaScript`
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+</p>
 
 #### **Frameworks & Tools**
-`React` • `Flask` • `MySQL` • `Git` • `GitHub`
+<p>
+  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  &nbsp;
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+</p>
 
----
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
 
 ### 🚀 Featured Projects
 
 <table>
   <tr>
     <td width="50%" valign="top">
-      <h3>🧬 BioWeaver</h3>
+      <h3 align="center">🧬 BioWeaver</h3>
       <p>AI-powered biological discovery platform that integrates biological knowledge graphs, predicts gene–disease relationships, and generates explainable research hypotheses.</p>
-      <p><b>Tech:</b> <code>JavaScript</code> <code>TypeScript</code> <code>Python</code></p>
-      <p><a href="https://github.com/Kathyayini26/bioweaver">View Repository →</a></p>
+      <p><b>Technologies:</b><br />
+        <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Kathyayini26/bioweaver">
+          <img src="https://img.shields.io/badge/Explore_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="BioWeaver Repo" />
+        </a>
+      </p>
     </td>
     <td width="50%" valign="top">
-      <h3>🚢 AI Maritime Risk Intelligence</h3>
+      <h3 align="center">🚢 AI Maritime Risk Intelligence</h3>
       <p>AI-powered maritime logistics intelligence platform for route risk prediction, seasonal forecasting, alternative port optimization, and interactive mapping.</p>
-      <p><b>Tech:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>JavaScript</code></p>
-      <p><a href="https://github.com/Kathyayini26/AI-Maritime-Risk-Intelligence">View Repository →</a></p>
+      <p><b>Technologies:</b><br />
+        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" />
+        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" />
+      </p>
+      <p align="center">
+        <a href="https://github.com/Kathyayini26/AI-Maritime-Risk-Intelligence">
+          <img src="https://img.shields.io/badge/Explore_Repository-0969da?style=for-the-badge&logo=github&logoColor=white" alt="Maritime Risk Repo" />
+        </a>
+      </p>
     </td>
   </tr>
 </table>
 
----
-
-### 📊 GitHub Overview
-
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Kathyayini26&show_icons=true&theme=tokyonight&border_color=30363d&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Kathyayini's GitHub Stats" width="48%" />
-  &nbsp;
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathyayini26&layout=compact&theme=tokyonight&border_color=30363d&title_color=3b82f6&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
----
+### 📈 GitHub Stats
 
-### 📫 Contact & Connect
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathyayini26&show_icons=true&theme=tokyonight&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Kathyayini's GitHub Stats" width="48%" />
+  &nbsp;
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Kathyayini26&layout=compact&theme=tokyonight&border_color=30363d&title_color=38bdf8&text_color=c9d1d9&bg_color=0d1117&hide_border=false" alt="Top Languages" width="48%" />
+</p>
 
-- **LinkedIn:** [linkedin.com/in/kathyayini-prabhu-6145a4337](https://www.linkedin.com/in/kathyayini-prabhu-6145a4337/)
-- **Email:** [kathyayini2021@gmail.com](mailto:kathyayini2021@gmail.com)
-- **GitHub:** [github.com/Kathyayini26](https://github.com/Kathyayini26)
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+### 📫 Connect With Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/kathyayini-prabhu-6145a4337/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="mailto:kathyayini2021@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://github.com/Kathyayini26">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  </a>
+</p>
+
+<p align="center">
+  <sub>Designed with ❤️ for <b>Kathyayini Prabhu</b> • BMS College of Engineering (BMSCE)</sub>
+</p>
