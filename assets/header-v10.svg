@@ -1,0 +1,115 @@
+<svg fill="none" width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Executive Flowing Gradient Background -->
+    <linearGradient id="header-bg-v10" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19">
+        <animate attributeName="stop-color" values="#0B0F19; #0F172A; #1E1B4B; #0B0F19" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0F172A; #1E1B4B; #092540; #0F172A" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A192F">
+        <animate attributeName="stop-color" values="#0A192F; #0B0F19; #0F172A; #0A192F" dur="14s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Vibrant Gradient Accent Line -->
+    <linearGradient id="accent-grad-v10" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#2563EB" />
+      <stop offset="33%" stop-color="#3B82F6" />
+      <stop offset="66%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#F59E0B" />
+    </linearGradient>
+
+    <filter id="glow-v10" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="800" height="230" rx="14" fill="url(#header-bg-v10)" stroke="url(#accent-grad-v10)" stroke-width="1.5" />
+
+  <!-- Top Accent Shimmer Line -->
+  <rect x="0" y="0" width="800" height="5" rx="2.5" fill="url(#accent-grad-v10)" filter="url(#glow-v10)" />
+
+  <!-- Animated Ambient Geometric Wave -->
+  <path d="M 0 165 Q 200 135 400 165 T 800 165" fill="none" stroke="url(#accent-grad-v10)" stroke-width="1.5" opacity="0.4">
+    <animate attributeName="d" values="M 0 165 Q 200 135 400 165 T 800 165; M 0 150 Q 200 180 400 150 T 800 150; M 0 165 Q 200 135 400 165 T 800 165" dur="6s" repeatCount="indefinite" />
+  </path>
+
+  <!-- AI Neural & Data Network Topology (Right Side - Vibrant Multicolor) -->
+  <g transform="translate(540, 20)" filter="url(#glow-v10)">
+    <polygon points="40,40 100,20 180,50 140,110 60,130" fill="none" stroke="#3B82F6" stroke-width="1" opacity="0.45" />
+    <polygon points="100,20 180,50 210,110 140,110 110,70" fill="none" stroke="#10B981" stroke-width="1" opacity="0.45" />
+
+    <line x1="40" y1="40" x2="110" y2="70" stroke="#3B82F6" stroke-width="1.2" />
+    <line x1="100" y1="20" x2="110" y2="70" stroke="#10B981" stroke-width="1.2" />
+    <line x1="180" y1="50" x2="110" y2="70" stroke="#F59E0B" stroke-width="1.2" />
+    <line x1="140" y1="110" x2="110" y2="70" stroke="#3B82F6" stroke-width="1.2" />
+    <line x1="60" y1="130" x2="110" y2="70" stroke="#10B981" stroke-width="1.2" />
+    <line x1="180" y1="50" x2="210" y2="110" stroke="#F59E0B" stroke-width="1.2" />
+    <line x1="140" y1="110" x2="210" y2="110" stroke="#3B82F6" stroke-width="1.2" />
+
+    <!-- Pulsing Nodes -->
+    <circle cx="110" cy="70" r="6" fill="#3B82F6">
+      <animate attributeName="r" values="4.5;8;4.5" dur="2.2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="40" cy="40" r="4.5" fill="#60A5FA" />
+    <circle cx="100" cy="20" r="4.5" fill="#10B981">
+      <animate attributeName="r" values="3.5;6.5;3.5" dur="2.8s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="180" cy="50" r="5" fill="#F59E0B">
+      <animate attributeName="r" values="4;7;4" dur="3.5s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="140" cy="110" r="4.5" fill="#3B82F6" />
+    <circle cx="60" cy="130" r="4" fill="#34D399" />
+    <circle cx="210" cy="110" r="5" fill="#FBBF24" />
+
+    <!-- Orbit Ring -->
+    <circle cx="110" cy="70" r="45" fill="none" stroke="#3B82F6" stroke-width="1" stroke-dasharray="6 4" opacity="0.65">
+      <animateTransform attributeName="transform" type="rotate" from="0 110 70" to="360 110 70" dur="15s" repeatCount="indefinite" />
+    </circle>
+
+    <text x="110" y="160" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle" letter-spacing="1">AI &amp; DATA ARCHITECTURE</text>
+  </g>
+
+  <!-- Left Accent Bar -->
+  <rect x="36" y="38" width="5" height="152" rx="2.5" fill="url(#accent-grad-v10)" filter="url(#glow-v10)" />
+
+  <!-- Main Name Title -->
+  <text x="60" y="80" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+    Kathyayini Prabhu
+  </text>
+
+  <!-- Role Subtitle -->
+  <text x="60" y="114" fill="#60A5FA" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="17" font-weight="700" letter-spacing="0.2">
+    3rd Year Artificial Intelligence &amp; Data Science Student
+  </text>
+
+  <!-- Institution Tagline -->
+  <text x="60" y="142" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">
+    BMS College of Engineering (BMSCE) • Bengaluru, India
+  </text>
+
+  <!-- Badges Row at Bottom -->
+  <g transform="translate(60, 166)">
+    <rect width="125" height="24" rx="12" fill="#1E293B" stroke="#3B82F6" stroke-width="1" />
+    <text x="62.5" y="16" fill="#60A5FA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA SCIENCE</text>
+
+    <rect x="135" width="145" height="24" rx="12" fill="#1E293B" stroke="#10B981" stroke-width="1" />
+    <text x="207.5" y="16" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">MACHINE LEARNING</text>
+
+    <rect x="290" width="165" height="24" rx="12" fill="#1E293B" stroke="#F59E0B" stroke-width="1" />
+    <text x="372.5" y="16" fill="#FBBF24" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">ARTIFICIAL INTELLIGENCE</text>
+  </g>
+
+  <!-- Top Right Status Badge -->
+  <g transform="translate(585, 22)">
+    <rect width="180" height="26" rx="13" fill="#0F172A" stroke="#3B82F6" stroke-width="1" opacity="0.95" />
+    <circle cx="15" cy="13" r="4" fill="#10B981" filter="url(#glow-v10)">
+      <animate attributeName="opacity" values="1;0.2;1" dur="1.5s" repeatCount="indefinite" />
+    </circle>
+    <text x="27" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600">AI &amp; Data Science Student</text>
+  </g>
+</svg>
