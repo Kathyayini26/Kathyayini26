@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/header-v7.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/header-v15.svg" alt="Kathyayini Prabhu - Terminal System Info & Matrix Portrait Header" width="100%" />
 </p>
 
 <p align="center">
