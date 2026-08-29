@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v14.svg?v=10" alt="Kathyayini Prabhu - Code Matrix Portrait Header" width="100%" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/header-v7.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 > **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/grid-v3.svg?v=10" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/grid-v3.svg" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
 </p>
 
 ---
@@ -21,7 +21,7 @@ I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College o
 I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, SQL database design, and algorithm optimization, with a focus on creating impactful real-world projects.
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
 ### Education
@@ -31,7 +31,7 @@ I enjoy building practical software solutions, developing predictive machine lea
   *(3rd Year Undergraduate)*
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
 ### Current Focus
@@ -52,7 +52,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 - **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
 ### Technical Skills
@@ -80,19 +80,19 @@ I enjoy building practical software solutions, developing predictive machine lea
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
 ### Featured Projects
 
 <p align="center">
   <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-    <img src="./assets/projects-v4.svg?v=10" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
+    <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/projects-v4.svg" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
   </a>
 </p>
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/main/assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
 ### Connect With Me
