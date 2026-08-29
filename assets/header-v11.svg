@@ -1,0 +1,151 @@
+<svg fill="none" width="800" height="230" viewBox="0 0 800 230" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <!-- Deep Engineering Dark Background -->
+    <linearGradient id="header-bg-v11" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0B0F19">
+        <animate attributeName="stop-color" values="#0B0F19; #0F172A; #1E1B4B; #0B0F19" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#0F172A">
+        <animate attributeName="stop-color" values="#0F172A; #1E1B4B; #092540; #0F172A" dur="14s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A192F">
+        <animate attributeName="stop-color" values="#0A192F; #0B0F19; #0F172A; #0A192F" dur="14s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Vibrant Neon Accent Line -->
+    <linearGradient id="accent-grad-v11" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="33%" stop-color="#34D399" />
+      <stop offset="66%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <filter id="glow-v11" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="3.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="800" height="230" rx="14" fill="url(#header-bg-v11)" stroke="url(#accent-grad-v11)" stroke-width="1.5" />
+
+  <!-- Top Accent Shimmer -->
+  <rect x="0" y="0" width="800" height="5" rx="2.5" fill="url(#accent-grad-v11)" filter="url(#glow-v11)" />
+
+  <!-- Ambient Wave Line -->
+  <path d="M 0 165 Q 200 135 400 165 T 800 165" fill="none" stroke="url(#accent-grad-v11)" stroke-width="1.2" opacity="0.3" />
+
+  <!-- AUTHENTIC AI & ML DATA PIPELINE GRAPHIC (Right Side) -->
+  <g transform="translate(505, 20)">
+    <!-- Pipeline Background Glow -->
+    <rect width="270" height="185" rx="10" fill="#0F172A" stroke="#334155" stroke-width="1" opacity="0.85" />
+    
+    <!-- Header Title -->
+    <text x="135" y="24" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="10" font-weight="800" text-anchor="middle" letter-spacing="1">ML &amp; AI DATA PIPELINE</text>
+    <line x1="16" y1="32" x2="254" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <!-- Node 1: Raw Data Ingestion -->
+    <g transform="translate(16, 42)">
+      <rect width="68" height="38" rx="6" fill="#1E293B" stroke="#38BDF8" stroke-width="1" />
+      <text x="34" y="18" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">DATA</text>
+      <text x="34" y="30" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7.5" font-weight="600" text-anchor="middle">Ingestion</text>
+    </g>
+
+    <!-- Arrow 1 -->
+    <path d="M 88 61 L 102 61" stroke="#38BDF8" stroke-width="1.5" stroke-dasharray="2 2">
+      <animate attributeName="stroke-dashoffset" values="4;0" dur="1.2s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Node 2: Feature Engineering -->
+    <g transform="translate(106, 42)">
+      <rect width="68" height="38" rx="6" fill="#1E293B" stroke="#34D399" stroke-width="1" />
+      <text x="34" y="18" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">FEATURES</text>
+      <text x="34" y="30" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7.5" font-weight="600" text-anchor="middle">Pipelines</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <path d="M 178 61 L 192 61" stroke="#34D399" stroke-width="1.5" stroke-dasharray="2 2">
+      <animate attributeName="stroke-dashoffset" values="4;0" dur="1.2s" repeatCount="indefinite" />
+    </path>
+
+    <!-- Node 3: Model Training -->
+    <g transform="translate(196, 42)">
+      <rect width="60" height="38" rx="6" fill="#1E293B" stroke="#A78BFA" stroke-width="1" />
+      <text x="30" y="18" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8.5" font-weight="700" text-anchor="middle">MODEL</text>
+      <text x="30" y="30" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="7.5" font-weight="600" text-anchor="middle">Training</text>
+    </g>
+
+    <!-- Neural Net Mesh Box (Middle Section) -->
+    <g transform="translate(16, 92)">
+      <rect width="240" height="74" rx="6" fill="#161B22" stroke="#334155" stroke-width="1" />
+      
+      <!-- Network Nodes & Connecting Lines -->
+      <line x1="30" y1="20" x2="90" y2="37" stroke="#38BDF8" stroke-width="1" opacity="0.6" />
+      <line x1="30" y1="54" x2="90" y2="37" stroke="#38BDF8" stroke-width="1" opacity="0.6" />
+      <line x1="90" y1="37" x2="150" y2="20" stroke="#34D399" stroke-width="1" opacity="0.6" />
+      <line x1="90" y1="37" x2="150" y2="54" stroke="#34D399" stroke-width="1" opacity="0.6" />
+      <line x1="150" y1="20" x2="210" y2="37" stroke="#A78BFA" stroke-width="1" opacity="0.6" />
+      <line x1="150" y1="54" x2="210" y2="37" stroke="#A78BFA" stroke-width="1" opacity="0.6" />
+
+      <!-- Input Layer Dots -->
+      <circle cx="30" cy="20" r="4" fill="#38BDF8" />
+      <circle cx="30" cy="54" r="4" fill="#38BDF8" />
+
+      <!-- Hidden Layer Dot -->
+      <circle cx="90" cy="37" r="5" fill="#34D399" filter="url(#glow-v11)">
+        <animate attributeName="r" values="4;6.5;4" dur="2s" repeatCount="indefinite" />
+      </circle>
+
+      <!-- Second Hidden Layer Dots -->
+      <circle cx="150" cy="20" r="4" fill="#F59E0B" />
+      <circle cx="150" cy="54" r="4" fill="#F59E0B" />
+
+      <!-- Output Layer Dot -->
+      <circle cx="210" cy="37" r="5" fill="#A78BFA" filter="url(#glow-v11)">
+        <animate attributeName="r" values="4;7;4" dur="2.5s" repeatCount="indefinite" />
+      </circle>
+
+      <text x="120" y="66" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="8" font-weight="700" text-anchor="middle" letter-spacing="0.5">PREDICTIVE AI INFERENCE</text>
+    </g>
+  </g>
+
+  <!-- Left Accent Line -->
+  <rect x="36" y="38" width="5" height="152" rx="2.5" fill="url(#accent-grad-v11)" filter="url(#glow-v11)" />
+
+  <!-- Main Name Title -->
+  <text x="60" y="80" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="34" font-weight="800" letter-spacing="-0.5">
+    Kathyayini Prabhu
+  </text>
+
+  <!-- Role Subtitle -->
+  <text x="60" y="114" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="16.5" font-weight="700" letter-spacing="0.2">
+    AI &amp; Data Science Engineer • ML &amp; Software Systems
+  </text>
+
+  <!-- Institution Tagline -->
+  <text x="60" y="142" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Inter', 'Segoe UI', Roboto, sans-serif" font-size="13.5" font-weight="500">
+    BMS College of Engineering (BMSCE) • Bengaluru, India
+  </text>
+
+  <!-- Badges Row at Bottom -->
+  <g transform="translate(60, 166)">
+    <rect width="145" height="22" rx="11" fill="#1E293B" stroke="#38BDF8" stroke-width="0.8" />
+    <text x="72.5" y="15" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">MACHINE LEARNING</text>
+
+    <rect x="155" width="155" height="22" rx="11" fill="#1E293B" stroke="#34D399" stroke-width="0.8" />
+    <text x="232.5" y="15" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">DATA SCIENCE &amp; SQL</text>
+
+    <rect x="320" width="140" height="22" rx="11" fill="#1E293B" stroke="#A78BFA" stroke-width="0.8" />
+    <text x="390" y="15" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif" font-size="9.5" font-weight="700" text-anchor="middle">SOFTWARE ENGR.</text>
+  </g>
+
+  <!-- Top Right Status Badge -->
+  <g transform="translate(565, 16)">
+    <rect width="195" height="26" rx="13" fill="#0F172A" stroke="#38BDF8" stroke-width="1" opacity="0.9" />
+    <circle cx="15" cy="13" r="4" fill="#10B981" filter="url(#glow-v11)">
+      <animate attributeName="opacity" values="1;0.3;1" dur="1.8s" repeatCount="indefinite" />
+    </circle>
+    <text x="27" y="17" fill="#E2E8F0" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="600">AI &amp; Data Science Student</text>
+  </g>
+</svg>

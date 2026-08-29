@@ -1,0 +1,53 @@
+<svg fill="none" width="800" height="125" viewBox="0 0 800 125" xmlns="http://www.w3.org/2000/svg">
+  <defs>
+    <linearGradient id="grid-bg-v5" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#0F172A" />
+      <stop offset="100%" stop-color="#1E1B4B" />
+    </linearGradient>
+
+    <linearGradient id="grid-glow-v5" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#38BDF8" />
+      <stop offset="33%" stop-color="#34D399" />
+      <stop offset="66%" stop-color="#F59E0B" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+  </defs>
+
+  <!-- Container Frame -->
+  <rect width="800" height="125" rx="12" fill="url(#grid-bg-v5)" stroke="url(#grid-glow-v5)" stroke-width="1.5" />
+
+  <!-- 4 Core Pillars: Machine Learning, Artificial Intelligence, Data Science, SQL & Database -->
+  <g transform="translate(18, 20)">
+    <!-- Box 1: Machine Learning -->
+    <g transform="translate(0, 0)">
+      <rect width="180" height="84" rx="8" fill="#1E293B" stroke="#38BDF8" stroke-width="1.2" />
+      <text x="14" y="28" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="800" letter-spacing="0.4">MACHINE LEARNING</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Predictive Modeling</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Feature Pipelines &amp; ML Algo</text>
+    </g>
+
+    <!-- Box 2: Artificial Intelligence -->
+    <g transform="translate(192, 0)">
+      <rect width="180" height="84" rx="8" fill="#1E293B" stroke="#34D399" stroke-width="1.2" />
+      <text x="14" y="28" fill="#34D399" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="800" letter-spacing="0.4">ARTIFICIAL INTEL.</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">AI Software Systems</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Neural Graph Architectures</text>
+    </g>
+
+    <!-- Box 3: Data Science -->
+    <g transform="translate(384, 0)">
+      <rect width="180" height="84" rx="8" fill="#1E293B" stroke="#F59E0B" stroke-width="1.2" />
+      <text x="14" y="28" fill="#F59E0B" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="800" letter-spacing="0.4">DATA SCIENCE</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Python Data Wrangling</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">Statistical Analysis &amp; Data</text>
+    </g>
+
+    <!-- Box 4: SQL & Database -->
+    <g transform="translate(576, 0)">
+      <rect width="180" height="84" rx="8" fill="#1E293B" stroke="#A78BFA" stroke-width="1.2" />
+      <text x="14" y="28" fill="#A78BFA" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="800" letter-spacing="0.4">SQL &amp; DATABASE</text>
+      <text x="14" y="48" fill="#F9FAFB" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="700">Relational Architecture</text>
+      <text x="14" y="66" fill="#9CA3AF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10" font-weight="400">MySQL &amp; Query Optimization</text>
+    </g>
+  </g>
+</svg>

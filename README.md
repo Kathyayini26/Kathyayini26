@@ -1,24 +1,24 @@
 <p align="center">
-  <img src="./assets/header-v7.svg?v=5" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
+  <img src="./assets/header-v11.svg?v=6" alt="Kathyayini Prabhu - AI & Data Science Engineer Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;AI+%26+Data+Science+Engineering+Student;Building+Machine+Learning+%26+Predictive+Systems;Designing+SQL+Database+Architectures+%26+Python+Software" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Developing machine learning systems, relational SQL architectures, data science pipelines, and intelligent software.**
 
 <p align="center">
-  <img src="./assets/grid-v3.svg?v=5" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
+  <img src="./assets/grid-v5.svg?v=6" width="100%" alt="Core Technical Pillars: Machine Learning, Artificial Intelligence, Data Science, SQL & Database" />
 </p>
 
 ---
 
 ### About Me
 
-I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
+I'm a 3rd Year Artificial Intelligence & Data Science Engineering student at **BMS College of Engineering (BMSCE)**, Bengaluru.
 
-I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, SQL database design, and algorithm optimization, with a focus on creating impactful real-world projects.
+I specialize in building intelligent software systems, developing predictive machine learning algorithms, constructing feature pipelines, optimizing relational SQL database architectures, and engineering clean Python & C software. My focus is on turning complex domain datasets into scalable, real-world AI and software solutions.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -34,22 +34,22 @@ I enjoy building practical software solutions, developing predictive machine lea
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### Current Focus
+### Engineering Focus & Capabilities
 
-- **Machine Learning & Predictive Modeling** — Developing predictive algorithms, feature pipelines & ML systems
-- **Artificial Intelligence** — Building intelligent applications for domain challenges
-- **Data Science** — Extracting actionable insights from structured & unstructured datasets
-- **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
-- **Building Real-World Projects** — Transforming concepts into robust software solutions
+- **Machine Learning & Predictive Systems** — Designing predictive algorithms, feature pipelines & ML models
+- **Artificial Intelligence Engineering** — Constructing domain-tailored intelligent applications & neural graphs
+- **Data Science & Wrangling** — Extracting actionable statistical insights from complex unstructured & structured datasets
+- **SQL & Relational Database Architecture** — Designing relational database schemas, indexing & query tuning with MySQL
+- **Software Engineering** — Writing clean, modular Python & C applications
 
 ---
 
-### Currently Learning
+### Engineering Roadmap
 
-- **Advanced Machine Learning & AI** — Feature engineering, model evaluation & algorithm tuning
-- **Advanced Data Science** — Creating data stories, statistical modeling & data analytics
-- **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
-- **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
+- **Advanced ML & Predictive Pipelines** — Model optimization, feature selection & evaluation metrics
+- **Advanced Data Science & Analytics** — Exploratory data analysis, statistical modeling & data visualization
+- **High-Performance SQL & Databases** — Relational schema normalization, complex joins & indexing
+- **Modular Python & Software Design** — Object-oriented architecture, clean code standards & Git workflows
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -87,7 +87,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 
 <p align="center">
   <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-    <img src="./assets/projects-v4.svg?v=5" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
+    <img src="./assets/projects-v4.svg?v=6" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
   </a>
 </p>
 
