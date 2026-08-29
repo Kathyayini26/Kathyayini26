@@ -1,15 +1,15 @@
 <p align="center">
-  <img src="./assets/header-v13.svg?v=8" alt="Artificial Intelligence & Data Science Banner" width="100%" />
+  <img src="./assets/header-v7.svg?v=9" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+Machine+Learning+%26+Predictive+Systems;Exploring+Data+Science+%26+Data+Analytics" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, Data Analytics, and continuous learning.**
+> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
 
 <p align="center">
-  <img src="./assets/grid-v6.svg?v=8" width="100%" alt="Core Technical Pillars: Machine Learning, Artificial Intelligence, Data Science, Data Analytics" />
+  <img src="./assets/grid-v3.svg?v=9" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
 </p>
 
 ---
@@ -18,7 +18,7 @@
 
 I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
 
-I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, exploring data analytics patterns, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, data analytics, and algorithm optimization, with a focus on creating impactful real-world projects.
+I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, SQL database design, and algorithm optimization, with a focus on creating impactful real-world projects.
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -39,7 +39,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 - **Machine Learning & Predictive Modeling** — Developing predictive algorithms, feature pipelines & ML systems
 - **Artificial Intelligence** — Building intelligent applications for domain challenges
 - **Data Science** — Extracting actionable insights from structured & unstructured datasets
-- **Data Analytics & Insights** — Pattern recognition, statistical modeling & data visualization
+- **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
 - **Building Real-World Projects** — Transforming concepts into robust software solutions
 
 ---
@@ -47,7 +47,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 ### Currently Learning
 
 - **Advanced Machine Learning & AI** — Feature engineering, model evaluation & algorithm tuning
-- **Advanced Data Science & Analytics** — Data stories, statistical modeling & exploratory analysis
+- **Advanced Data Science** — Creating data stories, statistical modeling & data analytics
 - **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
 - **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
 
@@ -87,7 +87,7 @@ I enjoy building practical software solutions, developing predictive machine lea
 
 <p align="center">
   <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-    <img src="./assets/projects-v4.svg?v=8" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
+    <img src="./assets/projects-v4.svg?v=9" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
   </a>
 </p>
 
