@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-codepreview.svg" alt="Kathyayini Prabhu - Terminal System Info & Code Face Portrait Header" width="100%" />
+  <img src="./assets/header-cockpit.svg" alt="Kathyayini Prabhu - Terminal System Info & AI Neural Core Header" width="100%" />
 </p>
 
 <p align="center">
