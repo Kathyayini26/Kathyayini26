@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v11.svg?v=6" alt="Kathyayini Prabhu - AI & Data Science Engineer Header" width="100%" />
+  <img src="./assets/header-v12.svg?v=7" alt="Kathyayini Prabhu - AI & Data Science Engineer Header" width="100%" />
 </p>
 
 <p align="center">
@@ -9,7 +9,7 @@
 > **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Developing machine learning systems, relational SQL architectures, data science pipelines, and intelligent software.**
 
 <p align="center">
-  <img src="./assets/grid-v5.svg?v=6" width="100%" alt="Core Technical Pillars: Machine Learning, Artificial Intelligence, Data Science, SQL & Database" />
+  <img src="./assets/grid-v5.svg?v=7" width="100%" alt="Core Technical Pillars: Machine Learning, Artificial Intelligence, Data Science, SQL & Database" />
 </p>
 
 ---
@@ -87,7 +87,7 @@ I specialize in building intelligent software systems, developing predictive mac
 
 <p align="center">
   <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-    <img src="./assets/projects-v4.svg?v=6" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
+    <img src="./assets/projects-v4.svg?v=7" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
   </a>
 </p>
 
