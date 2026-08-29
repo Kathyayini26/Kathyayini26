@@ -1,0 +1,115 @@
+import xml.etree.ElementTree as ET
+
+svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 230" width="800" height="230">
+  <defs>
+    <!-- Deep Cyber Dark Background Gradient -->
+    <linearGradient id="header-bg-v22" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814">
+        <animate attributeName="stop-color" values="#050814; #0A1128; #0F172A; #050814" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#0A1128">
+        <animate attributeName="stop-color" values="#0A1128; #1E1B4B; #092540; #0A1128" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0F051D">
+        <animate attributeName="stop-color" values="#0F051D; #050814; #0A1128; #0F051D" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <!-- Neon Cyber Border Gradient -->
+    <linearGradient id="header-border-v22" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="33%" stop-color="#38BDF8" />
+      <stop offset="66%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#A78BFA" />
+    </linearGradient>
+
+    <!-- Glow Filter -->
+    <filter id="glow-v22" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Main Container Frame -->
+  <rect width="800" height="230" rx="16" fill="url(#header-bg-v22)" stroke="url(#header-border-v22)" stroke-width="1.8" />
+
+  <!-- Top Accent Shimmer Line -->
+  <rect x="0" y="0" width="800" height="4.5" rx="2.25" fill="url(#header-border-v22)" filter="url(#glow-v22)" />
+
+  <!-- LEFT SIDE: KATHYAYINI PRABHU ACADEMIC TITLE & TAGS -->
+  <g transform="translate(30, 26)">
+    <!-- Vertical Cyan Accent Bar -->
+    <rect x="0" y="8" width="5" height="156" rx="2.5" fill="#00F2FE" filter="url(#glow-v22)" />
+
+    <!-- Name -->
+    <text x="20" y="44" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="28" font-weight="800" letter-spacing="0.5">Kathyayini Prabhu</text>
+
+    <!-- Role & Department -->
+    <text x="20" y="74" fill="#38BDF8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="14.5" font-weight="700">3rd Year Artificial Intelligence &amp; Data Science Student</text>
+
+    <!-- College & Location -->
+    <text x="20" y="104" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, 'Helvetica Neue', Arial, sans-serif" font-size="12" font-weight="500">BMS College of Engineering (BMSCE) • Bengaluru, India</text>
+
+    <!-- Bottom Focus Badges Row -->
+    <g transform="translate(20, 132)">
+      <!-- DATA SCIENCE -->
+      <rect width="105" height="26" rx="13" fill="#161B22" stroke="#38BDF8" stroke-width="1" />
+      <text x="52.5" y="17" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">DATA SCIENCE</text>
+
+      <!-- MACHINE LEARNING -->
+      <rect x="115" width="125" height="26" rx="13" fill="#161B22" stroke="#34D399" stroke-width="1" />
+      <text x="177.5" y="17" fill="#34D399" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">MACHINE LEARNING</text>
+
+      <!-- ARTIFICIAL INTELLIGENCE -->
+      <rect x="250" width="145" height="26" rx="13" fill="#161B22" stroke="#A78BFA" stroke-width="1" />
+      <text x="322.5" y="17" fill="#A78BFA" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">ARTIFICIAL INTEL.</text>
+    </g>
+  </g>
+
+  <!-- RIGHT SIDE: PYTHON CODE RUNNER CARD (REPLACING TOPOLOGY GRAPH) -->
+  <g transform="translate(460, 22)">
+    <!-- Code Editor Box -->
+    <rect width="315" height="184" rx="12" fill="#0D1117" stroke="#334155" stroke-width="1.2" filter="url(#glow-v22)" />
+
+    <!-- Editor Header Row -->
+    <g transform="translate(14, 22)">
+      <text x="0" y="0" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&lt;/&gt; Python</text>
+
+      <!-- Run Button -->
+      <g transform="translate(230, -12)">
+        <rect width="55" height="20" rx="6" fill="#1E293B" stroke="#34D399" stroke-width="0.8" />
+        <path d="M 12 6 L 12 14 L 18 10 Z" fill="#34D399" />
+        <text x="24" y="14" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="9" font-weight="800">Run</text>
+      </g>
+    </g>
+
+    <!-- Code Block Content -->
+    <g transform="translate(14, 48)" font-family="'Fira Code', monospace" font-size="11" font-weight="600">
+      <text x="0" y="0">
+        <tspan fill="#F43F5E">def</tspan> <tspan fill="#38BDF8">engineer</tspan><tspan fill="#F8FAFC">():</tspan>
+      </text>
+      <text x="14" y="18" fill="#A78BFA">observe()</text>
+      <text x="14" y="36" fill="#34D399">analyze()</text>
+      <text x="14" y="54" fill="#00F2FE">innovate()</text>
+    </g>
+
+    <!-- Output Section Box -->
+    <g transform="translate(12, 120)">
+      <rect width="291" height="50" rx="6" fill="#161B22" stroke="#1E293B" stroke-width="0.8" />
+      <text x="12" y="18" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700">&gt;&gt;&gt; engineer()</text>
+      <text x="12" y="36" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">Process completed successfully.</text>
+      <rect x="235" y="27" width="5" height="11" fill="#00F2FE">
+        <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+</svg>'''
+
+# Validate XML strictly
+ET.fromstring(svg_content)
+print("XML Validation for header-v22.svg: 100% PASSED!")
+
+with open(r'C:\Users\Kathyayini\.gemini\antigravity\scratch\Kathyayini-12\assets\header-v22.svg', 'w', encoding='utf-8') as f:
+    f.write(svg_content)
+
+print("assets/header-v22.svg created successfully!")

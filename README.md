@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-v21.svg" alt="Kathyayini Prabhu - Unified Python IDE Header" width="100%" />
+  <img src="./assets/header-v22.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header with Python Code Runner" width="100%" />
 </p>
 
 <p align="center">
