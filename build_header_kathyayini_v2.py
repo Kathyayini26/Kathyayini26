@@ -1,4 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
+import xml.etree.ElementTree as ET
+
+svg_content = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 280" width="800" height="280">
   <defs>
     <!-- Deep Cyber Dark Background Gradient -->
     <linearGradient id="main-bg-grad" x1="0%" y1="0%" x2="100%" y2="100%">
@@ -139,4 +141,13 @@
       <text x="403.5" y="14" fill="#A78BFA" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">CONNECT</text>
     </g>
   </g>
-</svg>
+</svg>'''
+
+# Validate XML strictly
+ET.fromstring(svg_content)
+print("XML Validation for header-kathyayini.svg (v2): 100% PASSED!")
+
+with open(r'C:\Users\Kathyayini\.gemini\antigravity\scratch\Kathyayini-12\assets\header-kathyayini.svg', 'w', encoding='utf-8') as f:
+    f.write(svg_content)
+
+print("assets/header-kathyayini.svg updated successfully!")
