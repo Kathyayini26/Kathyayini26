@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/header-matrix.svg" alt="Kathyayini Prabhu - Terminal System Info & Matrix Photo Header" width="100%" />
+  <img src="./assets/header-portrait.svg" alt="Kathyayini Prabhu - Terminal System Info & Matrix Photo Header" width="100%" />
 </p>
 
 <p align="center">
