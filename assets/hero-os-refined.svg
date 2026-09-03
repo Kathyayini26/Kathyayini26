@@ -1,0 +1,101 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <linearGradient id="ref-hero-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816">
+        <animate attributeName="stop-color" values="#050816; #070B1F; #0A1028; #050816" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#070B1F">
+        <animate attributeName="stop-color" values="#070B1F; #0E122C; #06152B; #070B1F" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A1028">
+        <animate attributeName="stop-color" values="#0A1028; #050816; #070B1F; #0A1028" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="ref-hero-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="35%" stop-color="#38BDF8" />
+      <stop offset="70%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <filter id="ref-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="250" rx="16" fill="url(#ref-hero-bg)" stroke="url(#ref-hero-border)" stroke-width="1.8" />
+  <rect x="0" y="0" width="850" height="4.5" rx="2.25" fill="url(#ref-hero-border)" filter="url(#ref-glow)" />
+
+  <g transform="translate(24, 18)">
+    <circle cx="8" cy="8" r="4.5" fill="#FF5F56" />
+    <circle cx="24" cy="8" r="4.5" fill="#FFBD2E" />
+    <circle cx="40" cy="8" r="4.5" fill="#27C93F" />
+    <text x="60" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10.5" font-weight="700">AI_OS_DASHBOARD // KATHYAYINI_PRABHU // KERNEL v5.0</text>
+    <text x="800" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">SYS.STATUS: ONLINE &#9679;</text>
+  </g>
+
+  <line x1="20" y1="42" x2="830" y2="42" stroke="#1E293B" stroke-width="1.2" />
+
+  <g transform="translate(36, 52)">
+    <rect x="0" y="8" width="5" height="136" rx="2.5" fill="#00F2FE" filter="url(#ref-glow)" />
+
+    <text x="20" y="38" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" letter-spacing="0.5">Kathyayini Prabhu</text>
+    
+    <text x="20" y="68" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="15" font-weight="700">AI &amp; Data Science Engineer</text>
+    
+    <text x="20" y="96" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">BMS College of Engineering (BMSCE) &#8226; CGPA: 9.37</text>
+
+    <!-- 4 Skill Pills: AI, ML, Data Science, SQL & Database Systems -->
+    <g transform="translate(20, 118)">
+      <rect width="112" height="24" rx="12" fill="#161B22" stroke="#00F2FE" stroke-width="1" />
+      <text x="56" y="16" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">ARTIFICIAL INTEL</text>
+
+      <rect x="122" width="125" height="24" rx="12" fill="#161B22" stroke="#34D399" stroke-width="1" />
+      <text x="184.5" y="16" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">MACHINE LEARNING</text>
+
+      <rect x="257" width="105" height="24" rx="12" fill="#161B22" stroke="#38BDF8" stroke-width="1" />
+      <text x="309.5" y="16" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">DATA SCIENCE</text>
+
+      <rect x="372" width="118" height="24" rx="12" fill="#161B22" stroke="#F59E0B" stroke-width="1" />
+      <text x="431" y="16" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">SQL &amp; DATABASES</text>
+    </g>
+  </g>
+
+  <!-- Right Orbital Representation (AI, ML, Data Science, SQL) -->
+  <g transform="translate(560, 50)">
+    <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#334155" stroke-width="1.2" filter="url(#ref-glow)" />
+
+    <circle cx="127" cy="88" r="22" fill="#161B22" stroke="#00F2FE" stroke-width="1.5" />
+    <text x="127" y="92" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">AI_CORE</text>
+
+    <circle cx="127" cy="88" r="62" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+    <circle cx="127" cy="88" r="62" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.6">
+      <animateTransform attributeName="transform" type="rotate" from="0 127 88" to="360 127 88" dur="14s" repeatCount="indefinite" />
+    </circle>
+
+    <!-- 4 Orbiting Domain Nodes: AI (Top), ML (Right), Data Science (Bottom), SQL (Left) -->
+    <g transform="translate(127, 26)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#00F2FE" stroke-width="1.2" />
+      <text x="0" y="3.5" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">AI</text>
+    </g>
+
+    <g transform="translate(189, 88)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#34D399" stroke-width="1.2" />
+      <text x="0" y="3.5" fill="#34D399" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">ML</text>
+    </g>
+
+    <g transform="translate(127, 150)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#38BDF8" stroke-width="1.2" />
+      <text x="0" y="3.5" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">DS</text>
+    </g>
+
+    <g transform="translate(65, 88)">
+      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2" />
+      <text x="0" y="3.5" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">SQL</text>
+    </g>
+
+    <text x="127.5" y="170" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">ORBITAL SYNCHRONY: ACTIVE</text>
+  </g>
+</svg>

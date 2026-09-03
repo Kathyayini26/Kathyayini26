@@ -1,0 +1,85 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="850" height="280">
+  <defs>
+    <linearGradient id="ts-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#0A1028" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="280" rx="14" fill="url(#ts-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1"># TECHNOLOGY STACK // 6 SPECIALIZED ARCHITECTURAL CARDS</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">ACTIVE STACK &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Row 1 -->
+  <g transform="translate(30, 60)">
+    <rect width="250" height="95" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="12" y="20" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="800">01 // PROGRAMMING LANGUAGES</text>
+    <line x1="12" y1="26" x2="238" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#34D399">&#9654;</tspan> Python</text>
+      <text x="80" y="0"><tspan fill="#34D399">&#9654;</tspan> SQL</text>
+      <text x="145" y="0"><tspan fill="#34D399">&#9654;</tspan> C</text>
+    </g>
+  </g>
+
+  <g transform="translate(295, 60)">
+    <rect width="260" height="95" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <text x="12" y="20" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="800">02 // DATA SCIENCE</text>
+    <line x1="12" y1="26" x2="248" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="9.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#00F2FE">&#9670;</tspan> Pandas &amp; NumPy</text>
+      <text x="125" y="0"><tspan fill="#00F2FE">&#9670;</tspan> Tableau</text>
+      <text x="0" y="20"><tspan fill="#00F2FE">&#9670;</tspan> EDA &amp; Statistical Analysis</text>
+    </g>
+  </g>
+
+  <g transform="translate(570, 60)">
+    <rect width="250" height="95" rx="8" fill="#0D1117" stroke="#00F2FE" stroke-width="1" />
+    <text x="12" y="20" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="10" font-weight="800">03 // MACHINE LEARNING</text>
+    <line x1="12" y1="26" x2="238" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="9.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#34D399">&#9658;</tspan> Machine Learning</text>
+      <text x="125" y="0"><tspan fill="#34D399">&#9658;</tspan> Scikit-Learn</text>
+      <text x="0" y="20"><tspan fill="#34D399">&#9658;</tspan> Predictive Models</text>
+      <text x="125" y="20"><tspan fill="#34D399">&#9658;</tspan> Feature Eng.</text>
+    </g>
+  </g>
+
+  <!-- Row 2 -->
+  <g transform="translate(30, 168)">
+    <rect width="250" height="95" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+    <text x="12" y="20" fill="#818CF8" font-family="'Fira Code', monospace" font-size="10" font-weight="800">04 // BACKEND DEVELOPMENT</text>
+    <line x1="12" y1="26" x2="238" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="9.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#818CF8">&#9658;</tspan> Flask</text>
+      <text x="80" y="0"><tspan fill="#818CF8">&#9658;</tspan> FastAPI</text>
+      <text x="155" y="0"><tspan fill="#818CF8">&#9658;</tspan> REST APIs</text>
+    </g>
+  </g>
+
+  <g transform="translate(295, 168)">
+    <rect width="260" height="95" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+    <text x="12" y="20" fill="#C084FC" font-family="'Fira Code', monospace" font-size="10" font-weight="800">05 // DEVELOPMENT TOOLS</text>
+    <line x1="12" y1="26" x2="248" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="9.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#C084FC">&#9670;</tspan> Git</text>
+      <text x="65" y="0"><tspan fill="#C084FC">&#9670;</tspan> GitHub</text>
+      <text x="145" y="0"><tspan fill="#C084FC">&#9670;</tspan> React</text>
+    </g>
+  </g>
+
+  <g transform="translate(570, 168)">
+    <rect width="250" height="95" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <text x="12" y="20" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="10" font-weight="800">06 // DATABASES</text>
+    <line x1="12" y1="26" x2="238" y2="26" stroke="#1E293B" stroke-width="1" />
+    <g transform="translate(12, 44)" font-family="'Fira Code', monospace" font-size="9.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#F59E0B">&#9679;</tspan> MySQL</text>
+      <text x="90" y="0"><tspan fill="#F59E0B">&#9679;</tspan> SQLite</text>
+      <text x="0" y="20"><tspan fill="#F59E0B">&#9679;</tspan> DB Design &amp; Query Tuning</text>
+    </g>
+  </g>
+</svg>

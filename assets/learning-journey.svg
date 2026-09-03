@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 200" width="850" height="200">
+  <defs>
+    <linearGradient id="lj-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#0A1028" />
+    </linearGradient>
+
+    <linearGradient id="lj-path" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="200" rx="14" fill="url(#lj-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1"># CURRENT LEARNING JOURNEY // PATH CONNECTIONS (NO PERCENTAGES)</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">&#9679; TRAJECTORY ONLINE</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <line x1="75" y1="100" x2="775" y2="100" stroke="url(#lj-path)" stroke-width="2" stroke-dasharray="6 4" opacity="0.6" />
+
+  <g transform="translate(60, 65)">
+    <rect width="135" height="70" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <circle cx="16" cy="18" r="4" fill="#10B981" />
+    <text x="26" y="21" fill="#10B981" font-family="'Fira Code', monospace" font-size="8" font-weight="700">ACTIVE LEARNING</text>
+    <text x="12" y="44" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="10" font-weight="700">Advanced ML</text>
+    <text x="12" y="58" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8.5">Ensemble &amp; Neural</text>
+  </g>
+
+  <g transform="translate(210, 65)">
+    <rect width="135" height="70" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <circle cx="16" cy="18" r="4" fill="#10B981" />
+    <text x="26" y="21" fill="#10B981" font-family="'Fira Code', monospace" font-size="8" font-weight="700">ACTIVE LEARNING</text>
+    <text x="12" y="44" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="10" font-weight="700">FastAPI</text>
+    <text x="12" y="58" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8.5">High-Speed APIs</text>
+  </g>
+
+  <g transform="translate(360, 65)">
+    <rect width="135" height="70" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <circle cx="16" cy="18" r="4" fill="#F59E0B" />
+    <text x="26" y="21" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8" font-weight="700">EXPLORING</text>
+    <text x="12" y="44" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="10" font-weight="700">MLOps Fund.</text>
+    <text x="12" y="58" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8.5">CI/CD &amp; Pipelines</text>
+  </g>
+
+  <g transform="translate(510, 65)">
+    <rect width="135" height="70" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+    <circle cx="16" cy="18" r="4" fill="#38BDF8" />
+    <text x="26" y="21" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="8" font-weight="700">BUILDING</text>
+    <text x="12" y="44" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="10" font-weight="700">System Design</text>
+    <text x="12" y="58" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8.5">Microservices</text>
+  </g>
+
+  <g transform="translate(660, 65)">
+    <rect width="135" height="70" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+    <circle cx="16" cy="18" r="4" fill="#10B981" />
+    <text x="26" y="21" fill="#10B981" font-family="'Fira Code', monospace" font-size="8" font-weight="700">ACTIVE LEARNING</text>
+    <text x="12" y="44" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="10" font-weight="700">SQL Tuning</text>
+    <text x="12" y="58" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8.5">Query Optimization</text>
+  </g>
+
+  <g transform="translate(250, 160)" font-family="'Fira Code', monospace" font-size="9" fill="#94A3B8">
+    <circle cx="10" cy="10" r="3.5" fill="#10B981" />
+    <text x="20" y="13">🟢 Active Learning</text>
+    
+    <circle cx="140" cy="10" r="3.5" fill="#F59E0B" />
+    <text x="150" y="13">🟡 Exploring</text>
+    
+    <circle cx="250" cy="10" r="3.5" fill="#38BDF8" />
+    <text x="260" y="13">🔵 Building Projects</text>
+  </g>
+</svg>

@@ -1,0 +1,77 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 310" width="850" height="310">
+  <defs>
+    <linearGradient id="ed-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#070B1F" />
+    </linearGradient>
+
+    <filter id="ed-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="310" rx="14" fill="url(#ed-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1"># ENGINEERING DOMAINS // CORE DISCIPLINES</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">4 CORE PILLARS &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Card 1: AI & ML -->
+  <g transform="translate(30, 60)">
+    <rect width="380" height="110" rx="10" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="16" y="24" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#129504; CARD 1 // ARTIFICIAL INTEL &amp; ML</text>
+    <line x1="16" y1="32" x2="364" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 52)" font-family="'Fira Code', monospace" font-size="10.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#34D399">&#9658;</tspan> Machine Learning</text>
+      <text x="180" y="0"><tspan fill="#34D399">&#9658;</tspan> Scikit-Learn</text>
+      <text x="0" y="24"><tspan fill="#34D399">&#9658;</tspan> Predictive Modeling</text>
+      <text x="180" y="24"><tspan fill="#34D399">&#9658;</tspan> Feature Engineering</text>
+    </g>
+  </g>
+
+  <!-- Card 2: Data Science & Analytics -->
+  <g transform="translate(430, 60)">
+    <rect width="390" height="110" rx="10" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <text x="16" y="24" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#128202; CARD 2 // DATA SCIENCE &amp; ANALYTICS</text>
+    <line x1="16" y1="32" x2="374" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 52)" font-family="'Fira Code', monospace" font-size="10.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#00F2FE">&#9658;</tspan> Data Analysis</text>
+      <text x="180" y="0"><tspan fill="#00F2FE">&#9658;</tspan> Pandas &amp; NumPy</text>
+      <text x="0" y="24"><tspan fill="#00F2FE">&#9658;</tspan> EDA (Exploratory)</text>
+      <text x="180" y="24"><tspan fill="#00F2FE">&#9658;</tspan> Statistical Analysis</text>
+    </g>
+  </g>
+
+  <!-- Card 3: Software Development -->
+  <g transform="translate(30, 182)">
+    <rect width="380" height="110" rx="10" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+    <text x="16" y="24" fill="#818CF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9881; CARD 3 // SOFTWARE DEVELOPMENT</text>
+    <line x1="16" y1="32" x2="364" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 52)" font-family="'Fira Code', monospace" font-size="10.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#818CF8">&#9658;</tspan> Python</text>
+      <text x="180" y="0"><tspan fill="#818CF8">&#9658;</tspan> FastAPI &amp; Flask</text>
+      <text x="0" y="24"><tspan fill="#818CF8">&#9658;</tspan> REST APIs</text>
+      <text x="180" y="24"><tspan fill="#818CF8">&#9658;</tspan> React &amp; Git / GitHub</text>
+    </g>
+  </g>
+
+  <!-- Card 4: Database Systems -->
+  <g transform="translate(430, 182)">
+    <rect width="390" height="110" rx="10" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <text x="16" y="24" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#128452; CARD 4 // DATABASE SYSTEMS</text>
+    <line x1="16" y1="32" x2="374" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 52)" font-family="'Fira Code', monospace" font-size="10.5" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#F59E0B">&#9658;</tspan> SQL &amp; MySQL</text>
+      <text x="180" y="0"><tspan fill="#F59E0B">&#9658;</tspan> SQLite</text>
+      <text x="0" y="24"><tspan fill="#F59E0B">&#9658;</tspan> Database Design</text>
+      <text x="180" y="24"><tspan fill="#F59E0B">&#9658;</tspan> Query Optimization</text>
+    </g>
+  </g>
+</svg>

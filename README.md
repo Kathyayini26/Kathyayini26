@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="./assets/antigravity-hero.svg" alt="Kathyayini Prabhu - Anti-Gravity AI Command Center" width="100%" />
+  <img src="./assets/hero-os-refined.svg" alt="Kathyayini Prabhu - Futuristic AI Operating System" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Data+Science+Engineer;Knowledge+Graphs+%26+Predictive+AI;Transforming+Data+Into+Decisions;Engineering+Intelligence+From+Data" alt="Typing Subtitle Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&height=45&lines=AI+%26+Data+Science+Engineer;Machine+Learning+%26+Analytics;SQL+%26+Database+Systems;Transforming+Data+Into+Decisions;Engineering+Intelligence+From+Data" alt="Typing Subtitle Header" />
 </p>
 
 > **"Building intelligent systems that transform complex data into actionable decisions through Artificial Intelligence, Machine Learning, Data Science, and Software Engineering."**
@@ -15,52 +15,56 @@
 ## 📟 Interactive AI Terminal
 
 <p align="center">
-  <img src="./assets/antigravity-terminal.svg" alt="Interactive AI Command Center Terminal" width="100%" />
+  <img src="./assets/terminal-refined.svg" alt="Interactive AI Command Center Terminal" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🧠 About // Intelligence Overview
+## 🧠 Neural Blueprint
 
 <p align="center">
-  <img src="./assets/antigravity-about.svg" alt="About Kathyayini Prabhu - Engineering Intelligence from Data" width="100%" />
+  <img src="./assets/neural-blueprint.svg" alt="Neural Blueprint - Transforming Data Into Intelligent Systems" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🎛️ Capability Matrix // 4 Anti-Gravity Blocks
+## ⚙️ Engineering Domains
 
 <p align="center">
-  <img src="./assets/antigravity-matrix.svg" alt="4 Floating Anti-Gravity Capability Blocks" width="100%" />
+  <img src="./assets/engineering-domains.svg" alt="Engineering Domains - Core Disciplines" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🛠️ Skills Arsenal // Floating Technology Capsules
+## 🛠️ Technology Stack
 
 <p align="center">
-  <img src="./assets/antigravity-skills.svg" alt="Skills Arsenal - Floating Anti-Gravity Capsules" width="100%" />
+  <img src="./assets/tech-stack-cards.svg" alt="Technology Stack - 6 Specialized Architectural Cards" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🚀 Holographic Project Pods
+## 🚀 Innovation Lab
+
+<p align="center">
+  <img src="./assets/innovation-lab.svg" alt="Innovation Lab - Selected Intelligent Systems" width="100%" />
+</p>
 
 <table>
   <tr>
     <td width="50%" valign="top">
       <h3>🧬 01 // BioWeaver</h3>
-      <p><b>Biomedical AI &amp; Knowledge Graph Platform</b></p>
-      <p>AI-powered biological discovery platform integrating multi-relational knowledge graphs to predict gene-disease associations and generate explainable research hypotheses.</p>
-      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Knowledge Graphs</code> <code>Node2Vec</code> <code>Scikit-Learn</code></p>
+      <p><b>Biomedical AI &amp; Discovery Platform</b></p>
+      <p>AI-powered biological discovery platform engineered to predict gene-disease interactions and generate explainable research hypotheses.</p>
+      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Scikit-Learn</code> <code>AI Discovery</code></p>
       <p>
         <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
           <img src="https://img.shields.io/badge/GitHub-View_Repository-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="BioWeaver" />
@@ -117,6 +121,16 @@
     </td>
   </tr>
 </table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🗺️ Current Learning Journey
+
+<p align="center">
+  <img src="./assets/learning-journey.svg" alt="Current Learning Journey - Path Connections" width="100%" />
+</p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
