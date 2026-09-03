@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="./assets/hero-engineer.svg" alt="Kathyayini Prabhu - Artificial Intelligence & Data Science Engineer" width="100%" />
+  <img src="./assets/hero-kathyayini-brain.svg" alt="Kathyayini Prabhu - Artificial Intelligence & Data Science Engineer" width="100%" />
 </p>
 
 <p align="center">
