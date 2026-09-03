@@ -1,0 +1,55 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 170" width="850" height="170">
+  <defs>
+    <linearGradient id="agc-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#080D1F" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="170" rx="14" fill="url(#agc-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#818CF8" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">CERTIFICATIONS // FLOATING CERTIFICATION VAULT</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">4 VERIFIED CREDENTIALS &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 4 Vault Badges -->
+  <g transform="translate(30, 60)" font-family="'Fira Code', monospace">
+    <!-- 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="85" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+      <text x="12" y="24" fill="#38BDF8" font-size="9" font-weight="800">&#128737; NUTANIX CLOUD</text>
+      <text x="12" y="44" fill="#F8FAFC" font-size="9.5" font-weight="700">Hybrid Cloud</text>
+      <text x="12" y="58" fill="#F8FAFC" font-size="9.5" font-weight="700">Certified Pro</text>
+      <text x="12" y="74" fill="#34D399" font-size="8.5">Nutanix Cloud</text>
+    </g>
+
+    <!-- 2 -->
+    <g transform="translate(204, 0)">
+      <rect width="188" height="85" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+      <text x="12" y="24" fill="#34D399" font-size="9" font-weight="800">&#128737; ORACLE SQL</text>
+      <text x="12" y="44" fill="#F8FAFC" font-size="9.5" font-weight="700">Oracle SQL</text>
+      <text x="12" y="58" fill="#F8FAFC" font-size="9.5" font-weight="700">Certification</text>
+      <text x="12" y="74" fill="#00F2FE" font-size="8.5">Oracle Academy</text>
+    </g>
+
+    <!-- 3 -->
+    <g transform="translate(408, 0)">
+      <rect width="188" height="85" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+      <text x="12" y="24" fill="#C084FC" font-size="9" font-weight="800">&#128737; NPTEL ETHICS</text>
+      <text x="12" y="44" fill="#F8FAFC" font-size="9.5" font-weight="700">Ethics in Engg</text>
+      <text x="12" y="58" fill="#F8FAFC" font-size="9.5" font-weight="700">Practice</text>
+      <text x="12" y="74" fill="#C084FC" font-size="8.5">IIT / NPTEL India</text>
+    </g>
+
+    <!-- 4 -->
+    <g transform="translate(612, 0)">
+      <rect width="178" height="85" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+      <text x="12" y="24" fill="#F59E0B" font-size="9" font-weight="800">&#128737; C PROGRAMMING</text>
+      <text x="12" y="44" fill="#F8FAFC" font-size="9.5" font-weight="700">C Programming</text>
+      <text x="12" y="58" fill="#F8FAFC" font-size="9.5" font-weight="700">Certification</text>
+      <text x="12" y="74" fill="#F59E0B" font-size="8.5">Foundations</text>
+    </g>
+  </g>
+</svg>

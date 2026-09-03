@@ -1,0 +1,87 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 310" width="850" height="310">
+  <defs>
+    <linearGradient id="agm-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#070B1F" />
+    </linearGradient>
+
+    <filter id="agm-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="310" rx="14" fill="url(#agm-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">CAPABILITY MATRIX // 4 ANTI-GRAVITY BLOCKS (ZERO PROGRESS BARS)</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">PRODUCTION VERIFIED &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 4 CARDS -->
+  
+  <!-- Block 1: AI & ML -->
+  <g transform="translate(30, 60)">
+    <rect width="380" height="110" rx="10" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="16" y="24" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#129504; BLOCK 1 // AI &amp; MACHINE LEARNING</text>
+    <line x1="16" y1="32" x2="364" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 50)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#34D399">&#9658;</tspan> Machine Learning</text>
+      <text x="180" y="0"><tspan fill="#34D399">&#9658;</tspan> Scikit-Learn</text>
+      <text x="0" y="22"><tspan fill="#34D399">&#9658;</tspan> Knowledge Graphs</text>
+      <text x="180" y="22"><tspan fill="#34D399">&#9658;</tspan> Node2Vec</text>
+      <text x="0" y="44"><tspan fill="#34D399">&#9658;</tspan> Predictive Modeling</text>
+      <text x="180" y="44"><tspan fill="#34D399">&#9658;</tspan> Feature Engineering</text>
+    </g>
+  </g>
+
+  <!-- Block 2: Data Science -->
+  <g transform="translate(430, 60)">
+    <rect width="390" height="110" rx="10" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <text x="16" y="24" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#128202; BLOCK 2 // DATA SCIENCE</text>
+    <line x1="16" y1="32" x2="374" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 50)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#00F2FE">&#9658;</tspan> EDA (Exploratory Data)</text>
+      <text x="190" y="0"><tspan fill="#00F2FE">&#9658;</tspan> Statistical Analysis</text>
+      <text x="0" y="22"><tspan fill="#00F2FE">&#9658;</tspan> Data Wrangling</text>
+      <text x="190" y="22"><tspan fill="#00F2FE">&#9658;</tspan> Pandas</text>
+      <text x="0" y="44"><tspan fill="#00F2FE">&#9658;</tspan> NumPy</text>
+      <text x="190" y="44"><tspan fill="#00F2FE">&#9658;</tspan> Tableau</text>
+    </g>
+  </g>
+
+  <!-- Block 3: Software Engineering -->
+  <g transform="translate(30, 182)">
+    <rect width="380" height="110" rx="10" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+    <text x="16" y="24" fill="#818CF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9889; BLOCK 3 // SOFTWARE ENGINEERING</text>
+    <line x1="16" y1="32" x2="364" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 50)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#818CF8">&#9658;</tspan> Python</text>
+      <text x="180" y="0"><tspan fill="#818CF8">&#9658;</tspan> FastAPI</text>
+      <text x="0" y="22"><tspan fill="#818CF8">&#9658;</tspan> Flask</text>
+      <text x="180" y="22"><tspan fill="#818CF8">&#9658;</tspan> React</text>
+      <text x="0" y="44"><tspan fill="#818CF8">&#9658;</tspan> REST APIs</text>
+      <text x="180" y="44"><tspan fill="#818CF8">&#9658;</tspan> Git / GitHub / OpenCV</text>
+    </g>
+  </g>
+
+  <!-- Block 4: Database Systems -->
+  <g transform="translate(430, 182)">
+    <rect width="390" height="110" rx="10" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <text x="16" y="24" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#128452; BLOCK 4 // DATABASE SYSTEMS</text>
+    <line x1="16" y1="32" x2="374" y2="32" stroke="#1E293B" stroke-width="1" />
+    
+    <g transform="translate(16, 50)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+      <text x="0" y="0"><tspan fill="#F59E0B">&#9658;</tspan> MySQL</text>
+      <text x="190" y="0"><tspan fill="#F59E0B">&#9658;</tspan> SQLite</text>
+      <text x="0" y="22"><tspan fill="#F59E0B">&#9658;</tspan> Database Design</text>
+      <text x="190" y="22"><tspan fill="#F59E0B">&#9658;</tspan> Query Optimization</text>
+      <text x="0" y="44"><tspan fill="#F59E0B">&#9658;</tspan> DBMS Architecture</text>
+      <text x="190" y="44"><tspan fill="#F59E0B">&#9658;</tspan> Relational Modeling</text>
+    </g>
+  </g>
+</svg>

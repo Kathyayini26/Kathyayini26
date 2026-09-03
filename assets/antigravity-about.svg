@@ -1,0 +1,41 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 210" width="850" height="210">
+  <defs>
+    <linearGradient id="aga-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#0A1028" />
+    </linearGradient>
+
+    <filter id="aga-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="210" rx="14" fill="url(#aga-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">ABOUT // FLOATING INTELLIGENCE PANEL</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">VERIFIED PROFILE &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <g transform="translate(36, 68)">
+    <text x="0" y="18" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="18" font-weight="800">
+      Engineering Intelligence From Data
+    </text>
+
+    <text x="0" y="46" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">
+      Third-year Artificial Intelligence &amp; Data Science student focused on Machine Learning, Data Science, Knowledge Graphs,
+    </text>
+    <text x="0" y="66" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5" font-weight="400">
+      Predictive Analytics and intelligent software systems.
+    </text>
+
+    <text x="0" y="96" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">
+      Experienced in building AI solutions spanning biomedical research, risk intelligence, infrastructure analytics,
+    </text>
+    <text x="0" y="114" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="400">
+      computer vision and data-driven decision making.
+    </text>
+  </g>
+</svg>
