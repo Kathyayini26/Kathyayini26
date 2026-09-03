@@ -89,7 +89,7 @@
 
 <p align="center">
   <a href="https://github.com/Kathyayini26?tab=repositories" target="_blank">
-    <img src="./assets/intelligence-lab-5cards.svg" alt="Intelligence Lab - All 5 Featured Systems" width="100%" />
+    <img src="./assets/projects-card-grid.svg" alt="Intelligence Lab - Featured Systems" width="100%" />
   </a>
 </p>
 
