@@ -85,86 +85,35 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## 🚀 FEATURED_PROJECTS.dir // PINNED REPOSITORIES
+## Intelligence Lab
 
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-        <img src="./assets/project-bioweaver.svg" alt="BioWeaver Discovery Platform" width="100%" />
-      </a>
-      <br /><br />
-      <h3>🧬 <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">BioWeaver-Discovery-Platform</a></h3>
-      <p>Biomedical AI &amp; Discovery platform predicting gene-disease interactions with explainable research hypotheses and molecular graph analytics.</p>
-      <p>
-        <code>Machine Learning</code> &#8226; <code>Python</code> &#8226; <code>Flask</code> &#8226; <code>React</code> &#8226; <code>Scikit-Learn</code>
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26/bioweaver" target="_blank"><b>&rarr; View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
-        <img src="./assets/project-maritime.svg" alt="AI Maritime Risk Intelligence" width="100%" />
-      </a>
-      <br /><br />
-      <h3>🚢 <a href="https://github.com/Kathyayini26" target="_blank">AI-Maritime-Risk-Intelligence</a></h3>
-      <p>AI-powered Maritime Logistics Intelligence Platform for route risk prediction, seasonal forecasting, alternative port optimization, interactive mapping, and logistics analytics using Machine Learning and Python.</p>
-      <p>
-        <code>Machine Learning</code> &#8226; <code>Python</code> &#8226; <code>Flask</code> &#8226; <code>Risk Prediction</code> &#8226; <code>Logistics Analytics</code>
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank"><b>&rarr; View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
-        <img src="./assets/project-roadwatch.svg" alt="RoadWatch Hazard Intelligence" width="100%" />
-      </a>
-      <br /><br />
-      <h3>🛣️ <a href="https://github.com/Kathyayini26" target="_blank">RoadWatch-Infrastructure-Risk</a></h3>
-      <p>Geospatial road hazard telemetry, anomaly detection, and safety analytics platform for proactive infrastructure intelligence.</p>
-      <p>
-        <code>Python</code> &#8226; <code>GIS Analytics</code> &#8226; <code>Data Science</code> &#8226; <code>Pandas</code> &#8226; <code>Anomaly Detection</code>
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank"><b>&rarr; View Repository</b></a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
-        <img src="./assets/project-attendance.svg" alt="Smart Attendance & Timetable Generator" width="100%" />
-      </a>
-      <br /><br />
-      <h3>📷 <a href="https://github.com/Kathyayini26" target="_blank">Smart-Attendence-and-Timetable-generator</a></h3>
-      <p>Automated biometric attendance recognition and intelligent timetable scheduling system powered by computer vision and Python algorithms.</p>
-      <p>
-        <code>Python</code> &#8226; <code>OpenCV</code> &#8226; <code>Computer Vision</code> &#8226; <code>Constraint Solver</code> &#8226; <code>Automation</code>
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank"><b>&rarr; View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
-        <img src="./assets/project-smartcane.svg" alt="SmartCane Assistive IoT" width="100%" />
-      </a>
-      <br /><br />
-      <h3>🦯 <a href="https://github.com/Kathyayini26" target="_blank">SmartCane-Assistive-IoT-System</a></h3>
-      <p>Intelligent multi-sensor assistive navigation and obstacle avoidance device providing real-time spatial mapping and adaptive haptic feedback.</p>
-      <p>
-        <code>C</code> &#8226; <code>IoT Sensors</code> &#8226; <code>Embedded Systems</code> &#8226; <code>Hardware Firmware</code> &#8226; <code>Haptic Radar</code>
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank"><b>&rarr; View Repository</b></a>
-      </p>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <a href="https://github.com/Kathyayini26?tab=repositories" target="_blank">
+    <img src="./assets/intelligence-lab-5cards.svg" alt="Intelligence Lab - All 5 Featured Systems" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
+    <img src="https://img.shields.io/badge/01_BioWeaver-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="BioWeaver Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/02_Maritime_Risk_AI-34D399?style=for-the-badge&logo=github&logoColor=black" alt="Maritime Risk Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/03_RoadWatch-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="RoadWatch Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/04_Smart_Attendance-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Smart Attendance Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/05_SmartCane-C084FC?style=for-the-badge&logo=github&logoColor=black" alt="SmartCane Repo" />
+  </a>
+</p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
