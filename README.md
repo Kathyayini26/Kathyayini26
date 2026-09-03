@@ -85,24 +85,10 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-## Engineering Workflow
-
-<p align="center">
-  <img src="./assets/engineering-workflow.svg" alt="Engineering Workflow - End-to-End AI Pipeline" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
 ## Intelligence Lab
 
 <p align="center">
-  <img src="./assets/intelligence-lab-all-projects.svg" alt="Intelligence Lab - All Active Systems" width="100%" />
+  <img src="./assets/intelligence-lab-showcase.svg" alt="Intelligence Lab - All Featured Systems" width="100%" />
 </p>
 
 <table>
