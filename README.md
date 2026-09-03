@@ -6,7 +6,7 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&height=45&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%26+Predictive+Systems;SQL+%26+Database+Engineering;Transforming+Data+Into+Intelligent+Decisions" alt="Typing Subtitle Header" />
 </p>
 
-> **"Transforming Data Into Intelligent Decisions Through AI, Analytics & Software Systems"**
+> **"Designing and developing intelligent software systems that leverage Artificial Intelligence, Data Science, Machine Learning, and Database Engineering to solve real-world challenges and drive data-driven decision making."**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
