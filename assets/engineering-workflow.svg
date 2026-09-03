@@ -1,0 +1,88 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="850" height="140">
+  <defs>
+    <linearGradient id="eng-wf-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#080D1F" />
+    </linearGradient>
+
+    <linearGradient id="eng-wf-arrow" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#34D399" />
+      <stop offset="100%" stop-color="#818CF8" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="140" rx="14" fill="url(#eng-wf-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 20)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="12" font-weight="800" letter-spacing="1">ENGINEERING WORKFLOW // END-TO-END AI PIPELINE</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700" text-anchor="end">PRODUCTION READY &#9679;</text>
+  </g>
+  <line x1="30" y1="38" x2="820" y2="38" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 6 Step Pipeline with Animated Connecting Arrows -->
+  <g transform="translate(30, 56)" font-family="'Fira Code', monospace">
+    <!-- Step 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="112" height="56" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+      <text x="10" y="18" fill="#38BDF8" font-size="8" font-weight="700">01 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Problem</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Identification</text>
+    </g>
+
+    <!-- Arrow 1 -->
+    <text x="119" y="32" fill="#00F2FE" font-size="12" font-weight="800">&#10132;</text>
+
+    <!-- Step 2 -->
+    <g transform="translate(136, 0)">
+      <rect width="112" height="56" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+      <text x="10" y="18" fill="#34D399" font-size="8" font-weight="700">02 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Data</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Collection</text>
+    </g>
+
+    <!-- Arrow 2 -->
+    <text x="255" y="32" fill="#34D399" font-size="12" font-weight="800">&#10132;</text>
+
+    <!-- Step 3 -->
+    <g transform="translate(272, 0)">
+      <rect width="112" height="56" rx="8" fill="#0D1117" stroke="#00F2FE" stroke-width="1" />
+      <text x="10" y="18" fill="#00F2FE" font-size="8" font-weight="700">03 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Data</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Analysis</text>
+    </g>
+
+    <!-- Arrow 3 -->
+    <text x="391" y="32" fill="#00F2FE" font-size="12" font-weight="800">&#10132;</text>
+
+    <!-- Step 4 -->
+    <g transform="translate(408, 0)">
+      <rect width="112" height="56" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+      <text x="10" y="18" fill="#818CF8" font-size="8" font-weight="700">04 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Machine</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Learning</text>
+    </g>
+
+    <!-- Arrow 4 -->
+    <text x="527" y="32" fill="#818CF8" font-size="12" font-weight="800">&#10132;</text>
+
+    <!-- Step 5 -->
+    <g transform="translate(544, 0)">
+      <rect width="112" height="56" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+      <text x="10" y="18" fill="#C084FC" font-size="8" font-weight="700">05 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Backend</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Integration</text>
+    </g>
+
+    <!-- Arrow 5 -->
+    <text x="663" y="32" fill="#C084FC" font-size="12" font-weight="800">&#10132;</text>
+
+    <!-- Step 6 -->
+    <g transform="translate(680, 0)">
+      <rect width="110" height="56" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+      <text x="10" y="18" fill="#F59E0B" font-size="8" font-weight="700">06 // STEP</text>
+      <text x="10" y="34" fill="#F8FAFC" font-size="9" font-weight="700">Production</text>
+      <text x="10" y="46" fill="#F8FAFC" font-size="9" font-weight="700">Deployment</text>
+    </g>
+  </g>
+</svg>
