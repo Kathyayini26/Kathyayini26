@@ -25,7 +25,7 @@
 ## Neural Blueprint
 
 <p align="center">
-  <img src="./assets/neural-blueprint-engineer.svg" alt="Neural Blueprint - Transforming Data Into Intelligent Systems" width="100%" />
+  <img src="./assets/neural-blueprint.svg" alt="Neural Blueprint - Transforming Data Into Intelligent Systems" width="100%" />
 </p>
 
 <p align="center">
