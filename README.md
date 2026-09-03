@@ -112,13 +112,16 @@
       </a>
     </td>
   </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/Kathyayini26" target="_blank">
+        <img src="./assets/card-smartcane.svg" alt="SmartCane - Assistive IoT" width="100%" />
+      </a>
+    </td>
+    <td width="50%" valign="top">
+    </td>
+  </tr>
 </table>
-
-<p align="center">
-  <a href="https://github.com/Kathyayini26" target="_blank">
-    <img src="./assets/card-smartcane.svg" alt="SmartCane - Assistive IoT" width="49.5%" />
-  </a>
-</p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
