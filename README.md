@@ -1,12 +1,32 @@
 <p align="center">
-  <img src="./assets/hero-os.svg" alt="Kathyayini Prabhu - AI Operating System Hero Control Center" width="100%" />
+  <img src="./assets/hero-identity.svg" alt="Kathyayini Prabhu - AI Operating System Identity Control Center" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&height=45&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Transforming+Data+Into+Decisions;Exploring+Machine+Learning+%26+Research;Engineering+Intelligence+From+Data" alt="Typing Subtitle Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=650&height=45&lines=AI+Engineer;Machine+Learning+Builder;Data+Intelligence+Explorer;Research+Driven+Developer;System+Thinker" alt="Typing Identity Header" />
 </p>
 
-> **"Building intelligent systems that transform complex information into actionable decisions through Artificial Intelligence, Machine Learning, Data Science, and Software Engineering."**
+> **"Building intelligent systems that transform complex data into actionable decisions through Artificial Intelligence, Machine Learning, Data Science, and Software Engineering."**
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🧬 AI Engineer DNA // Telemetry Matrix
+
+<p align="center">
+  <img src="./assets/engineer-dna.svg" alt="AI Engineer DNA Competency Telemetry Matrix" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🧠 Engineering Profile // Persona & Archetype
+
+<p align="center">
+  <img src="./assets/persona.svg" alt="Engineering Persona Archetype Card" width="100%" />
+</p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -15,151 +35,34 @@
 ## 📟 Interactive AI Terminal
 
 <p align="center">
-  <img src="./assets/terminal-ai.svg" alt="Interactive AI Command Line Terminal" width="100%" />
+  <img src="./assets/terminal-identity.svg" alt="Interactive AI Command Line Terminal" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🌌 Project Galaxy // Connected Intelligence Nodes
+## 🌌 Skill Constellation // Capability Graph
 
 <p align="center">
-  <img src="./assets/galaxy.svg" alt="Project Galaxy Architecture Topology" width="100%" />
+  <img src="./assets/constellation.svg" alt="Skill Constellation Interconnected Capability Graph" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🚀 Featured AI & Software Projects
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🧬 01 // BioWeaver</h3>
-      <p><b>Category:</b> <code>Computational Biology</code> &nbsp;|&nbsp; <b>Status:</b> <code>Active Research &amp; Dev</code></p>
-      <p>AI-powered biological discovery platform integrating multi-relational knowledge graphs to predict gene-disease associations and generate explainable biomedical research hypotheses.</p>
-      <ul>
-        <li><b>Knowledge Graph Intelligence:</b> Multi-relational graph embedding pipelines</li>
-        <li><b>Gene-Disease Prediction:</b> Link prediction across biological ontology entities</li>
-        <li><b>Explainable AI (XAI):</b> Traceable reasoning paths for researchers</li>
-      </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Knowledge Graphs</code></p>
-      <p>
-        <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="BioWeaver Repo" />
-        </a>
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🚢 02 // AI Maritime Risk Intelligence</h3>
-      <p><b>Category:</b> <code>Logistics Intelligence</code> &nbsp;|&nbsp; <b>Status:</b> <code>Active Development</code></p>
-      <p>Intelligent maritime analytics platform engineered for vessel route risk prediction, seasonal disruption forecasting, and container port congestion optimization.</p>
-      <ul>
-        <li><b>Route Risk Analysis:</b> Predictive threat &amp; weather pattern modeling</li>
-        <li><b>Seasonal Forecasting:</b> Multi-variable time-series logistics forecasts</li>
-        <li><b>Port Congestion Optimization:</b> Real-time vessel queue algorithms</li>
-      </ul>
-      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Predictive ML</code></p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank">
-          <img src="https://img.shields.io/badge/GitHub-View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Maritime Repo" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🦯 03 // SMARTCANE</h3>
-      <p><b>Category:</b> <code>Assistive Technology &amp; IoT</code></p>
-      <p>Smart navigation and obstacle detection system designed to empower visually impaired individuals through intelligent multi-sensor spatial guidance and real-time haptic alerts.</p>
-      <p><b>Highlights:</b> Ultrasonic spatial mapping, adaptive tactile feedback, emergency telemetry.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🎓 04 // Smart Attendance &amp; Timetable Generator</h3>
-      <p><b>Category:</b> <code>Education Technology &amp; Automation</code></p>
-      <p>Automated scheduling engine that solves multi-variable resource constraints to generate collision-free academic timetables paired with digitized attendance tracking.</p>
-      <p><b>Highlights:</b> Constraint satisfaction solver, algorithmic optimization, automated reporting.</p>
-    </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <h3>🛣️ 05 // RoadWatch BIMSTEC</h3>
-      <p><b>Category:</b> <code>Transportation Analytics &amp; Infrastructure Monitoring</code></p>
-      <p>Regional road quality and infrastructure intelligence platform featuring automated road-hazard telemetry, geospatial condition mapping, and traffic flow monitoring.</p>
-      <p><b>Highlights:</b> Geospatial data analytics, road anomaly classification, municipal decision dashboards.</p>
-    </td>
-  </tr>
-</table>
+## 📡 Live Intelligence Feed // Realtime System Logs
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-## ⚙️ System Architectures
-
-### 1. BioWeaver Knowledge Graph Discovery Workflow
-
-```mermaid
-graph TD
-    A["Genomic & Biomedical Data Ingestion"] --> B["Entity Extraction & Ontology Normalization"]
-    B --> C["Knowledge Graph Construction (Neo4j / NetworkX)"]
-    C --> D["Graph Neural Embeddings & Link Prediction Model"]
-    D --> E["Gene-Disease Interaction Scoring"]
-    E --> F["Explainable AI (XAI) Hypothesis Generation"]
-    F --> G["Interactive Biomedical Research Dashboard (React + Flask)"]
-
-    classDef cyan fill:#0D1117,stroke:#00F2FE,stroke-width:2px,color:#00F2FE;
-    classDef blue fill:#0D1117,stroke:#38BDF8,stroke-width:2px,color:#38BDF8;
-    classDef green fill:#0D1117,stroke:#34D399,stroke-width:2px,color:#34D399;
-    classDef purple fill:#0D1117,stroke:#A78BFA,stroke-width:2px,color:#A78BFA;
-
-    class A,B cyan;
-    class C,D blue;
-    class E,F green;
-    class G purple;
-```
-
-### 2. AI Maritime Risk Intelligence Predictive Pipeline
-
-```mermaid
-graph LR
-    M1["Vessel AIS Telemetry"] --> P["Data Preprocessing & Feature Engineering"]
-    M2["Meteorological & Seasonal Data"] --> P
-    M3["Port Queue Historical Logs"] --> P
-    P --> ML["Ensemble Predictive ML Pipeline (XGBoost + Neural Net)"]
-    ML --> R1["Vessel Route Risk Index"]
-    ML --> R2["Port Congestion Forecast"]
-    ML --> R3["Disruption Mitigation Actions"]
-    R1 --> UI["Executive Logistics Command Center"]
-    R2 --> UI
-    R3 --> UI
-
-    classDef nodeStyle fill:#0D1117,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
-    classDef outStyle fill:#0D1117,stroke:#34D399,stroke-width:2px,color:#34D399;
-    classDef uiStyle fill:#0D1117,stroke:#00F2FE,stroke-width:2px,color:#00F2FE;
-
-    class M1,M2,M3,P,ML nodeStyle;
-    class R1,R2,R3 outStyle;
-    class UI uiStyle;
-```
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-## 🧭 Engineering Evolution
-
-<p align="center">
-  <img src="./assets/roadmap.svg" alt="Engineering Evolution Architectural Roadmap" width="100%" />
+  <img src="./assets/live-feed.svg" alt="Live Intelligence Feed Realtime Logs" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🎛️ AI Command Center // Technical Capabilities
+## 🎛️ AI Command Center // Technical Stack
 
 <p align="center">
   <img src="./assets/command-center.svg" alt="AI Command Center Technical Stack Dashboard" width="100%" />
@@ -169,11 +72,73 @@ graph LR
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 🏆 Engineering Milestones & Proven Execution
+## 🚀 Key Built Systems // Compact Matrix
+
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <h4>🧬 BioWeaver</h4>
+      <p><b>Computational Biology</b></p>
+      <p>Knowledge graph intelligence for predicting gene-disease associations &amp; explainable research hypotheses.</p>
+      <p><code>Python</code> <code>Flask</code> <code>React</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🚢 Maritime Risk AI</h4>
+      <p><b>Logistics Intelligence</b></p>
+      <p>Predictive vessel route risk analysis, seasonal forecasting, and container port congestion optimization.</p>
+      <p><code>Python</code> <code>Flask</code> <code>React</code></p>
+    </td>
+    <td width="33%" valign="top">
+      <h4>🦯 SMARTCANE</h4>
+      <p><b>Assistive Technology</b></p>
+      <p>Smart obstacle detection and navigation guidance system for visually impaired individuals.</p>
+      <p><code>IoT</code> <code>Sensors</code> <code>Embedded</code></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🛣️ RoadWatch BIMSTEC</h4>
+      <p><b>Transportation Analytics</b></p>
+      <p>Road infrastructure intelligence with automated hazard telemetry &amp; condition monitoring.</p>
+      <p><code>Analytics</code> <code>GIS</code> <code>Python</code></p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎓 Smart Attendance &amp; Timetable</h4>
+      <p><b>EdTech Automation</b></p>
+      <p>Automated constraint-satisfaction scheduling engine and digitized attendance management.</p>
+      <p><code>Algorithms</code> <code>Automation</code> <code>Python</code></p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
-  <img src="./assets/milestones.svg" alt="Engineering Milestones Verification Log" width="100%" />
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
+
+## 💡 Why I Build // Engineering Manifesto
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔍 01 // Relentless Curiosity &amp; Research</h4>
+      <p>Driven by deep questions in artificial intelligence and complex data systems, with a strong instinct to explore underlying mechanisms rather than treat algorithms as black boxes.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🛠️ 02 // System Thinking &amp; Architecture</h4>
+      <p>Focusing on the complete lifecycle: from data modeling and robust SQL schema design to deployable, scalable machine learning microservices.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🎯 03 // Real-World Problem Solving</h4>
+      <p>Committed to turning theoretical machine learning concepts into tangible software products that automate workflows and generate measurable impact.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>📈 04 // Continuous Learning &amp; Agility</h4>
+      <p>Consistently pushing technical boundaries across modern stacks — exploring MLOps, FastAPI, Docker, and multi-agent AI ecosystems.</p>
+    </td>
+  </tr>
+</table>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
@@ -195,39 +160,10 @@ graph LR
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## 💼 Why Work With Me // Recruiter Brief
-
-<table>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>⚡ 01 // Systems Builder Mindset</h4>
-      <p>I don't just study theoretical algorithms — I architect, code, and deploy end-to-end intelligent applications that solve real-world problems from data ingestion to user interaction.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🎯 02 // Engineering Intelligence From Data</h4>
-      <p>Strong foundation in structured SQL database design, predictive machine learning pipelines, and feature engineering to turn noisy data into reliable predictions.</p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <h4>🔬 03 // Research &amp; Deep-Tech Curiosity</h4>
-      <p>Actively exploring computational biology, graph intelligence, and predictive modeling — eager to tackle challenging domain problems with explainable AI.</p>
-    </td>
-    <td width="50%" valign="top">
-      <h4>🤝 04 // Execution &amp; Continuous Growth</h4>
-      <p>Disciplined builder with a high curiosity quotient, strong problem-solving skills, and the agility to adapt rapidly to modern engineering stacks.</p>
-    </td>
-  </tr>
-</table>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
 ## 🛰️ Mission Control // Live Telemetry
 
 <p align="center">
-  <img src="./assets/footer-hud.svg" alt="Mission Control System Status HUD" width="100%" />
+  <img src="./assets/mission-control.svg" alt="Mission Control System Status HUD" width="100%" />
 </p>
 
 <p align="center">
