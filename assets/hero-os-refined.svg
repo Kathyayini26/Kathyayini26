@@ -68,7 +68,7 @@
     <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#334155" stroke-width="1.2" filter="url(#ref-glow)" />
 
     <circle cx="127" cy="88" r="22" fill="#161B22" stroke="#00F2FE" stroke-width="1.5" />
-    <text x="127" y="92" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">MIND_CORE</text>
+    <text x="127" y="92" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">BRAIN</text>
 
     <circle cx="127" cy="88" r="62" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
     <circle cx="127" cy="88" r="62" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.6">
