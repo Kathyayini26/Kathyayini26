@@ -89,34 +89,34 @@
 
 <table>
   <tr>
-    <td width="50%" valign="top">
+    <td width="33.33%" valign="top">
       <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
         <img src="./assets/card-bioweaver.svg" alt="BioWeaver - Biological Discovery" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/Kathyayini26/AI-Maritime-Risk-Intelligence" target="_blank">
         <img src="./assets/card-maritime.svg" alt="AI Maritime Risk Intelligence" width="100%" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/NivedithaHGN/RoadWatch-BIMSTEC-excluding-INDIA" target="_blank">
         <img src="./assets/card-roadwatch.svg" alt="RoadWatch - Infrastructure Risk" width="100%" />
       </a>
     </td>
-    <td width="50%" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
+  </tr>
+  <tr>
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/Kathyayini26/Smart-Attendence-and-Timetable-generator" target="_blank">
         <img src="./assets/card-attendance.svg" alt="Smart Attendance & TT" width="100%" />
       </a>
     </td>
-  </tr>
-  <tr>
-    <td colspan="2" valign="top">
-      <a href="https://github.com/Kathyayini26" target="_blank">
+    <td width="33.33%" valign="top">
+      <a href="https://github.com/Kathyayini26/SMARTCANE" target="_blank">
         <img src="./assets/card-smartcane.svg" alt="SmartCane - Assistive IoT" width="100%" />
       </a>
+    </td>
+    <td width="33.33%" valign="top">
     </td>
   </tr>
 </table>

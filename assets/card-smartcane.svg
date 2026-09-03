@@ -1,6 +1,6 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1160 205" width="100%" height="100%">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 350 360" width="100%" height="100%">
   <defs>
-    <linearGradient id="cbg-scw" x1="0%" y1="0%" x2="100%" y2="100%">
+    <linearGradient id="vbg-ASS" x1="0%" y1="0%" x2="100%" y2="100%">
       <stop offset="0%" stop-color="#060918" />
       <stop offset="100%" stop-color="#0A1024" />
     </linearGradient>
@@ -10,44 +10,44 @@
       <stop offset="100%" stop-color="#3B82F6" />
     </linearGradient>
 
-    <filter id="cglow-scw" x="-20%" y="-20%" width="140%" height="140%">
+    <filter id="vglow-ASS" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
 
-  <!-- Card Frame (1160x205 spanning full width) -->
-  <rect x="2" y="2" width="1156" height="201" rx="14" fill="url(#cbg-scw)" stroke="#C084FC" stroke-width="1.5" filter="url(#cglow-scw)" />
+  <!-- Card Frame -->
+  <rect x="2" y="2" width="346" height="356" rx="14" fill="url(#vbg-ASS)" stroke="#C084FC" stroke-width="1.5" filter="url(#vglow-ASS)" />
 
   <!-- Top Category Pill Badge -->
-  <g transform="translate(26, 18)">
-    <rect width="130" height="24" rx="12" fill="#2E1065" stroke="#C084FC" stroke-width="1" />
-    <text x="65" y="16" fill="#C084FC" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">ASSISTIVE IOT</text>
+  <g transform="translate(22, 22)">
+    <rect width="121.5" height="26" rx="13" fill="#2E1065" stroke="#C084FC" stroke-width="1" />
+    <text x="60.75" y="17" fill="#C084FC" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">ASSISTIVE IOT</text>
   </g>
 
   <!-- Large Bold Title -->
-  <text x="26" y="74" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20.5" font-weight="800" letter-spacing="-0.3">SmartCane</text>
+  <text x="22" y="82" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="20" font-weight="800" letter-spacing="-0.3">SmartCane</text>
 
-  <!-- Clear 2-Line Description -->
-  <text x="26" y="100" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Intelligent multi-sensor assistive navigation &amp; spatial awareness device</text>
-  <text x="26" y="118" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">providing real-time spatial mapping and adaptive haptic obstacle alerts.</text>
+  <!-- Concise Description -->
+  <text x="22" y="120" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12">Intelligent multi-sensor assistive navigation</text>
+  <text x="22" y="140" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12">device with real-time spatial mapping &amp;</text>
+  <text x="22" y="160" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, sans-serif" font-size="12">adaptive haptic alerts.</text>
+  
 
-  <!-- Bottom Row: Tech Tags (Left) + Explore Button (Fixed Right) -->
-  <g transform="translate(0, 148)">
+  <!-- Tech Tags Row -->
+  <g transform="translate(0, 235)">
     
-      <rect x="26" y="0" width="32.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
-      <text x="42.25" y="18" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="700" text-anchor="middle">C</text>
-      <rect x="68.5" y="0" width="117.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
-      <text x="127.25" y="18" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="700" text-anchor="middle">IoT Sensors</text>
-      <rect x="196.0" y="0" width="168.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
-      <text x="280.25" y="18" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="700" text-anchor="middle">Embedded Firmware</text>
-      <rect x="374.5" y="0" width="151.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
-      <text x="450.25" y="18" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="700" text-anchor="middle">Haptic Feedback</text>
+      <rect x="22" y="0" width="31.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
+      <text x="37.75" y="17.5" fill="#C084FC" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" text-anchor="middle">C</text>
+      <rect x="61.5" y="0" width="46.5" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
+      <text x="84.75" y="17.5" fill="#C084FC" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" text-anchor="middle">IoT</text>
+      <rect x="116.0" y="0" width="84.0" height="28" rx="14" fill="#161B22" stroke="#C084FC" stroke-width="0.9" />
+      <text x="158.0" y="17.5" fill="#C084FC" font-family="'Fira Code', monospace" font-size="10.5" font-weight="600" text-anchor="middle">Firmware</text>
+  </g>
 
-    <!-- Fixed Right-Aligned Explore Button -->
-    <g transform="translate(960, 0)">
-      <rect width="174" height="28" rx="6" fill="url(#btn-blue-grad)" />
-      <text x="87.0" y="18" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="10.5" font-weight="800" letter-spacing="0.4" text-anchor="middle">EXPLORE REPOSITORY &#8594;</text>
-    </g>
+  <!-- Full-Width Centered Blue Action Button -->
+  <g transform="translate(22, 290)">
+    <rect width="306" height="38" rx="8" fill="url(#btn-blue-grad)" />
+    <text x="153" y="23.5" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12" font-weight="800" letter-spacing="0.5" text-anchor="middle">EXPLORE REPOSITORY &#8594;</text>
   </g>
 </svg>
