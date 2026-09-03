@@ -1,0 +1,51 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 140" width="850" height="140">
+  <defs>
+    <linearGradient id="fin-gm-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816" />
+      <stop offset="100%" stop-color="#0A1028" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="140" rx="14" fill="url(#fin-gm-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <g transform="translate(30, 20)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="12" font-weight="800" letter-spacing="1">GITHUB TELEMETRY // REALTIME REPOSITORY ACTIVITY</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700" text-anchor="end">LIVE TELEMETRY &#9679;</text>
+  </g>
+  <line x1="30" y1="38" x2="820" y2="38" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 4 Realistic Telemetry Cards -->
+  <g transform="translate(30, 52)" font-family="'Fira Code', monospace">
+    <!-- 1 -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="68" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+      <text x="14" y="24" fill="#38BDF8" font-size="18" font-weight="800">6</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="10" font-weight="700">Active Repositories</text>
+      <text x="14" y="56" fill="#94A3B8" font-size="8.5">Public Codebases</text>
+    </g>
+
+    <!-- 2 -->
+    <g transform="translate(204, 0)">
+      <rect width="188" height="68" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+      <text x="14" y="24" fill="#34D399" font-size="13" font-weight="800">MACHINE LEARNING</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="10" font-weight="700">Primary Core Focus</text>
+      <text x="14" y="56" fill="#94A3B8" font-size="8.5">Predictive Models</text>
+    </g>
+
+    <!-- 3 -->
+    <g transform="translate(408, 0)">
+      <rect width="188" height="68" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+      <text x="14" y="24" fill="#818CF8" font-size="13" font-weight="800">DATA SCIENCE</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="10" font-weight="700">Analytics &amp; EDA</text>
+      <text x="14" y="56" fill="#94A3B8" font-size="8.5">Statistical Pipelines</text>
+    </g>
+
+    <!-- 4 -->
+    <g transform="translate(612, 0)">
+      <rect width="178" height="68" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+      <text x="14" y="24" fill="#F59E0B" font-size="13" font-weight="800">BACKEND &amp; SQL</text>
+      <text x="14" y="42" fill="#F8FAFC" font-size="10" font-weight="700">Software Systems</text>
+      <text x="14" y="56" fill="#94A3B8" font-size="8.5">FastAPI &amp; MySQL</text>
+    </g>
+  </g>
+</svg>
