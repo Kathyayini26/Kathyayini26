@@ -32,10 +32,10 @@
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## Intelligence Domains
+## Neural Capability Matrix
 
 <p align="center">
-  <img src="./assets/intelligence-domains.svg" alt="Intelligence Domains - Core Disciplines" width="100%" />
+  <img src="./assets/neural-capability-matrix.svg" alt="Neural Capability Matrix - Active System Modules" width="100%" />
 </p>
 
 <p align="center">
