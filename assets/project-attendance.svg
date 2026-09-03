@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="p-att-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#051412" />
+      <stop offset="100%" stop-color="#07201D" />
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="220" rx="10" fill="url(#p-att-bg)" stroke="#34D399" stroke-width="1.2" />
+
+  <!-- Top Info -->
+  <text x="20" y="28" fill="#34D399" font-family="'Fira Code', monospace" font-size="9.5" font-weight="800" letter-spacing="0.5">BIOMETRIC VISION // ATTENDANCE</text>
+  <text x="400" y="28" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700" text-anchor="end">ACTIVE &#9679;</text>
+
+  <!-- Biometric Scanning Reticle Box -->
+  <g transform="translate(130, 48)">
+    <rect width="160" height="120" fill="none" stroke="#34D399" stroke-width="1.5" stroke-dasharray="12 12" />
+    
+    <!-- Laser Scanning Line -->
+    <line x1="0" y1="10" x2="160" y2="10" stroke="#00F2FE" stroke-width="2">
+      <animate attributeName="y1" values="10;110;10" dur="2.5s" repeatCount="indefinite" />
+      <animate attributeName="y2" values="10;110;10" dur="2.5s" repeatCount="indefinite" />
+    </line>
+
+    <!-- Face Keypoints Mesh -->
+    <g transform="translate(80, 60)" stroke="#38BDF8" stroke-width="1.2">
+      <line x1="-25" y1="-15" x2="25" y2="-15" />
+      <line x1="-25" y1="-15" x2="0" y2="10" />
+      <line x1="25" y1="-15" x2="0" y2="10" />
+      <line x1="0" y1="10" x2="-15" y2="30" />
+      <line x1="0" y1="10" x2="15" y2="30" />
+      <line x1="-15" y1="30" x2="15" y2="30" />
+
+      <!-- Nodes -->
+      <circle cx="-25" cy="-15" r="3" fill="#34D399" />
+      <circle cx="25" cy="-15" r="3" fill="#34D399" />
+      <circle cx="0" cy="10" r="3.5" fill="#00F2FE" />
+      <circle cx="-15" cy="30" r="3" fill="#38BDF8" />
+      <circle cx="15" cy="30" r="3" fill="#38BDF8" />
+    </g>
+  </g>
+
+  <!-- Bottom Labels -->
+  <text x="210" y="202" fill="#64748B" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">OPENCV REAL-TIME DETECTION &#8226; TIMETABLE GENERATION</text>
+</svg>

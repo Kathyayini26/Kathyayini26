@@ -1,0 +1,44 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 420 220" width="100%" height="100%">
+  <defs>
+    <linearGradient id="p-rw-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#190F05" />
+      <stop offset="100%" stop-color="#281608" />
+    </linearGradient>
+  </defs>
+
+  <rect width="420" height="220" rx="10" fill="url(#p-rw-bg)" stroke="#F59E0B" stroke-width="1.2" />
+
+  <!-- Top Info -->
+  <text x="20" y="28" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="9.5" font-weight="800" letter-spacing="0.5">GEOSPATIAL TELEMETRY // ROADWATCH</text>
+  <text x="400" y="28" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700" text-anchor="end">SATELLITE SYNC &#9679;</text>
+
+  <!-- Perspective Highway with Anomaly Beacons -->
+  <g transform="translate(210, 110)">
+    <!-- Road Borders -->
+    <line x1="-120" y1="50" x2="-20" y2="-45" stroke="#F59E0B" stroke-width="2" />
+    <line x1="120" y1="50" x2="20" y2="-45" stroke="#F59E0B" stroke-width="2" />
+
+    <!-- Center Dashed Road Markings -->
+    <line x1="0" y1="-40" x2="0" y2="50" stroke="#FDE68A" stroke-width="2" stroke-dasharray="8 6">
+      <animate attributeName="stroke-dashoffset" values="0;28" dur="1.2s" repeatCount="indefinite" />
+    </line>
+
+    <!-- Hazard Anomaly Beacon 1 -->
+    <g transform="translate(-40, 10)">
+      <circle cx="0" cy="0" r="8" fill="#EF4444" opacity="0.4">
+        <animate attributeName="r" values="6;12;6" dur="1.5s" repeatCount="indefinite" />
+      </circle>
+      <circle cx="0" cy="0" r="4" fill="#EF4444" />
+      <text x="0" y="-10" fill="#EF4444" font-family="'Fira Code', monospace" font-size="7" font-weight="800" text-anchor="middle">HAZARD</text>
+    </g>
+
+    <!-- Safe Road Beacon 2 -->
+    <g transform="translate(35, -15)">
+      <circle cx="0" cy="0" r="3.5" fill="#34D399" />
+      <text x="0" y="-8" fill="#34D399" font-family="'Fira Code', monospace" font-size="7" font-weight="800" text-anchor="middle">CLEAR</text>
+    </g>
+  </g>
+
+  <!-- Bottom Labels -->
+  <text x="210" y="202" fill="#64748B" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">GIS HAZARD TELEMETRY &#8226; ANOMALY DETECTION</text>
+</svg>
