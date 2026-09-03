@@ -39,7 +39,7 @@
 ## Technology Stack
 
 <p align="center">
-  <img src="./assets/tech-stack-cards-clean.svg" alt="Technology Stack - 6 Specialized Skill Cards" width="100%" />
+  <img src="./assets/tech-stack-badges.svg" alt="Technology Stack - Development Ecosystem" width="100%" />
 </p>
 
 <p align="center">

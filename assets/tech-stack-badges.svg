@@ -1,0 +1,258 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 880 500" width="100%" height="100%">
+  <defs>
+    <linearGradient id="ts-badge-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050816">
+        <animate attributeName="stop-color" values="#050816; #070B1F; #0A1028; #050816" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="50%" stop-color="#070B1F">
+        <animate attributeName="stop-color" values="#070B1F; #0E122C; #06152B; #070B1F" dur="12s" repeatCount="indefinite" />
+      </stop>
+      <stop offset="100%" stop-color="#0A1028">
+        <animate attributeName="stop-color" values="#0A1028; #050816; #070B1F; #0A1028" dur="12s" repeatCount="indefinite" />
+      </stop>
+    </linearGradient>
+
+    <linearGradient id="ts-badge-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="35%" stop-color="#38BDF8" />
+      <stop offset="70%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+
+    <filter id="ts-badge-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <!-- Outer Frame -->
+  <rect width="880" height="500" rx="16" fill="url(#ts-badge-bg)" stroke="#1E293B" stroke-width="1.8" />
+  <rect x="0" y="0" width="880" height="3.5" rx="1.75" fill="url(#ts-badge-border)" filter="url(#ts-badge-glow)" />
+
+  <!-- Header -->
+  <g transform="translate(32, 22)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="12.5" font-weight="800" letter-spacing="1">TECHNOLOGY STACK // DEVELOPMENT ECOSYSTEM</text>
+    <text x="816" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10.5" font-weight="800" text-anchor="end">TECH VERIFIED &#9679;</text>
+  </g>
+  <line x1="30" y1="42" x2="850" y2="42" stroke="#1E293B" stroke-width="1.2" />
+
+  <!-- 6 CATEGORIES WITH PREMIUM BADGES -->
+
+  <!-- 1. Programming Languages -->
+  <g transform="translate(36, 58)">
+    <text x="0" y="12" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">PROGRAMMING LANGUAGES</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- Python Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="128" height="36" rx="6" fill="#1E3A8A" stroke="#38BDF8" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="20" cy="18" r="9" fill="#0284C7" />
+        <text x="20" y="22" fill="#FFFFFF" font-size="9" text-anchor="middle">&#9889;</text>
+        <text x="72" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">PYTHON</text>
+      </g>
+
+      <!-- SQL Badge -->
+      <g transform="translate(138, 0)">
+        <rect width="105" height="36" rx="6" fill="#1E293B" stroke="#00F2FE" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#0369A1" />
+        <text x="18" y="22" fill="#00F2FE" font-size="9" text-anchor="middle">&#128450;</text>
+        <text x="62" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">SQL</text>
+      </g>
+
+      <!-- C Badge -->
+      <g transform="translate(253, 0)">
+        <rect width="90" height="36" rx="6" fill="#334155" stroke="#94A3B8" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#475569" />
+        <text x="18" y="22" fill="#FFFFFF" font-size="10" font-weight="800" text-anchor="middle">C</text>
+        <text x="52" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">C</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 2. Frameworks & Backend -->
+  <g transform="translate(420, 58)">
+    <text x="0" y="12" fill="#818CF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">FRAMEWORKS &amp; BACKEND</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- Flask Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="112" height="36" rx="6" fill="#0F172A" stroke="#818CF8" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#312E81" />
+        <text x="18" y="22" fill="#818CF8" font-size="10" text-anchor="middle">&#9879;</text>
+        <text x="62" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">FLASK</text>
+      </g>
+
+      <!-- FastAPI Badge -->
+      <g transform="translate(122, 0)">
+        <rect width="128" height="36" rx="6" fill="#064E3B" stroke="#34D399" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#047857" />
+        <text x="18" y="22" fill="#34D399" font-size="9" text-anchor="middle">&#9889;</text>
+        <text x="70" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">FASTAPI</text>
+      </g>
+
+      <!-- REST APIs Badge -->
+      <g transform="translate(260, 0)">
+        <rect width="145" height="36" rx="6" fill="#1E1B4B" stroke="#A78BFA" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#4338CA" />
+        <text x="18" y="22" fill="#C084FC" font-size="9" text-anchor="middle">&#128279;</text>
+        <text x="78" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">REST APIS</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 3. Data Science & Analytics -->
+  <g transform="translate(36, 140)">
+    <text x="0" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">DATA SCIENCE &amp; ANALYTICS</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- Pandas Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="122" height="36" rx="6" fill="#1E293B" stroke="#38BDF8" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#0F172A" />
+        <text x="18" y="22" fill="#38BDF8" font-size="10" text-anchor="middle">&#9632;</text>
+        <text x="66" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">PANDAS</text>
+      </g>
+
+      <!-- NumPy Badge -->
+      <g transform="translate(132, 0)">
+        <rect width="112" height="36" rx="6" fill="#1E3A8A" stroke="#60A5FA" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#1D4ED8" />
+        <text x="18" y="22" fill="#93C5FD" font-size="10" text-anchor="middle">&#9670;</text>
+        <text x="62" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">NUMPY</text>
+      </g>
+
+      <!-- Tableau Badge -->
+      <g transform="translate(254, 0)">
+        <rect width="128" height="36" rx="6" fill="#312E81" stroke="#818CF8" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#4338CA" />
+        <text x="18" y="22" fill="#A5B4FC" font-size="10" text-anchor="middle">&#10010;</text>
+        <text x="70" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">TABLEAU</text>
+      </g>
+
+      <!-- EDA Badge -->
+      <g transform="translate(392, 0)">
+        <rect width="90" height="36" rx="6" fill="#064E3B" stroke="#34D399" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#047857" />
+        <text x="18" y="22" fill="#34D399" font-size="9" text-anchor="middle">&#128202;</text>
+        <text x="52" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">EDA</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 4. Machine Learning -->
+  <g transform="translate(36, 222)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">MACHINE LEARNING</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- ML Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="185" height="36" rx="6" fill="#082F49" stroke="#00F2FE" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#0369A1" />
+        <text x="18" y="22" fill="#00F2FE" font-size="9" text-anchor="middle">&#129504;</text>
+        <text x="98" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">MACHINE LEARNING</text>
+      </g>
+
+      <!-- Scikit-Learn Badge -->
+      <g transform="translate(195, 0)">
+        <rect width="165" height="36" rx="6" fill="#451A03" stroke="#F59E0B" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#B45309" />
+        <text x="18" y="22" fill="#FCD34D" font-size="9" text-anchor="middle">&#9881;</text>
+        <text x="88" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">SCIKIT-LEARN</text>
+      </g>
+
+      <!-- Predictive Modeling Badge -->
+      <g transform="translate(370, 0)">
+        <rect width="200" height="36" rx="6" fill="#14532D" stroke="#22C55E" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#15803D" />
+        <text x="18" y="22" fill="#86EFAC" font-size="9" text-anchor="middle">&#128200;</text>
+        <text x="105" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">PREDICTIVE MODELING</text>
+      </g>
+
+      <!-- Feature Engineering Badge -->
+      <g transform="translate(580, 0)">
+        <rect width="205" height="36" rx="6" fill="#3B0764" stroke="#C084FC" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#7E22CE" />
+        <text x="18" y="22" fill="#E9D5FF" font-size="9" text-anchor="middle">&#9881;</text>
+        <text x="108" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">FEATURE ENGINEERING</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 5. Databases -->
+  <g transform="translate(36, 304)">
+    <text x="0" y="12" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">DATABASES &amp; ARCHITECTURE</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- MySQL Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="115" height="36" rx="6" fill="#0C4A6E" stroke="#38BDF8" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#0284C7" />
+        <text x="18" y="22" fill="#BAE6FD" font-size="9" text-anchor="middle">&#128012;</text>
+        <text x="64" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">MYSQL</text>
+      </g>
+
+      <!-- SQLite Badge -->
+      <g transform="translate(125, 0)">
+        <rect width="118" height="36" rx="6" fill="#1E293B" stroke="#00F2FE" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#0369A1" />
+        <text x="18" y="22" fill="#7DD3FC" font-size="9" text-anchor="middle">&#128450;</text>
+        <text x="65" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">SQLITE</text>
+      </g>
+
+      <!-- Database Design Badge -->
+      <g transform="translate(253, 0)">
+        <rect width="180" height="36" rx="6" fill="#451A03" stroke="#F59E0B" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#B45309" />
+        <text x="18" y="22" fill="#FDE68A" font-size="9" text-anchor="middle">&#9670;</text>
+        <text x="96" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">DATABASE DESIGN</text>
+      </g>
+
+      <!-- Query Optimization Badge -->
+      <g transform="translate(443, 0)">
+        <rect width="205" height="36" rx="6" fill="#1E1B4B" stroke="#818CF8" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#4338CA" />
+        <text x="18" y="22" fill="#C7D2FE" font-size="9" text-anchor="middle">&#9889;</text>
+        <text x="108" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">QUERY OPTIMIZATION</text>
+      </g>
+    </g>
+  </g>
+
+  <!-- 6. Development Tools -->
+  <g transform="translate(36, 386)">
+    <text x="0" y="12" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="800" letter-spacing="0.5">DEVELOPMENT TOOLS &amp; PLATFORMS</text>
+    
+    <g transform="translate(0, 22)" font-family="'Fira Code', monospace" font-size="11" font-weight="700">
+      <!-- Git Badge -->
+      <g transform="translate(0, 0)">
+        <rect width="95" height="36" rx="6" fill="#7C2D12" stroke="#F97316" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#EA580C" />
+        <text x="18" y="22" fill="#FFFFFF" font-size="9" text-anchor="middle">&#9874;</text>
+        <text x="54" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">GIT</text>
+      </g>
+
+      <!-- GitHub Badge -->
+      <g transform="translate(105, 0)">
+        <rect width="118" height="36" rx="6" fill="#18181B" stroke="#A1A1AA" stroke-width="1.2" filter="url(#ts-badge-glow)" />
+        <circle cx="18" cy="18" r="9" fill="#27272A" />
+        <text x="18" y="22" fill="#FFFFFF" font-size="9" text-anchor="middle">&#128025;</text>
+        <text x="65" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">GITHUB</text>
+      </g>
+
+      <!-- VS Code Badge -->
+      <g transform="translate(233, 0)">
+        <rect width="130" height="36" rx="6" fill="#1E3A8A" stroke="#007ACC" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#007ACC" />
+        <text x="18" y="22" fill="#FFFFFF" font-size="9" text-anchor="middle">&#128187;</text>
+        <text x="70" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">VS CODE</text>
+      </g>
+
+      <!-- React Badge -->
+      <g transform="translate(373, 0)">
+        <rect width="112" height="36" rx="6" fill="#082F49" stroke="#00D8FF" stroke-width="1.2" />
+        <circle cx="18" cy="18" r="9" fill="#0284C7" />
+        <text x="18" y="22" fill="#00D8FF" font-size="10" text-anchor="middle">&#9883;</text>
+        <text x="62" y="23" fill="#FFFFFF" font-size="12" letter-spacing="0.5">REACT</text>
+      </g>
+    </g>
+  </g>
+</svg>
