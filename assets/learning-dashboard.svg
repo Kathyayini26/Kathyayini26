@@ -1,0 +1,86 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <linearGradient id="ld-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#091024" />
+    </linearGradient>
+
+    <filter id="ld-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="250" rx="14" fill="url(#ld-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">CURRENT LEARNING DASHBOARD // TRAJECTORY METRICS</text>
+    <text x="790" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">IN PROGRESS &#9679;</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 6 PROGRESS CARDS (2x3) -->
+  <g transform="translate(36, 60)" font-family="'Fira Code', monospace" font-size="10.5">
+    
+    <!-- 1. MLOps -->
+    <g transform="translate(0, 0)">
+      <rect width="370" height="48" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">MLOps</text>
+      <text x="310" y="20" fill="#38BDF8" font-weight="800">80%</text>
+      <rect x="14" y="28" width="340" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="272" height="8" rx="4" fill="#38BDF8" filter="url(#ld-glow)">
+        <animate attributeName="width" values="250;272;250" dur="3s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- 2. FastAPI -->
+    <g transform="translate(395, 0)">
+      <rect width="380" height="48" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">FastAPI</text>
+      <text x="320" y="20" fill="#34D399" font-weight="800">90%</text>
+      <rect x="14" y="28" width="350" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="315" height="8" rx="4" fill="#34D399" filter="url(#ld-glow)" />
+    </g>
+
+    <!-- 3. LLM Agents -->
+    <g transform="translate(0, 58)">
+      <rect width="370" height="48" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">LLM Agents &amp; Frameworks</text>
+      <text x="310" y="20" fill="#818CF8" font-weight="800">70%</text>
+      <rect x="14" y="28" width="340" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="238" height="8" rx="4" fill="#818CF8" filter="url(#ld-glow)">
+        <animate attributeName="width" values="220;238;220" dur="3.5s" repeatCount="indefinite" />
+      </rect>
+    </g>
+
+    <!-- 4. Advanced ML -->
+    <g transform="translate(395, 58)">
+      <rect width="380" height="48" rx="8" fill="#0D1117" stroke="#00F2FE" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">Advanced Machine Learning</text>
+      <text x="320" y="20" fill="#00F2FE" font-weight="800">90%</text>
+      <rect x="14" y="28" width="350" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="315" height="8" rx="4" fill="#00F2FE" filter="url(#ld-glow)" />
+    </g>
+
+    <!-- 5. System Design -->
+    <g transform="translate(0, 116)">
+      <rect width="370" height="48" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">System Design</text>
+      <text x="310" y="20" fill="#C084FC" font-weight="800">75%</text>
+      <rect x="14" y="28" width="340" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="255" height="8" rx="4" fill="#C084FC" filter="url(#ld-glow)" />
+    </g>
+
+    <!-- 6. Cloud Fundamentals -->
+    <g transform="translate(395, 116)">
+      <rect width="380" height="48" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+      <text x="14" y="20" fill="#E2E8F0" font-weight="700">Cloud Fundamentals &amp; Docker</text>
+      <text x="320" y="20" fill="#F59E0B" font-weight="800">80%</text>
+      <rect x="14" y="28" width="350" height="8" rx="4" fill="#161B22" />
+      <rect x="14" y="28" width="280" height="8" rx="4" fill="#F59E0B" filter="url(#ld-glow)">
+        <animate attributeName="width" values="260;280;260" dur="2.8s" repeatCount="indefinite" />
+      </rect>
+    </g>
+  </g>
+</svg>

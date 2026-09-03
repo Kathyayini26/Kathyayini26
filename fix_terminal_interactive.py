@@ -1,0 +1,77 @@
+import xml.etree.ElementTree as ET
+import os
+
+OUTPUT_DIR = r"C:\Users\Kathyayini\.gemini\antigravity\scratch\Kathyayini-12\assets"
+
+terminal_interactive_svg = '''<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 250" width="850" height="250">
+  <defs>
+    <linearGradient id="ti-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#080C16" />
+      <stop offset="100%" stop-color="#04070F" />
+    </linearGradient>
+
+    <linearGradient id="ti-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="250" rx="14" fill="url(#ti-bg)" stroke="url(#ti-border)" stroke-width="1.5" />
+
+  <!-- Top Bar -->
+  <g transform="translate(18, 16)">
+    <circle cx="8" cy="6" r="4.5" fill="#FF5F56" />
+    <circle cx="24" cy="6" r="4.5" fill="#FFBD2E" />
+    <circle cx="40" cy="6" r="4.5" fill="#27C93F" />
+    <text x="60" y="10" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="10.5" font-weight="700">kathyayini@ai-workstation: ~ (zsh)</text>
+    <text x="800" y="10" fill="#34D399" font-family="'Fira Code', monospace" font-size="9.5" font-weight="700" text-anchor="end">&#9889; SESSION_ACTIVE</text>
+  </g>
+  <line x1="15" y1="36" x2="835" y2="36" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Terminal Commands -->
+  <g transform="translate(24, 52)" font-family="'Fira Code', monospace" font-size="11" font-weight="500">
+    <text x="0" y="16">
+      <tspan fill="#38BDF8" font-weight="800">$</tspan> <tspan fill="#F8FAFC">whoami</tspan>
+    </text>
+    <text x="18" y="34" fill="#34D399" font-weight="700">&#8594; Kathyayini Prabhu [AI &amp; Data Science Engineer @ BMSCE Bengaluru]</text>
+
+    <text x="0" y="58">
+      <tspan fill="#38BDF8" font-weight="800">$</tspan> <tspan fill="#F8FAFC">focus</tspan>
+    </text>
+    <text x="18" y="76" fill="#CBD5E1">
+      <tspan fill="#00F2FE">&#9670; Artificial Intelligence</tspan>   
+      <tspan fill="#34D399">&#9670; Machine Learning</tspan>   
+      <tspan fill="#818CF8">&#9670; Data Science</tspan>   
+      <tspan fill="#C084FC">&#9670; Software Engineering</tspan>
+    </text>
+
+    <text x="0" y="100">
+      <tspan fill="#38BDF8" font-weight="800">$</tspan> <tspan fill="#F8FAFC">currently_learning</tspan>
+    </text>
+    <text x="18" y="118" fill="#CBD5E1">
+      <tspan fill="#F59E0B">&#9658; MLOps</tspan>   
+      <tspan fill="#38BDF8">&#9658; FastAPI</tspan>   
+      <tspan fill="#C084FC">&#9658; LLM Agents</tspan>   
+      <tspan fill="#34D399">&#9658; Advanced Machine Learning</tspan>
+    </text>
+
+    <text x="0" y="142">
+      <tspan fill="#38BDF8" font-weight="800">$</tspan> <tspan fill="#F8FAFC">mission</tspan>
+    </text>
+    <text x="18" y="160" fill="#F8FAFC" font-weight="700">&#10024; "Build intelligent systems that transform data into decisions."</text>
+
+    <text x="0" y="184">
+      <tspan fill="#38BDF8" font-weight="800">$</tspan> <tspan fill="#34D399">echo "Engineering Intelligence From Data"</tspan>
+    </text>
+    <rect x="375" y="173" width="7" height="13" fill="#00F2FE">
+      <animate attributeName="opacity" values="1;0;1" dur="0.8s" repeatCount="indefinite" />
+    </rect>
+  </g>
+</svg>'''
+
+ET.fromstring(terminal_interactive_svg)
+path = os.path.join(OUTPUT_DIR, "terminal-interactive.svg")
+with open(path, "w", encoding="utf-8") as f:
+    f.write(terminal_interactive_svg)
+print("terminal-interactive.svg fixed and written successfully!")

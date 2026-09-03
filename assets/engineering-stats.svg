@@ -1,0 +1,66 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160">
+  <defs>
+    <linearGradient id="es-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#0B1024" />
+    </linearGradient>
+
+    <filter id="es-glow" x="-20%" y="-20%" width="140%" height="140%">
+      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feComposite in="SourceGraphic" in2="blur" operator="over" />
+    </filter>
+  </defs>
+
+  <rect width="850" height="160" rx="14" fill="url(#es-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- 4 STATS CARDS -->
+  <g transform="translate(24, 20)">
+    <!-- 1. AI & ML -->
+    <g transform="translate(0, 0)">
+      <rect width="188" height="120" rx="10" fill="#0D1117" stroke="#38BDF8" stroke-width="1.2" filter="url(#es-glow)" />
+      <text x="14" y="28" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="12" font-weight="800">&#129504; AI &amp; ML</text>
+      <line x1="14" y1="36" x2="174" y2="36" stroke="#1E293B" stroke-width="1" />
+      <g transform="translate(14, 54)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#34D399">&#9654;</tspan> Predictive Models</text>
+        <text x="0" y="22"><tspan fill="#34D399">&#9654;</tspan> Feature Engineering</text>
+        <text x="0" y="44"><tspan fill="#34D399">&#9654;</tspan> Data Pipelines</text>
+      </g>
+    </g>
+
+    <!-- 2. Data Science -->
+    <g transform="translate(204, 0)">
+      <rect width="188" height="120" rx="10" fill="#0D1117" stroke="#34D399" stroke-width="1.2" filter="url(#es-glow)" />
+      <text x="14" y="28" fill="#34D399" font-family="'Fira Code', monospace" font-size="12" font-weight="800">&#128202; Data Science</text>
+      <line x1="14" y1="36" x2="174" y2="36" stroke="#1E293B" stroke-width="1" />
+      <g transform="translate(14, 54)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#00F2FE">&#9654;</tspan> Analytics</text>
+        <text x="0" y="22"><tspan fill="#00F2FE">&#9654;</tspan> Visualization</text>
+        <text x="0" y="44"><tspan fill="#00F2FE">&#9654;</tspan> Statistics</text>
+      </g>
+    </g>
+
+    <!-- 3. Software Engineering -->
+    <g transform="translate(408, 0)">
+      <rect width="188" height="120" rx="10" fill="#0D1117" stroke="#818CF8" stroke-width="1.2" filter="url(#es-glow)" />
+      <text x="14" y="28" fill="#818CF8" font-family="'Fira Code', monospace" font-size="12" font-weight="800">&#128187; Software Eng</text>
+      <line x1="14" y1="36" x2="174" y2="36" stroke="#1E293B" stroke-width="1" />
+      <g transform="translate(14, 54)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#818CF8">&#9654;</tspan> Backend Systems</text>
+        <text x="0" y="22"><tspan fill="#818CF8">&#9654;</tspan> REST APIs</text>
+        <text x="0" y="44"><tspan fill="#818CF8">&#9654;</tspan> Version Control</text>
+      </g>
+    </g>
+
+    <!-- 4. Database Systems -->
+    <g transform="translate(612, 0)">
+      <rect width="190" height="120" rx="10" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2" filter="url(#es-glow)" />
+      <text x="14" y="28" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="12" font-weight="800">&#128452; Databases</text>
+      <line x1="14" y1="36" x2="176" y2="36" stroke="#1E293B" stroke-width="1" />
+      <g transform="translate(14, 54)" font-family="'Fira Code', monospace" font-size="10" fill="#E2E8F0">
+        <text x="0" y="0"><tspan fill="#F59E0B">&#9654;</tspan> SQL &amp; MySQL</text>
+        <text x="0" y="22"><tspan fill="#F59E0B">&#9654;</tspan> Query Tuning</text>
+        <text x="0" y="44"><tspan fill="#F59E0B">&#9654;</tspan> Schema Design</text>
+      </g>
+    </g>
+  </g>
+</svg>
