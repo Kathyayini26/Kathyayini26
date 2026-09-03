@@ -90,98 +90,33 @@
 <table>
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/BIOLOGICAL_DISCOVERY-00F2FE?style=for-the-badge&labelColor=064E3B&color=00F2FE" alt="Biological Discovery" />
-      </p>
-      <h3>🧬 BioWeaver</h3>
-      <p>AI platform for gene–disease relationship prediction &amp; discovery hypotheses.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" alt="Scikit-Learn" />
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY_→-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="Explore BioWeaver" />
-        </a>
-      </p>
+      <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
+        <img src="./assets/card-bioweaver.svg" alt="BioWeaver - Biological Discovery" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/MARITIME_LOGISTICS_AI-34D399?style=for-the-badge&labelColor=1E1B4B&color=34D399" alt="Maritime Logistics AI" />
-      </p>
-      <h3>🚢 AI Maritime Risk Intelligence</h3>
-      <p>Logistics intelligence for route risk prediction &amp; port optimization analytics.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black" alt="React" />
-        <img src="https://img.shields.io/badge/Predictive_ML-10B981?style=flat-square&logo=scipy&logoColor=white" alt="Predictive ML" />
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY_→-34D399?style=for-the-badge&logo=github&logoColor=black" alt="Explore Maritime Risk" />
-        </a>
-      </p>
+      <a href="https://github.com/Kathyayini26" target="_blank">
+        <img src="./assets/card-maritime.svg" alt="AI Maritime Risk Intelligence" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/INFRASTRUCTURE_RISK-F59E0B?style=for-the-badge&labelColor=451A03&color=F59E0B" alt="Infrastructure Risk" />
-      </p>
-      <h3>🛣️ RoadWatch</h3>
-      <p>Geospatial hazard telemetry &amp; anomaly detection for road infrastructure safety.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/GIS_Analytics-F59E0B?style=flat-square&logo=openstreetmap&logoColor=white" alt="GIS Analytics" />
-        <img src="https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="Pandas" />
-        <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY_→-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="Explore RoadWatch" />
-        </a>
-      </p>
+      <a href="https://github.com/Kathyayini26" target="_blank">
+        <img src="./assets/card-roadwatch.svg" alt="RoadWatch - Infrastructure Risk" width="100%" />
+      </a>
     </td>
     <td width="50%" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/COMPUTER_VISION_AI-818CF8?style=for-the-badge&labelColor=082F49&color=818CF8" alt="Computer Vision AI" />
-      </p>
-      <h3>📷 Smart Attendance &amp; TT</h3>
-      <p>Automated biometric attendance pipeline paired with timetable scheduling solver.</p>
-      <p>
-        <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-        <img src="https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" alt="OpenCV" />
-        <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-        <img src="https://img.shields.io/badge/Constraint_Solver-6366F1?style=flat-square" alt="Solver" />
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY_→-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Explore Smart Attendance" />
-        </a>
-      </p>
+      <a href="https://github.com/Kathyayini26" target="_blank">
+        <img src="./assets/card-attendance.svg" alt="Smart Attendance & TT" width="100%" />
+      </a>
     </td>
   </tr>
   <tr>
     <td colspan="2" valign="top">
-      <p>
-        <img src="https://img.shields.io/badge/ASSISTIVE_IOT-C084FC?style=for-the-badge&labelColor=2E1065&color=C084FC" alt="Assistive IoT" />
-      </p>
-      <h3>🦯 SmartCane</h3>
-      <p>Intelligent multi-sensor assistive navigation and obstacle avoidance device with adaptive haptic alerts.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=black" alt="C" />
-        <img src="https://img.shields.io/badge/IoT_Sensors-8B5CF6?style=flat-square&logoColor=white" alt="IoT Sensors" />
-        <img src="https://img.shields.io/badge/Embedded_Firmware-A855F7?style=flat-square&logoColor=white" alt="Embedded Firmware" />
-        <img src="https://img.shields.io/badge/Haptic_Feedback-EC4899?style=flat-square" alt="Haptics" />
-      </p>
-      <p>
-        <a href="https://github.com/Kathyayini26" target="_blank">
-          <img src="https://img.shields.io/badge/EXPLORE_REPOSITORY_→-C084FC?style=for-the-badge&logo=github&logoColor=black" alt="Explore SmartCane" />
-        </a>
-      </p>
+      <a href="https://github.com/Kathyayini26" target="_blank">
+        <img src="./assets/card-smartcane.svg" alt="SmartCane - Assistive IoT" width="100%" />
+      </a>
     </td>
   </tr>
 </table>
