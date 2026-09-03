@@ -9,6 +9,10 @@
 > **"Designing and developing intelligent software systems that leverage Artificial Intelligence, Data Science, Machine Learning, and Database Engineering to solve real-world challenges and drive data-driven decision making."**
 
 <p align="center">
+  <img src="./assets/capability-matrix-horizontal.svg" alt="Core Domains" width="100%" />
+</p>
+
+<p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
@@ -26,16 +30,6 @@
 
 <p align="center">
   <img src="./assets/neural-blueprint.svg" alt="Neural Blueprint - Transforming Data Into Intelligent Systems" width="100%" />
-</p>
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-## Neural Capability Matrix
-
-<p align="center">
-  <img src="./assets/capability-matrix-horizontal.svg" alt="Neural Capability Matrix - Core Domains" width="100%" />
 </p>
 
 <p align="center">
