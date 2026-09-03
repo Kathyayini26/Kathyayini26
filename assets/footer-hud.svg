@@ -1,0 +1,56 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 160" width="850" height="160">
+  <defs>
+    <linearGradient id="foot-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#0D0721" />
+    </linearGradient>
+
+    <linearGradient id="foot-border" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="160" rx="14" fill="url(#foot-bg)" stroke="url(#foot-border)" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">MISSION CONTROL // SYSTEM STATUS HUD</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">&#9679; ALL SYSTEMS OPERATIONAL</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Telemetry Grid -->
+  <g transform="translate(30, 62)" font-family="'Fira Code', monospace" font-size="10.5">
+    <!-- Box 1 -->
+    <rect width="185" height="74" rx="6" fill="#0D1117" stroke="#1E293B" stroke-width="0.8" />
+    <text x="12" y="22" fill="#94A3B8">CURRENT OBJECTIVE</text>
+    <text x="12" y="44" fill="#38BDF8" font-weight="700">Build Impactful</text>
+    <text x="12" y="60" fill="#38BDF8" font-weight="700">AI Systems</text>
+
+    <!-- Box 2 -->
+    <g transform="translate(198, 0)">
+      <rect width="185" height="74" rx="6" fill="#0D1117" stroke="#1E293B" stroke-width="0.8" />
+      <text x="12" y="22" fill="#94A3B8">DOMAIN &amp; FOCUS</text>
+      <text x="12" y="44" fill="#34D399" font-weight="700">Artificial Intelligence</text>
+      <text x="12" y="60" fill="#CBD5E1">ML &amp; Research</text>
+    </g>
+
+    <!-- Box 3 -->
+    <g transform="translate(396, 0)">
+      <rect width="185" height="74" rx="6" fill="#0D1117" stroke="#1E293B" stroke-width="0.8" />
+      <text x="12" y="22" fill="#94A3B8">BASE LOCATION</text>
+      <text x="12" y="44" fill="#818CF8" font-weight="700">Bengaluru, India</text>
+      <text x="12" y="60" fill="#CBD5E1">BMSCE Campus</text>
+    </g>
+
+    <!-- Box 4 -->
+    <g transform="translate(594, 0)">
+      <rect width="196" height="74" rx="6" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+      <text x="12" y="22" fill="#94A3B8">SYSTEM STATUS</text>
+      <text x="12" y="44" fill="#34D399" font-weight="800">ONLINE &#9679;</text>
+      <text x="12" y="60" fill="#00F2FE">Ready for Opportunities</text>
+    </g>
+  </g>
+</svg>

@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 180" width="850" height="180">
+  <defs>
+    <linearGradient id="mile-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#091024" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="180" rx="14" fill="url(#mile-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">ENGINEERING MILESTONES // PROVEN EXECUTION</text>
+    <text x="790" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10" text-anchor="end">VERIFIED BUILD LOGS</text>
+  </g>
+  <line x1="30" y1="44" x2="820" y2="44" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 3 Impact Cards -->
+  <g transform="translate(30, 58)">
+    <!-- Card 1 -->
+    <rect width="250" height="102" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="14" y="24" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9670; BioWeaver Platform</text>
+    <text x="14" y="44" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">Engineered Knowledge Graph</text>
+    <text x="14" y="60" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">for Gene-Disease Hypothesis</text>
+    <text x="14" y="84" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">STATUS: ACTIVE RESEARCH</text>
+
+    <!-- Card 2 -->
+    <g transform="translate(268, 0)">
+      <rect width="250" height="102" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+      <text x="14" y="24" fill="#818CF8" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9670; Maritime Risk Engine</text>
+      <text x="14" y="44" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">Developed AI Logistics</text>
+      <text x="14" y="60" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">&amp; Route Forecasting Models</text>
+      <text x="14" y="84" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">STATUS: CORE DEPLOYED</text>
+    </g>
+
+    <!-- Card 3 -->
+    <g transform="translate(536, 0)">
+      <rect width="254" height="102" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+      <text x="14" y="24" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9670; Assistive SMARTCANE</text>
+      <text x="14" y="44" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">Built intelligent sensing</text>
+      <text x="14" y="60" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9.5">&amp; navigation guidance hardware</text>
+      <text x="14" y="84" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">STATUS: PROTOTYPE COMPLETE</text>
+    </g>
+  </g>
+</svg>

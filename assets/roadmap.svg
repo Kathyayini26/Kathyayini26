@@ -1,0 +1,75 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 380" width="850" height="380">
+  <defs>
+    <linearGradient id="road-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#0A0F24" />
+    </linearGradient>
+
+    <linearGradient id="road-line" x1="0%" y1="0%" x2="0%" y2="100%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="50%" stop-color="#818CF8" />
+      <stop offset="100%" stop-color="#C084FC" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="380" rx="14" fill="url(#road-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Title Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">ENGINEERING EVOLUTION // ARCHITECTURAL TIMELINE</text>
+    <text x="790" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10" text-anchor="end">CONTINUOUS INNOVATION &#9654;</text>
+  </g>
+
+  <line x1="30" y1="46" x2="820" y2="46" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Center Glowing Spine Line -->
+  <line x1="425" y1="70" x2="425" y2="340" stroke="url(#road-line)" stroke-width="2.5" stroke-dasharray="6 4" />
+
+  <!-- STAGE 1: SMARTCANE (Left) -->
+  <g transform="translate(110, 65)">
+    <rect width="280" height="42" rx="8" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="14" y="20" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="11" font-weight="800">1. SMARTCANE</text>
+    <text x="14" y="34" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="9">Assistive IoT Navigation for Visually Impaired</text>
+  </g>
+  <circle cx="425" cy="86" r="6" fill="#00F2FE" />
+
+  <!-- STAGE 2: Smart Attendance (Right) -->
+  <g transform="translate(460, 115)">
+    <rect width="280" height="42" rx="8" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <text x="14" y="20" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="11" font-weight="800">2. Smart Attendance &amp; Timetable</text>
+    <text x="14" y="34" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="9">Automated EdTech Optimization System</text>
+  </g>
+  <circle cx="425" cy="136" r="6" fill="#34D399" />
+
+  <!-- STAGE 3: RoadWatch BIMSTEC (Left) -->
+  <g transform="translate(110, 165)">
+    <rect width="280" height="42" rx="8" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <text x="14" y="20" fill="#FFFFFF" font-family="'Fira Code', monospace" font-size="11" font-weight="800">3. RoadWatch BIMSTEC</text>
+    <text x="14" y="34" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="9">Transportation &amp; Infrastructure Analytics</text>
+  </g>
+  <circle cx="425" cy="186" r="6" fill="#F59E0B" />
+
+  <!-- STAGE 4: BioWeaver (Right) -->
+  <g transform="translate(460, 215)">
+    <rect width="280" height="42" rx="8" fill="#0D1117" stroke="#818CF8" stroke-width="1.2" />
+    <text x="14" y="20" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="11" font-weight="800">4. BioWeaver</text>
+    <text x="14" y="34" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9">AI Knowledge Graphs &#8226; Gene-Disease Discovery</text>
+  </g>
+  <circle cx="425" cy="236" r="6.5" fill="#818CF8" />
+
+  <!-- STAGE 5: AI Maritime Risk (Left) -->
+  <g transform="translate(110, 265)">
+    <rect width="280" height="42" rx="8" fill="#0D1117" stroke="#C084FC" stroke-width="1.2" />
+    <text x="14" y="20" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="11" font-weight="800">5. AI Maritime Risk Intelligence</text>
+    <text x="14" y="34" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="9">Logistics Intelligence &#8226; Port Risk Forecasting</text>
+  </g>
+  <circle cx="425" cy="286" r="6.5" fill="#C084FC" />
+
+  <!-- STAGE 6: Future AI Research (Right) -->
+  <g transform="translate(460, 315)">
+    <rect width="280" height="42" rx="8" fill="#161B22" stroke="#00F2FE" stroke-width="1.5" />
+    <text x="14" y="20" fill="#34D399" font-family="'Fira Code', monospace" font-size="11" font-weight="800">&#9733; Future AI Research Systems</text>
+    <text x="14" y="34" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="9">Explainable AI &amp; Autonomous Agent Frameworks</text>
+  </g>
+  <circle cx="425" cy="336" r="7.5" fill="#00F2FE" />
+</svg>

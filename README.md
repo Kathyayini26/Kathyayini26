@@ -1,101 +1,234 @@
 <p align="center">
-  <img src="./assets/header-v22.svg" alt="Kathyayini Prabhu - 3rd Year AI & Data Science Student Header with Python Code Runner" width="100%" />
+  <img src="./assets/hero-os.svg" alt="Kathyayini Prabhu - AI Operating System Hero Control Center" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=18&pause=1200&color=38BDF8&center=true&vCenter=true&width=650&height=40&lines=Kathyayini+Prabhu;3rd+Year+AI+%26+Data+Science+Student;Building+AI%2C+SQL+%26+Machine+Learning+Software;Exploring+Data+Science+%26+Predictive+Models" alt="Typing Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=19&pause=1200&color=00F2FE&center=true&vCenter=true&width=700&height=45&lines=AI+Engineer+in+Progress;Building+Intelligent+Systems;Transforming+Data+Into+Decisions;Exploring+Machine+Learning+%26+Research;Engineering+Intelligence+From+Data" alt="Typing Subtitle Header" />
 </p>
 
-> **Kathyayini Prabhu | 3rd Year AI & Data Science Student @ BMSCE | Building practical software solutions through Artificial Intelligence, Machine Learning, Data Science, SQL, and continuous learning.**
-
-<p align="center">
-  <img src="./assets/grid-v3.svg" width="100%" alt="Core Technical Pillars: Data Science, Machine Learning, SQL & Database, Artificial Intelligence" />
-</p>
-
----
-
-### About Me
-
-I'm a 3rd Year Artificial Intelligence & Data Science student at **BMS College of Engineering (BMSCE)**, Bengaluru.
-
-I enjoy building practical software solutions, developing predictive machine learning models, analyzing datasets, working with relational database architectures, and continuously improving my development and problem-solving skills. My interests span artificial intelligence, machine learning, data science, SQL database design, and algorithm optimization, with a focus on creating impactful real-world projects.
+> **"Building intelligent systems that transform complex information into actionable decisions through Artificial Intelligence, Machine Learning, Data Science, and Software Engineering."**
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### Education
-
-* **B.E. in Artificial Intelligence & Data Science**  
-  **BMS College of Engineering (BMSCE)** — Bengaluru, Karnataka, India  
-  *(3rd Year Undergraduate)*
+## 📟 Interactive AI Terminal
 
 <p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-### Current Focus
-
-- **Machine Learning & Predictive Modeling** — Developing predictive algorithms, feature pipelines & ML systems
-- **Artificial Intelligence** — Building intelligent applications for domain challenges
-- **Data Science** — Extracting actionable insights from structured & unstructured datasets
-- **SQL & Database Architecture** — Designing relational database schemas and optimizing complex SQL queries
-- **Building Real-World Projects** — Transforming concepts into robust software solutions
-
----
-
-### Currently Learning
-
-- **Advanced Machine Learning & AI** — Feature engineering, model evaluation & algorithm tuning
-- **Advanced Data Science** — Creating data stories, statistical modeling & data analytics
-- **Relational Databases & SQL** — Advanced SQL querying, indexing, and data modeling
-- **Advanced Python Development** — Object-oriented architecture, async execution & clean code practices
-
-<p align="center">
-  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
-</p>
-
-### Technical Skills
-
-#### **Languages**
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=c&logoColor=white" alt="C" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
-</p>
-
-#### **Frameworks & Tools**
-<p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
-  &nbsp;
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="./assets/terminal-ai.svg" alt="Interactive AI Command Line Terminal" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### Featured Projects
+## 🌌 Project Galaxy // Connected Intelligence Nodes
 
 <p align="center">
-  <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
-    <img src="./assets/projects-v4.svg" width="100%" alt="Featured Projects Showcase: BioWeaver & AI Maritime Risk Intelligence" />
-  </a>
+  <img src="./assets/galaxy.svg" alt="Project Galaxy Architecture Topology" width="100%" />
 </p>
 
 <p align="center">
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-### Connect With Me
+## 🚀 Featured AI & Software Projects
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🧬 01 // BioWeaver</h3>
+      <p><b>Category:</b> <code>Computational Biology</code> &nbsp;|&nbsp; <b>Status:</b> <code>Active Research &amp; Dev</code></p>
+      <p>AI-powered biological discovery platform integrating multi-relational knowledge graphs to predict gene-disease associations and generate explainable biomedical research hypotheses.</p>
+      <ul>
+        <li><b>Knowledge Graph Intelligence:</b> Multi-relational graph embedding pipelines</li>
+        <li><b>Gene-Disease Prediction:</b> Link prediction across biological ontology entities</li>
+        <li><b>Explainable AI (XAI):</b> Traceable reasoning paths for researchers</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Knowledge Graphs</code></p>
+      <p>
+        <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="BioWeaver Repo" />
+        </a>
+      </p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🚢 02 // AI Maritime Risk Intelligence</h3>
+      <p><b>Category:</b> <code>Logistics Intelligence</code> &nbsp;|&nbsp; <b>Status:</b> <code>Active Development</code></p>
+      <p>Intelligent maritime analytics platform engineered for vessel route risk prediction, seasonal disruption forecasting, and container port congestion optimization.</p>
+      <ul>
+        <li><b>Route Risk Analysis:</b> Predictive threat &amp; weather pattern modeling</li>
+        <li><b>Seasonal Forecasting:</b> Multi-variable time-series logistics forecasts</li>
+        <li><b>Port Congestion Optimization:</b> Real-time vessel queue algorithms</li>
+      </ul>
+      <p><b>Stack:</b> <code>Python</code> <code>Flask</code> <code>React</code> <code>Predictive ML</code></p>
+      <p>
+        <a href="https://github.com/Kathyayini26" target="_blank">
+          <img src="https://img.shields.io/badge/GitHub-View_Repository-38BDF8?style=for-the-badge&logo=github&logoColor=black" alt="Maritime Repo" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🦯 03 // SMARTCANE</h3>
+      <p><b>Category:</b> <code>Assistive Technology &amp; IoT</code></p>
+      <p>Smart navigation and obstacle detection system designed to empower visually impaired individuals through intelligent multi-sensor spatial guidance and real-time haptic alerts.</p>
+      <p><b>Highlights:</b> Ultrasonic spatial mapping, adaptive tactile feedback, emergency telemetry.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🎓 04 // Smart Attendance &amp; Timetable Generator</h3>
+      <p><b>Category:</b> <code>Education Technology &amp; Automation</code></p>
+      <p>Automated scheduling engine that solves multi-variable resource constraints to generate collision-free academic timetables paired with digitized attendance tracking.</p>
+      <p><b>Highlights:</b> Constraint satisfaction solver, algorithmic optimization, automated reporting.</p>
+    </td>
+  </tr>
+  <tr>
+    <td colspan="2" valign="top">
+      <h3>🛣️ 05 // RoadWatch BIMSTEC</h3>
+      <p><b>Category:</b> <code>Transportation Analytics &amp; Infrastructure Monitoring</code></p>
+      <p>Regional road quality and infrastructure intelligence platform featuring automated road-hazard telemetry, geospatial condition mapping, and traffic flow monitoring.</p>
+      <p><b>Highlights:</b> Geospatial data analytics, road anomaly classification, municipal decision dashboards.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## ⚙️ System Architectures
+
+### 1. BioWeaver Knowledge Graph Discovery Workflow
+
+```mermaid
+graph TD
+    A["Genomic & Biomedical Data Ingestion"] --> B["Entity Extraction & Ontology Normalization"]
+    B --> C["Knowledge Graph Construction (Neo4j / NetworkX)"]
+    C --> D["Graph Neural Embeddings & Link Prediction Model"]
+    D --> E["Gene-Disease Interaction Scoring"]
+    E --> F["Explainable AI (XAI) Hypothesis Generation"]
+    F --> G["Interactive Biomedical Research Dashboard (React + Flask)"]
+
+    classDef cyan fill:#0D1117,stroke:#00F2FE,stroke-width:2px,color:#00F2FE;
+    classDef blue fill:#0D1117,stroke:#38BDF8,stroke-width:2px,color:#38BDF8;
+    classDef green fill:#0D1117,stroke:#34D399,stroke-width:2px,color:#34D399;
+    classDef purple fill:#0D1117,stroke:#A78BFA,stroke-width:2px,color:#A78BFA;
+
+    class A,B cyan;
+    class C,D blue;
+    class E,F green;
+    class G purple;
+```
+
+### 2. AI Maritime Risk Intelligence Predictive Pipeline
+
+```mermaid
+graph LR
+    M1["Vessel AIS Telemetry"] --> P["Data Preprocessing & Feature Engineering"]
+    M2["Meteorological & Seasonal Data"] --> P
+    M3["Port Queue Historical Logs"] --> P
+    P --> ML["Ensemble Predictive ML Pipeline (XGBoost + Neural Net)"]
+    ML --> R1["Vessel Route Risk Index"]
+    ML --> R2["Port Congestion Forecast"]
+    ML --> R3["Disruption Mitigation Actions"]
+    R1 --> UI["Executive Logistics Command Center"]
+    R2 --> UI
+    R3 --> UI
+
+    classDef nodeStyle fill:#0D1117,stroke:#38BDF8,stroke-width:2px,color:#F8FAFC;
+    classDef outStyle fill:#0D1117,stroke:#34D399,stroke-width:2px,color:#34D399;
+    classDef uiStyle fill:#0D1117,stroke:#00F2FE,stroke-width:2px,color:#00F2FE;
+
+    class M1,M2,M3,P,ML nodeStyle;
+    class R1,R2,R3 outStyle;
+    class UI uiStyle;
+```
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🧭 Engineering Evolution
+
+<p align="center">
+  <img src="./assets/roadmap.svg" alt="Engineering Evolution Architectural Roadmap" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🎛️ AI Command Center // Technical Capabilities
+
+<p align="center">
+  <img src="./assets/command-center.svg" alt="AI Command Center Technical Stack Dashboard" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🏆 Engineering Milestones & Proven Execution
+
+<p align="center">
+  <img src="./assets/milestones.svg" alt="Engineering Milestones Verification Log" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 📊 Live GitHub Telemetry & Activity
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Kathyayini26&show_icons=true&theme=tokyonight&hide_border=true&bg_color=050814&title_color=00F2FE&text_color=CBD5E1&icon_color=38BDF8" height="155" alt="GitHub Stats" />
+  &nbsp;
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Kathyayini26&theme=tokyonight&hide_border=true&background=050814&ring=00F2FE&fire=38BDF8&currStreakLabel=00F2FE" height="155" alt="Streak Stats" />
+</p>
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/output/github-contribution-grid-snake.svg" alt="Contribution Snake Animation" width="100%" />
+</p>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 💼 Why Work With Me // Recruiter Brief
+
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>⚡ 01 // Systems Builder Mindset</h4>
+      <p>I don't just study theoretical algorithms — I architect, code, and deploy end-to-end intelligent applications that solve real-world problems from data ingestion to user interaction.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🎯 02 // Engineering Intelligence From Data</h4>
+      <p>Strong foundation in structured SQL database design, predictive machine learning pipelines, and feature engineering to turn noisy data into reliable predictions.</p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h4>🔬 03 // Research &amp; Deep-Tech Curiosity</h4>
+      <p>Actively exploring computational biology, graph intelligence, and predictive modeling — eager to tackle challenging domain problems with explainable AI.</p>
+    </td>
+    <td width="50%" valign="top">
+      <h4>🤝 04 // Execution &amp; Continuous Growth</h4>
+      <p>Disciplined builder with a high curiosity quotient, strong problem-solving skills, and the agility to adapt rapidly to modern engineering stacks.</p>
+    </td>
+  </tr>
+</table>
+
+<p align="center">
+  <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
+</p>
+
+## 🛰️ Mission Control // Live Telemetry
+
+<p align="center">
+  <img src="./assets/footer-hud.svg" alt="Mission Control System Status HUD" width="100%" />
+</p>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/kathyayini-prabhu-6145a4337/" target="_blank">

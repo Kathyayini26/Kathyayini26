@@ -1,0 +1,78 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 300" width="850" height="300">
+  <defs>
+    <linearGradient id="gal-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#040610" />
+      <stop offset="100%" stop-color="#0D0721" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="300" rx="14" fill="url(#gal-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#818CF8" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">PROJECT GALAXY // INTERCONNECTED INTELLIGENCE NODES</text>
+    <text x="790" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10" text-anchor="end">GRAPH TOPOLOGY</text>
+  </g>
+  <line x1="30" y1="46" x2="820" y2="46" stroke="#1E293B" stroke-width="1" />
+
+  <!-- Starfield & Nodes -->
+  <g transform="translate(425, 175)">
+    <!-- Orbits -->
+    <ellipse cx="0" cy="0" rx="360" ry="85" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3" />
+    <ellipse cx="0" cy="0" rx="220" ry="55" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
+
+    <!-- Center Core Node -->
+    <circle cx="0" cy="0" r="32" fill="#0D1117" stroke="#00F2FE" stroke-width="2" />
+    <circle cx="0" cy="0" r="26" fill="#161B22" />
+    <text x="0" y="-4" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">KATHYAYINI</text>
+    <text x="0" y="10" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">AI CORE</text>
+
+    <!-- Synapses -->
+    <line x1="0" y1="0" x2="-260" y2="-50" stroke="#38BDF8" stroke-width="1.2" opacity="0.6" />
+    <line x1="0" y1="0" x2="-140" y2="45" stroke="#34D399" stroke-width="1.2" opacity="0.6" />
+    <line x1="0" y1="0" x2="0" y2="-65" stroke="#818CF8" stroke-width="1.2" opacity="0.6" />
+    <line x1="0" y1="0" x2="160" y2="-45" stroke="#C084FC" stroke-width="1.2" opacity="0.6" />
+    <line x1="0" y1="0" x2="260" y2="35" stroke="#F59E0B" stroke-width="1.2" opacity="0.6" />
+    <line x1="0" y1="0" x2="0" y2="65" stroke="#00F2FE" stroke-width="1.2" opacity="0.6" />
+
+    <!-- Node 1: Computational Biology -->
+    <g transform="translate(-260, -50)">
+      <rect x="-70" y="-18" width="140" height="36" rx="18" fill="#0D1117" stroke="#38BDF8" stroke-width="1.2" />
+      <text x="0" y="-2" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">BioWeaver</text>
+      <text x="0" y="10" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">Computational Bio</text>
+    </g>
+
+    <!-- Node 2: Logistics Intelligence -->
+    <g transform="translate(160, -45)">
+      <rect x="-75" y="-18" width="150" height="36" rx="18" fill="#0D1117" stroke="#C084FC" stroke-width="1.2" />
+      <text x="0" y="-2" fill="#C084FC" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">AI Maritime Risk</text>
+      <text x="0" y="10" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">Logistics Intel</text>
+    </g>
+
+    <!-- Node 3: Transportation Analytics -->
+    <g transform="translate(-140, 45)">
+      <rect x="-70" y="-18" width="140" height="36" rx="18" fill="#0D1117" stroke="#34D399" stroke-width="1.2" />
+      <text x="0" y="-2" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">RoadWatch</text>
+      <text x="0" y="10" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">Traffic Analytics</text>
+    </g>
+
+    <!-- Node 4: Assistive Tech -->
+    <g transform="translate(260, 35)">
+      <rect x="-65" y="-18" width="130" height="36" rx="18" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2" />
+      <text x="0" y="-2" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">SMARTCANE</text>
+      <text x="0" y="10" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="7" text-anchor="middle">Assistive IoT</text>
+    </g>
+
+    <!-- Node 5: EdTech Automation -->
+    <g transform="translate(0, -65)">
+      <rect x="-75" y="-16" width="150" height="32" rx="16" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+      <text x="0" y="4" fill="#818CF8" font-family="'Fira Code', monospace" font-size="8" font-weight="800" text-anchor="middle">Smart Attendance &amp; TT</text>
+    </g>
+
+    <!-- Node 6: Future AI Systems -->
+    <g transform="translate(0, 65)">
+      <rect x="-75" y="-16" width="150" height="32" rx="16" fill="#0D1117" stroke="#00F2FE" stroke-width="1.2" />
+      <text x="0" y="4" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8" font-weight="800" text-anchor="middle">&#10024; Future AI Research</text>
+    </g>
+  </g>
+</svg>

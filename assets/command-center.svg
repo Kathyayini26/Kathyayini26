@@ -1,0 +1,90 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 850 280" width="850" height="280">
+  <defs>
+    <linearGradient id="cmd-bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" stop-color="#050814" />
+      <stop offset="100%" stop-color="#0B1021" />
+    </linearGradient>
+  </defs>
+
+  <rect width="850" height="280" rx="14" fill="url(#cmd-bg)" stroke="#1E293B" stroke-width="1.5" />
+
+  <!-- Header -->
+  <g transform="translate(30, 24)">
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="13" font-weight="800" letter-spacing="1">AI COMMAND CENTER // TECHNICAL CAPABILITY TELEMETRY</text>
+    <text x="790" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">STACK READY &#9679;</text>
+  </g>
+  <line x1="30" y1="46" x2="820" y2="46" stroke="#1E293B" stroke-width="1" />
+
+  <!-- 5 TELEMETRY COLUMNS -->
+  
+  <!-- Column 1: Core Languages -->
+  <g transform="translate(30, 60)">
+    <rect width="144" height="200" rx="10" fill="#0D1117" stroke="#38BDF8" stroke-width="1" />
+    <text x="14" y="24" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="10" font-weight="800">01 // LANGUAGES</text>
+    <line x1="14" y1="32" x2="130" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(14, 52)" font-family="'Fira Code', monospace" font-size="10" fill="#F8FAFC">
+      <text x="0" y="0"><tspan fill="#34D399">&#9654;</tspan> Python</text>
+      <text x="0" y="30"><tspan fill="#34D399">&#9654;</tspan> SQL</text>
+      <text x="0" y="60"><tspan fill="#34D399">&#9654;</tspan> C</text>
+    </g>
+  </g>
+
+  <!-- Column 2: AI & ML Stack -->
+  <g transform="translate(190, 60)">
+    <rect width="168" height="200" rx="10" fill="#0D1117" stroke="#34D399" stroke-width="1" />
+    <text x="14" y="24" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="800">02 // AI &amp; ML STACK</text>
+    <line x1="14" y1="32" x2="154" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(14, 52)" font-family="'Fira Code', monospace" font-size="10" fill="#F8FAFC">
+      <text x="0" y="0"><tspan fill="#00F2FE">&#9670;</tspan> Machine Learning</text>
+      <text x="0" y="26"><tspan fill="#00F2FE">&#9670;</tspan> Data Science</text>
+      <text x="0" y="52"><tspan fill="#00F2FE">&#9670;</tspan> Scikit-Learn</text>
+      <text x="0" y="78"><tspan fill="#00F2FE">&#9670;</tspan> Pandas &amp; NumPy</text>
+      <text x="0" y="104"><tspan fill="#00F2FE">&#9670;</tspan> Predictive Models</text>
+    </g>
+  </g>
+
+  <!-- Column 3: Full-Stack & Dev -->
+  <g transform="translate(374, 60)">
+    <rect width="154" height="200" rx="10" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
+    <text x="14" y="24" fill="#818CF8" font-family="'Fira Code', monospace" font-size="10" font-weight="800">03 // DEV ENGINE</text>
+    <line x1="14" y1="32" x2="140" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(14, 52)" font-family="'Fira Code', monospace" font-size="10" fill="#F8FAFC">
+      <text x="0" y="0"><tspan fill="#818CF8">&#9658;</tspan> React</text>
+      <text x="0" y="28"><tspan fill="#818CF8">&#9658;</tspan> Flask</text>
+      <text x="0" y="56"><tspan fill="#818CF8">&#9658;</tspan> Git</text>
+      <text x="0" y="84"><tspan fill="#818CF8">&#9658;</tspan> GitHub</text>
+      <text x="0" y="112"><tspan fill="#818CF8">&#9658;</tspan> REST APIs</text>
+    </g>
+  </g>
+
+  <!-- Column 4: Database Systems -->
+  <g transform="translate(544, 60)">
+    <rect width="134" height="200" rx="10" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
+    <text x="14" y="24" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="10" font-weight="800">04 // DATABASE</text>
+    <line x1="14" y1="32" x2="120" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(14, 52)" font-family="'Fira Code', monospace" font-size="10" fill="#F8FAFC">
+      <text x="0" y="0"><tspan fill="#F59E0B">&#9679;</tspan> MySQL</text>
+      <text x="0" y="28"><tspan fill="#F59E0B">&#9679;</tspan> Relational SQL</text>
+      <text x="0" y="56"><tspan fill="#F59E0B">&#9679;</tspan> Schema Design</text>
+      <text x="0" y="84"><tspan fill="#F59E0B">&#9679;</tspan> Query Tuning</text>
+    </g>
+  </g>
+
+  <!-- Column 5: Currently Exploring -->
+  <g transform="translate(694, 60)">
+    <rect width="126" height="200" rx="10" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
+    <text x="10" y="24" fill="#C084FC" font-family="'Fira Code', monospace" font-size="9" font-weight="800">05 // EXPLORING</text>
+    <line x1="10" y1="32" x2="116" y2="32" stroke="#1E293B" stroke-width="1" />
+
+    <g transform="translate(10, 52)" font-family="'Fira Code', monospace" font-size="10" fill="#CBD5E1">
+      <text x="0" y="0"><tspan fill="#C084FC">&#9733;</tspan> Docker</text>
+      <text x="0" y="28"><tspan fill="#C084FC">&#9733;</tspan> FastAPI</text>
+      <text x="0" y="56"><tspan fill="#C084FC">&#9733;</tspan> MLOps</text>
+      <text x="0" y="84"><tspan fill="#C084FC">&#9733;</tspan> LLM Agents</text>
+    </g>
+  </g>
+</svg>
