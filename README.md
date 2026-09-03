@@ -88,7 +88,31 @@
 ## Intelligence Lab
 
 <p align="center">
-  <img src="./assets/intelligence-lab-showcase.svg" alt="Intelligence Lab - All Featured Systems" width="100%" />
+  <a href="https://github.com/Kathyayini26?tab=repositories" target="_blank">
+    <img src="./assets/intelligence-lab-showcase.svg" alt="Intelligence Lab - All Featured Systems" width="100%" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://github.com/Kathyayini26/bioweaver" target="_blank">
+    <img src="https://img.shields.io/badge/01_BioWeaver-00F2FE?style=for-the-badge&logo=github&logoColor=black" alt="BioWeaver Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/02_Maritime_Risk_AI-34D399?style=for-the-badge&logo=github&logoColor=black" alt="Maritime Risk Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/03_RoadWatch-F59E0B?style=for-the-badge&logo=github&logoColor=black" alt="RoadWatch Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/04_Smart_Attendance-818CF8?style=for-the-badge&logo=github&logoColor=white" alt="Smart Attendance Repo" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Kathyayini26" target="_blank">
+    <img src="https://img.shields.io/badge/05_SmartCane-C084FC?style=for-the-badge&logo=github&logoColor=black" alt="SmartCane Repo" />
+  </a>
 </p>
 
 <p align="center">
