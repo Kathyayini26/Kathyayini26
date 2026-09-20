@@ -125,11 +125,7 @@
   <img src="./assets/divider.svg" width="100%" alt="Section Divider" />
 </p>
 
-## Developer Singularity Engine // QUANTUM ACTIVITY CORE
-
-<p align="center">
-  <img src="./assets/singularity-engine.svg" alt="Developer Singularity Engine - Neural Convergence Reactor" width="100%" />
-</p>
+## Contribution Activity
 
 <p align="center">
   <img src="https://raw.githubusercontent.com/Kathyayini26/Kathyayini26/output/github-contribution-grid-snake-dark.svg" alt="Contribution Activity Grid Snake" width="100%" />
