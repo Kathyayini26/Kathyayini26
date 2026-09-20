@@ -19,6 +19,16 @@
       <stop offset="100%" stop-color="#C084FC" />
     </linearGradient>
 
+    <linearGradient id="meter-grad-cyan" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#00F2FE" />
+      <stop offset="100%" stop-color="#38BDF8" />
+    </linearGradient>
+
+    <linearGradient id="meter-grad-green" x1="0%" y1="0%" x2="100%" y2="0%">
+      <stop offset="0%" stop-color="#10B981" />
+      <stop offset="100%" stop-color="#34D399" />
+    </linearGradient>
+
     <filter id="eng-glow" x="-20%" y="-20%" width="140%" height="140%">
       <feGaussianBlur stdDeviation="2.5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
@@ -67,39 +77,50 @@
     </g>
   </g>
 
-  <!-- Right Orbital Representation (AI, ML, Data Science, SQL) -->
+  <!-- Right Side: AI Engine Live Telemetry Cockpit Panel -->
   <g transform="translate(560, 50)">
-    <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#334155" stroke-width="1.2" filter="url(#eng-glow)" />
+    <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#1E293B" stroke-width="1.4" filter="url(#eng-glow)" />
 
-    <circle cx="127" cy="88" r="22" fill="#161B22" stroke="#00F2FE" stroke-width="1.5" />
-    <text x="127" y="92" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">BRAIN</text>
+    <!-- Mini Header -->
+    <g transform="translate(14, 16)">
+      <rect width="6" height="6" rx="1.5" fill="#00F2FE">
+        <animate attributeName="opacity" values="0.4;1;0.4" dur="1.8s" repeatCount="indefinite" />
+      </rect>
+      <text x="12" y="7" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" letter-spacing="0.5">NEURAL TELEMETRY</text>
+      <text x="227" y="7" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="end">LIVE &#9679;</text>
+    </g>
+    <line x1="14" y1="30" x2="241" y2="30" stroke="#1E293B" stroke-width="1" />
 
-    <circle cx="127" cy="88" r="62" fill="none" stroke="#334155" stroke-width="1" stroke-dasharray="4 4" />
-    <circle cx="127" cy="88" r="62" fill="none" stroke="#38BDF8" stroke-width="1.2" stroke-dasharray="8 6" opacity="0.6">
-      <animateTransform attributeName="transform" type="rotate" from="0 127 88" to="360 127 88" dur="14s" repeatCount="indefinite" />
-    </circle>
-
-    <!-- 4 Orbiting Domain Nodes -->
-    <g transform="translate(127, 26)">
-      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#00F2FE" stroke-width="1.2" />
-      <text x="0" y="3.5" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">AI</text>
+    <!-- Metric 1: Neural Inference Core -->
+    <g transform="translate(14, 44)">
+      <text x="0" y="0" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8" font-weight="600">INFERENCE ENGINE</text>
+      <text x="227" y="0" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="end">99.8% OPTIMAL</text>
+      <rect y="6" width="227" height="5" rx="2.5" fill="#1E293B" />
+      <rect y="6" width="210" height="5" rx="2.5" fill="url(#meter-grad-cyan)">
+        <animate attributeName="width" values="200;222;200" dur="3s" repeatCount="indefinite" />
+      </rect>
     </g>
 
-    <g transform="translate(189, 88)">
-      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#34D399" stroke-width="1.2" />
-      <text x="0" y="3.5" fill="#34D399" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">ML</text>
+    <!-- Metric 2: Data Pipeline Stream -->
+    <g transform="translate(14, 76)">
+      <text x="0" y="0" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8" font-weight="600">DATA PIPELINE</text>
+      <text x="227" y="0" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="end">STREAMING</text>
+      <rect y="6" width="227" height="5" rx="2.5" fill="#1E293B" />
+      <rect y="6" width="220" height="5" rx="2.5" fill="url(#meter-grad-green)">
+        <animate attributeName="width" values="215;227;215" dur="2.4s" repeatCount="indefinite" />
+      </rect>
     </g>
 
-    <g transform="translate(127, 150)">
-      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#38BDF8" stroke-width="1.2" />
-      <text x="0" y="3.5" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">DS</text>
+    <!-- Metric 3: Stack Matrix -->
+    <g transform="translate(14, 108)">
+      <text x="0" y="0" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="8" font-weight="600">PRIMARY ARCHITECTURE</text>
+      <text x="0" y="15" fill="#CBD5E1" font-family="'Fira Code', monospace" font-size="8.5" font-weight="700">Python &#8226; React &#8226; Flask &#8226; SQL</text>
     </g>
 
-    <g transform="translate(65, 88)">
-      <circle cx="0" cy="0" r="14" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2" />
-      <text x="0" y="3.5" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="7.5" font-weight="800" text-anchor="middle">SQL</text>
+    <!-- Bottom Status Badge -->
+    <g transform="translate(14, 142)">
+      <rect width="227" height="22" rx="6" fill="#0A1C28" stroke="#00F2FE" stroke-width="0.8" />
+      <text x="113.5" y="14.5" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">STATUS: READY TO DEPLOY &#10003;</text>
     </g>
-
-    <text x="127.5" y="170" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">ORBITAL SYNCHRONY: ACTIVE</text>
   </g>
 </svg>
