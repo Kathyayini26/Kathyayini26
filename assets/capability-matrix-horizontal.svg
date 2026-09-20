@@ -29,38 +29,38 @@
   <rect width="850" height="145" rx="14" fill="url(#cmh-bg)" stroke="#1E293B" stroke-width="1.8" />
   <rect x="0" y="0" width="850" height="3" rx="1.5" fill="url(#cmh-border)" filter="url(#cmh-glow)" />
 
-  <!-- 4 Horizontal Cards (Side-by-Side matching screenshot) -->
+  <!-- 4 Horizontal Domain Cards -->
   <g transform="translate(18, 18)">
-    <!-- Card 1: DATA SCIENCE (Cyan) -->
+    <!-- Card 1: DATA SCIENCE -->
     <g transform="translate(0, 0)">
       <rect width="194" height="108" rx="10" fill="#0D1117" stroke="#00F2FE" stroke-width="1.2" filter="url(#cmh-glow)" />
       <text x="16" y="32" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">DATA SCIENCE</text>
       <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">Python Analytics</text>
-      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Data Modeling &amp; Stats</text>
+      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">EDA &amp; Data Modeling</text>
     </g>
 
-    <!-- Card 2: MACHINE LEARNING (Green) -->
+    <!-- Card 2: MACHINE LEARNING -->
     <g transform="translate(206, 0)">
       <rect width="194" height="108" rx="10" fill="#0D1117" stroke="#34D399" stroke-width="1.2" filter="url(#cmh-glow)" />
       <text x="16" y="32" fill="#34D399" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">MACHINE LEARNING</text>
       <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">Predictive Models</text>
-      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Algorithms &amp; Pipelines</text>
+      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Pipelines &amp; Inference</text>
     </g>
 
-    <!-- Card 3: SQL & DATABASE (Orange) -->
+    <!-- Card 3: SQL & DATABASES -->
     <g transform="translate(412, 0)">
       <rect width="194" height="108" rx="10" fill="#0D1117" stroke="#F59E0B" stroke-width="1.2" filter="url(#cmh-glow)" />
-      <text x="16" y="32" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">SQL &amp; DATABASE</text>
-      <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">SQL &amp; MySQL</text>
-      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Relational Schemas</text>
+      <text x="16" y="32" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">SQL &amp; DATABASES</text>
+      <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">Relational Schemas</text>
+      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">MySQL &amp; SQLite Queries</text>
     </g>
 
-    <!-- Card 4: ARTIFICIAL INTEL. (Purple) -->
+    <!-- Card 4: WEB & BACKEND -->
     <g transform="translate(618, 0)">
       <rect width="196" height="108" rx="10" fill="#0D1117" stroke="#C084FC" stroke-width="1.2" filter="url(#cmh-glow)" />
-      <text x="16" y="32" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">ARTIFICIAL INTEL.</text>
-      <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">AI Systems</text>
-      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">Intelligent Applications</text>
+      <text x="16" y="32" fill="#C084FC" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="0.5">WEB &amp; BACKEND</text>
+      <text x="16" y="58" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="14.5" font-weight="800">Full Stack Systems</text>
+      <text x="16" y="82" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5" font-weight="500">React, Flask &amp; FastAPI</text>
     </g>
   </g>
 </svg>

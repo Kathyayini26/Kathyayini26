@@ -20,7 +20,7 @@
     </linearGradient>
 
     <filter id="nb-v3-glow" x="-20%" y="-20%" width="140%" height="140%">
-      <feGaussianBlur stdDeviation="2" result="blur" />
+      <feGaussianBlur stdDeviation="2.5" result="blur" />
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
   </defs>
@@ -47,26 +47,26 @@
 
   <!-- Top Header Bar -->
   <g transform="translate(32, 22)">
-    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="12" font-weight="800" letter-spacing="1">NEURAL BLUEPRINT // TRANSFORMING DATA INTO INTELLIGENT SYSTEMS</text>
+    <text x="0" y="12" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="12" font-weight="800" letter-spacing="1">NEURAL BLUEPRINT // ENGINEERING PROFILE</text>
     <text x="856" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">SYS_PROFILE &#9679;</text>
   </g>
   <line x1="30" y1="42" x2="890" y2="42" stroke="#1E293B" stroke-width="1.2" />
 
-  <!-- Narrative Content (Increased Font Size & Balanced Alignment) -->
+  <!-- Narrative Content -->
   <g transform="translate(38, 64)" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif">
     <!-- Line 1: Primary Identity -->
     <text x="0" y="20" fill="#FFFFFF" font-size="15" font-weight="600" letter-spacing="0.2">
-      Third-Year Artificial Intelligence &amp; Data Science student focused on intelligent systems and data-driven solutions.
+      Artificial Intelligence &amp; Data Science student focused on building practical, scalable software solutions.
     </text>
 
     <!-- Line 2: Focus Domains -->
-    <text x="0" y="54" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="13.5" font-weight="700">
-      Machine Learning &#8226; Data Analytics &#8226; SQL Engineering &#8226; Backend Development &#8226; AI Applications
+    <text x="0" y="52" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="13.5" font-weight="700">
+      Machine Learning &#8226; Data Analytics &#8226; SQL Engineering &#8226; Full Stack Systems &#8226; IoT
     </text>
 
-    <!-- Line 3: Mission Summary -->
-    <text x="0" y="84" fill="#CBD5E1" font-size="14" font-weight="400">
-      Transforming data into actionable insights through automation and software engineering.
+    <!-- Line 3: Subtle Developer Joke -->
+    <text x="0" y="82" fill="#94A3B8" font-family="'Fira Code', monospace" font-size="12.5" font-style="italic">
+      &#47;&#47; "Building intelligent systems and occasionally debugging intelligent bugs."
     </text>
 
     <!-- 5 Clean Floating Pill Badges -->
@@ -78,13 +78,13 @@
       <text x="227" y="17" fill="#34D399" font-weight="700" text-anchor="middle">&#9670; Data Analytics</text>
 
       <rect x="306" width="162" height="26" rx="13" fill="#0D1117" stroke="#F59E0B" stroke-width="1" />
-      <text x="387" y="17" fill="#F59E0B" font-weight="700" text-anchor="middle">&#9670; SQL Engineering</text>
+      <text x="387" y="17" fill="#F59E0B" font-weight="700" text-anchor="middle">&#9670; SQL &amp; Schemas</text>
 
       <rect x="478" width="172" height="26" rx="13" fill="#0D1117" stroke="#818CF8" stroke-width="1" />
-      <text x="564" y="17" fill="#818CF8" font-weight="700" text-anchor="middle">&#9670; Backend Development</text>
+      <text x="564" y="17" fill="#818CF8" font-weight="700" text-anchor="middle">&#9670; Full Stack Systems</text>
 
       <rect x="660" width="142" height="26" rx="13" fill="#0D1117" stroke="#C084FC" stroke-width="1" />
-      <text x="731" y="17" fill="#C084FC" font-weight="700" text-anchor="middle">&#9670; AI Applications</text>
+      <text x="731" y="17" fill="#C084FC" font-weight="700" text-anchor="middle">&#9670; IoT &amp; Hardware</text>
     </g>
   </g>
 </svg>

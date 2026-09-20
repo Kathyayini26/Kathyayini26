@@ -1,12 +1,12 @@
 <p align="center">
-  <img src="./assets/hero-constellation-graph.svg" alt="Kathyayini Prabhu - Artificial Intelligence & Data Science Engineer" width="100%" />
+  <img src="./assets/hero-constellation-graph.svg" alt="Kathyayini Prabhu - AI & Data Science Student" width="100%" />
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&height=45&lines=Artificial+Intelligence+%26+Data+Science+Engineer;Machine+Learning+%26+Predictive+Systems;SQL+%26+Database+Engineering;Transforming+Data+Into+Intelligent+Decisions" alt="Typing Subtitle Header" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=18&pause=1200&color=00F2FE&center=true&vCenter=true&width=750&height=45&lines=AI+%26+Data+Science+Student;Software+%26+Data+Engineer;Building+Practical+Solutions;Machine+Learning+%26+Full+Stack" alt="Typing Subtitle Header" />
 </p>
 
-> **"Designing and developing intelligent software systems that leverage Artificial Intelligence, Data Science, Machine Learning, and Database Engineering to solve real-world challenges and drive data-driven decision making."**
+> **"Building practical software and data-driven solutions, with a focus on machine learning, web systems, and problem-solving through real-world engineering."**
 
 <p align="center">
   <img src="./assets/capability-matrix-horizontal.svg" alt="Core Domains" width="100%" />
@@ -29,7 +29,7 @@
 ## Neural Blueprint
 
 <p align="center">
-  <img src="./assets/neural-blueprint.svg" alt="Neural Blueprint - Transforming Data Into Intelligent Systems" width="100%" />
+  <img src="./assets/neural-blueprint.svg" alt="Neural Blueprint - Engineering Profile" width="100%" />
 </p>
 
 <p align="center">
@@ -85,7 +85,7 @@
   <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
 </p>
 
-## Intelligence Lab
+## Featured Projects
 
 <table>
   <tr>
@@ -138,7 +138,7 @@
 ## Mission Control
 
 <p align="center">
-  <img src="./assets/footer-refined.svg" alt="Building Intelligent Solutions Through Data" width="100%" />
+  <img src="./assets/footer-refined.svg" alt="Learning, building, and improving one project at a time." width="100%" />
 </p>
 
 <p align="center">

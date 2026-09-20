@@ -13,11 +13,11 @@
   <line x1="40" y1="22" x2="810" y2="22" stroke="url(#eng-ft-line)" stroke-width="1.5" />
 
   <text x="425" y="48" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="11.5" font-weight="800" letter-spacing="2" text-anchor="middle">
-    ARTIFICIAL INTELLIGENCE &#8226; DATA SCIENCE &#8226; SOFTWARE SYSTEMS
+    DATA SCIENCE &#8226; MACHINE LEARNING &#8226; SOFTWARE ENGINEERING
   </text>
 
-  <text x="425" y="72" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="11" font-weight="600" letter-spacing="1" text-anchor="middle">
-    "Building Intelligent Solutions Through Data"
+  <text x="425" y="72" fill="#F8FAFC" font-family="'Fira Code', monospace" font-size="11" font-weight="600" letter-spacing="0.5" text-anchor="middle">
+    "Learning, building, and improving one project at a time."
   </text>
 
   <line x1="40" y1="96" x2="810" y2="96" stroke="url(#eng-ft-line)" stroke-width="1.5" />

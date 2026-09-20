@@ -42,7 +42,7 @@
     <circle cx="8" cy="8" r="4.5" fill="#FF5F56" />
     <circle cx="24" cy="8" r="4.5" fill="#FFBD2E" />
     <circle cx="40" cy="8" r="4.5" fill="#27C93F" />
-    <text x="60" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10.5" font-weight="700">AI_ENGINEER_DASHBOARD // KATHYAYINI_PRABHU</text>
+    <text x="60" y="12" fill="#64748B" font-family="'Fira Code', monospace" font-size="10.5" font-weight="700">DEVELOPER_WORKSPACE // KATHYAYINI_PRABHU</text>
     <text x="800" y="12" fill="#34D399" font-family="'Fira Code', monospace" font-size="10" font-weight="700" text-anchor="end">SYS.STATUS: ONLINE &#9679;</text>
   </g>
 
@@ -54,38 +54,38 @@
 
     <text x="20" y="34" fill="#FFFFFF" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="28" font-weight="800" letter-spacing="0.5">Kathyayini Prabhu</text>
     
-    <text x="20" y="62" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="14.5" font-weight="700">Artificial Intelligence &amp; Data Science Engineer</text>
+    <text x="20" y="62" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="14.5" font-weight="700">AI &amp; Data Science Student &#8226; Software Builder</text>
     
-    <text x="20" y="88" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Transforming Data Into Intelligent Decisions</text>
-    <text x="20" y="106" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="11.5">Through AI, Analytics &amp; Software Systems</text>
+    <text x="20" y="88" fill="#CBD5E1" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12.5">Building practical software and data-driven solutions</text>
+    <text x="20" y="106" fill="#94A3B8" font-family="-apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, sans-serif" font-size="12">Exploring machine learning, web systems, and problem-solving</text>
 
-    <!-- 4 Skill Pills: AI, ML, Data Science, SQL -->
+    <!-- 4 Skill Pills -->
     <g transform="translate(20, 122)">
-      <rect width="112" height="24" rx="12" fill="#161B22" stroke="#00F2FE" stroke-width="1" />
-      <text x="56" y="16" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">ARTIFICIAL INTEL</text>
+      <rect width="125" height="24" rx="12" fill="#161B22" stroke="#00F2FE" stroke-width="1" />
+      <text x="62.5" y="16" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">DATA ANALYTICS</text>
 
-      <rect x="122" width="125" height="24" rx="12" fill="#161B22" stroke="#34D399" stroke-width="1" />
-      <text x="184.5" y="16" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">MACHINE LEARNING</text>
+      <rect x="135" width="125" height="24" rx="12" fill="#161B22" stroke="#34D399" stroke-width="1" />
+      <text x="197.5" y="16" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">MACHINE LEARNING</text>
 
-      <rect x="257" width="105" height="24" rx="12" fill="#161B22" stroke="#38BDF8" stroke-width="1" />
-      <text x="309.5" y="16" fill="#38BDF8" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">DATA SCIENCE</text>
+      <rect x="270" width="115" height="24" rx="12" fill="#161B22" stroke="#818CF8" stroke-width="1" />
+      <text x="327.5" y="16" fill="#818CF8" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">WEB &amp; BACKEND</text>
 
-      <rect x="372" width="118" height="24" rx="12" fill="#161B22" stroke="#F59E0B" stroke-width="1" />
-      <text x="431" y="16" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">SQL &amp; DATABASES</text>
+      <rect x="395" width="110" height="24" rx="12" fill="#161B22" stroke="#F59E0B" stroke-width="1" />
+      <text x="450" y="16" fill="#F59E0B" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">DATABASES &amp; SQL</text>
     </g>
   </g>
 
-  <!-- Right Side: AI & Data Science Constellation Node Graph -->
+  <!-- Right Side: Constellation Node Graph -->
   <g transform="translate(560, 50)">
     <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#1E293B" stroke-width="1.4" filter="url(#eng-glow)" />
 
-    <!-- Top Category Pill matching user image -->
+    <!-- Top Category Pill -->
     <g transform="translate(20, 16)">
       <rect width="215" height="24" rx="12" fill="#064E3B" stroke="#34D399" stroke-width="1" opacity="0.9" />
       <circle cx="16" cy="12" r="4" fill="#34D399">
         <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
       </circle>
-      <text x="115" y="16" fill="#A7F3D0" font-family="'Fira Code', monospace" font-size="9" font-weight="700" text-anchor="middle">AI &amp; Data Science Engineer</text>
+      <text x="115" y="16" fill="#A7F3D0" font-family="'Fira Code', monospace" font-size="9" font-weight="700" text-anchor="middle">AI &amp; Data Science Student</text>
     </g>
 
     <!-- Faint Background Radar Ring -->
@@ -93,18 +93,14 @@
       <animateTransform attributeName="transform" type="rotate" from="0 127 108" to="360 127 108" dur="30s" repeatCount="indefinite" />
     </circle>
 
-    <!-- ========================================== -->
     <!-- GEOMETRIC CONSTELLATION NETWORK MESH LINES -->
-    <!-- ========================================== -->
     <g stroke-width="1.2" opacity="0.75">
-      <!-- Radial Lines from Center (x=115, y=105) -->
       <line x1="115" y1="105" x2="52" y2="70" stroke="#00F2FE" />
       <line x1="115" y1="105" x2="108" y2="52" stroke="#34D399" stroke-width="1.5" />
       <line x1="115" y1="105" x2="190" y2="82" stroke="#C084FC" />
       <line x1="115" y1="105" x2="150" y2="148" stroke="#818CF8" />
       <line x1="115" y1="105" x2="68" y2="152" stroke="#A7F3D0" />
 
-      <!-- Outer Polygonal Perimeter & Cross Mesh Lines -->
       <line x1="52" y1="70" x2="108" y2="52" stroke="#38BDF8" stroke-width="1" />
       <line x1="108" y1="52" x2="190" y2="82" stroke="#C084FC" stroke-width="1" />
       <line x1="190" y1="82" x2="216" y2="148" stroke="#818CF8" stroke-width="1" />
@@ -114,7 +110,7 @@
       <line x1="68" y1="152" x2="52" y2="70" stroke="#334155" stroke-width="0.9" />
     </g>
 
-    <!-- Animated Firing Pulses along Mesh Lines -->
+    <!-- Animated Firing Pulses -->
     <circle r="2.2" fill="#00F2FE" filter="url(#mesh-glow)">
       <animateMotion path="M 115 105 L 52 70 L 108 52 L 190 82" dur="3s" repeatCount="indefinite" />
     </circle>
@@ -122,28 +118,15 @@
       <animateMotion path="M 115 105 L 150 148 L 216 148 L 190 82" dur="2.6s" repeatCount="indefinite" />
     </circle>
 
-    <!-- ========================================== -->
-    <!-- CONSTELLATION GRAPH NODES                  -->
-    <!-- ========================================== -->
-    <!-- Outer Node 1 (Top Left - Cyan) -->
+    <!-- Outer Nodes -->
     <circle cx="52" cy="70" r="5" fill="#00F2FE" filter="url(#mesh-glow)" />
-
-    <!-- Outer Node 2 (Top Center - Emerald) -->
     <circle cx="108" cy="52" r="4.5" fill="#34D399" filter="url(#mesh-glow)" />
-
-    <!-- Outer Node 3 (Top Right - Lavender Purple) -->
     <circle cx="190" cy="82" r="5.5" fill="#C084FC" filter="url(#mesh-glow)" />
-
-    <!-- Outer Node 4 (Bottom Far Right - Mint) -->
     <circle cx="216" cy="148" r="4.5" fill="#34D399" filter="url(#mesh-glow)" />
-
-    <!-- Outer Node 5 (Bottom Center - Soft Cyan) -->
     <circle cx="150" cy="148" r="5" fill="#38BDF8" filter="url(#mesh-glow)" />
-
-    <!-- Outer Node 6 (Bottom Left - Lime) -->
     <circle cx="68" cy="152" r="4.5" fill="#A7F3D0" filter="url(#mesh-glow)" />
 
-    <!-- Central Glowing Focal Node (Mint Green) -->
+    <!-- Central Glowing Node -->
     <circle cx="115" cy="105" r="9.5" fill="#10B981" filter="url(#mesh-glow)">
       <animate attributeName="r" values="8.5;10.5;8.5" dur="2s" repeatCount="indefinite" />
     </circle>
