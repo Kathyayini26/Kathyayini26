@@ -24,7 +24,7 @@
       <feComposite in="SourceGraphic" in2="blur" operator="over" />
     </filter>
 
-    <filter id="simple-glow" x="-30%" y="-30%" width="160%" height="160%">
+    <filter id="mesh-glow" x="-30%" y="-30%" width="160%" height="160%">
       <feGaussianBlur stdDeviation="2" result="blur" />
       <feMerge>
         <feMergeNode in="blur" />
@@ -75,60 +75,78 @@
     </g>
   </g>
 
-  <!-- Right Side: Simple Clean 3-Node AI Pipeline Graph -->
+  <!-- Right Side: AI & Data Science Constellation Node Graph -->
   <g transform="translate(560, 50)">
     <rect width="255" height="175" rx="12" fill="#0D1117" stroke="#1E293B" stroke-width="1.4" filter="url(#eng-glow)" />
 
-    <!-- Mini Header -->
-    <g transform="translate(14, 16)">
-      <circle cx="3" cy="3" r="3" fill="#00F2FE" />
-      <text x="12" y="7" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" letter-spacing="0.5">INTELLIGENCE PIPELINE</text>
-      <text x="227" y="7" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="end">ONLINE &#9679;</text>
+    <!-- Top Category Pill matching user image -->
+    <g transform="translate(20, 16)">
+      <rect width="215" height="24" rx="12" fill="#064E3B" stroke="#34D399" stroke-width="1" opacity="0.9" />
+      <circle cx="16" cy="12" r="4" fill="#34D399">
+        <animate attributeName="opacity" values="0.5;1;0.5" dur="2s" repeatCount="indefinite" />
+      </circle>
+      <text x="115" y="16" fill="#A7F3D0" font-family="'Fira Code', monospace" font-size="9" font-weight="700" text-anchor="middle">AI &amp; Data Science Engineer</text>
     </g>
-    <line x1="14" y1="28" x2="241" y2="28" stroke="#1E293B" stroke-width="1" />
 
-    <!-- Connecting Flow Path 1 (Data -> Model) -->
-    <line x1="45" y1="88" x2="127" y2="88" stroke="#1E293B" stroke-width="2" />
-    <line x1="45" y1="88" x2="127" y2="88" stroke="#00F2FE" stroke-width="1.5" stroke-dasharray="4 4">
-      <animate attributeName="stroke-dashoffset" values="16;0" dur="1.2s" repeatCount="indefinite" />
-    </line>
-
-    <!-- Connecting Flow Path 2 (Model -> Insights) -->
-    <line x1="127" y1="88" x2="209" y2="88" stroke="#1E293B" stroke-width="2" />
-    <line x1="127" y1="88" x2="209" y2="88" stroke="#34D399" stroke-width="1.5" stroke-dasharray="4 4">
-      <animate attributeName="stroke-dashoffset" values="16;0" dur="1.2s" repeatCount="indefinite" />
-    </line>
-
-    <!-- Animated Flowing Pulses -->
-    <circle r="3" fill="#00F2FE" filter="url(#simple-glow)">
-      <animateMotion path="M 45 88 L 127 88" dur="1.2s" repeatCount="indefinite" />
-    </circle>
-    <circle r="3" fill="#34D399" filter="url(#simple-glow)">
-      <animateMotion path="M 127 88 L 209 88" dur="1.2s" repeatCount="indefinite" />
+    <!-- Faint Background Radar Ring -->
+    <circle cx="127" cy="108" r="45" fill="none" stroke="#1E293B" stroke-width="1" stroke-dasharray="3 3">
+      <animateTransform attributeName="transform" type="rotate" from="0 127 108" to="360 127 108" dur="30s" repeatCount="indefinite" />
     </circle>
 
-    <!-- NODE 1: DATA (Left) -->
-    <g transform="translate(45, 88)">
-      <circle cx="0" cy="0" r="22" fill="#0D1117" stroke="#00F2FE" stroke-width="1.6" filter="url(#simple-glow)" />
-      <text x="0" y="4" fill="#00F2FE" font-family="'Fira Code', monospace" font-size="9" font-weight="800" text-anchor="middle">DATA</text>
-      <text x="0" y="34" fill="#64748B" font-family="'Fira Code', monospace" font-size="7.5" font-weight="600" text-anchor="middle">Input</text>
+    <!-- ========================================== -->
+    <!-- GEOMETRIC CONSTELLATION NETWORK MESH LINES -->
+    <!-- ========================================== -->
+    <g stroke-width="1.2" opacity="0.75">
+      <!-- Radial Lines from Center (x=115, y=105) -->
+      <line x1="115" y1="105" x2="52" y2="70" stroke="#00F2FE" />
+      <line x1="115" y1="105" x2="108" y2="52" stroke="#34D399" stroke-width="1.5" />
+      <line x1="115" y1="105" x2="190" y2="82" stroke="#C084FC" />
+      <line x1="115" y1="105" x2="150" y2="148" stroke="#818CF8" />
+      <line x1="115" y1="105" x2="68" y2="152" stroke="#A7F3D0" />
+
+      <!-- Outer Polygonal Perimeter & Cross Mesh Lines -->
+      <line x1="52" y1="70" x2="108" y2="52" stroke="#38BDF8" stroke-width="1" />
+      <line x1="108" y1="52" x2="190" y2="82" stroke="#C084FC" stroke-width="1" />
+      <line x1="190" y1="82" x2="216" y2="148" stroke="#818CF8" stroke-width="1" />
+      <line x1="190" y1="82" x2="150" y2="148" stroke="#C084FC" stroke-width="1" />
+      <line x1="150" y1="148" x2="216" y2="148" stroke="#34D399" stroke-width="1.2" />
+      <line x1="150" y1="148" x2="68" y2="152" stroke="#334155" stroke-width="0.8" stroke-dasharray="2 2" />
+      <line x1="68" y1="152" x2="52" y2="70" stroke="#334155" stroke-width="0.9" />
     </g>
 
-    <!-- NODE 2: AI MODEL (Center) -->
-    <g transform="translate(127, 88)">
-      <circle cx="0" cy="0" r="26" fill="#0D1117" stroke="#818CF8" stroke-width="1.8" filter="url(#simple-glow)" />
-      <text x="0" y="4" fill="#818CF8" font-family="'Fira Code', monospace" font-size="9.5" font-weight="800" text-anchor="middle">MODEL</text>
-      <text x="0" y="38" fill="#818CF8" font-family="'Fira Code', monospace" font-size="7.5" font-weight="700" text-anchor="middle">AI Engine</text>
-    </g>
+    <!-- Animated Firing Pulses along Mesh Lines -->
+    <circle r="2.2" fill="#00F2FE" filter="url(#mesh-glow)">
+      <animateMotion path="M 115 105 L 52 70 L 108 52 L 190 82" dur="3s" repeatCount="indefinite" />
+    </circle>
+    <circle r="2.2" fill="#34D399" filter="url(#mesh-glow)">
+      <animateMotion path="M 115 105 L 150 148 L 216 148 L 190 82" dur="2.6s" repeatCount="indefinite" />
+    </circle>
 
-    <!-- NODE 3: INSIGHTS (Right) -->
-    <g transform="translate(209, 88)">
-      <circle cx="0" cy="0" r="22" fill="#0D1117" stroke="#34D399" stroke-width="1.6" filter="url(#simple-glow)" />
-      <text x="0" y="4" fill="#34D399" font-family="'Fira Code', monospace" font-size="8.5" font-weight="800" text-anchor="middle">IMPACT</text>
-      <text x="0" y="34" fill="#64748B" font-family="'Fira Code', monospace" font-size="7.5" font-weight="600" text-anchor="middle">Output</text>
-    </g>
+    <!-- ========================================== -->
+    <!-- CONSTELLATION GRAPH NODES                  -->
+    <!-- ========================================== -->
+    <!-- Outer Node 1 (Top Left - Cyan) -->
+    <circle cx="52" cy="70" r="5" fill="#00F2FE" filter="url(#mesh-glow)" />
 
-    <!-- Bottom Flow Status -->
-    <text x="127.5" y="162" fill="#34D399" font-family="'Fira Code', monospace" font-size="8" font-weight="700" text-anchor="middle">END-TO-END PIPELINE &#10003;</text>
+    <!-- Outer Node 2 (Top Center - Emerald) -->
+    <circle cx="108" cy="52" r="4.5" fill="#34D399" filter="url(#mesh-glow)" />
+
+    <!-- Outer Node 3 (Top Right - Lavender Purple) -->
+    <circle cx="190" cy="82" r="5.5" fill="#C084FC" filter="url(#mesh-glow)" />
+
+    <!-- Outer Node 4 (Bottom Far Right - Mint) -->
+    <circle cx="216" cy="148" r="4.5" fill="#34D399" filter="url(#mesh-glow)" />
+
+    <!-- Outer Node 5 (Bottom Center - Soft Cyan) -->
+    <circle cx="150" cy="148" r="5" fill="#38BDF8" filter="url(#mesh-glow)" />
+
+    <!-- Outer Node 6 (Bottom Left - Lime) -->
+    <circle cx="68" cy="152" r="4.5" fill="#A7F3D0" filter="url(#mesh-glow)" />
+
+    <!-- Central Glowing Focal Node (Mint Green) -->
+    <circle cx="115" cy="105" r="9.5" fill="#10B981" filter="url(#mesh-glow)">
+      <animate attributeName="r" values="8.5;10.5;8.5" dur="2s" repeatCount="indefinite" />
+    </circle>
+    <circle cx="115" cy="105" r="5" fill="#FFFFFF" />
   </g>
 </svg>
